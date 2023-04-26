@@ -4,7 +4,9 @@
         <html lang="es">
             <head>
                 <meta charset="utf-8">
-                <title>MediaDUR</title>
+                <title>MediaDUR
+
+                </title>
                 <meta http-equiv="X-UA-Compatible" content="IE=edge">
                 <meta name="keywords" content="HTML5 Template">
                 <meta name="description" content="Mist — Multi-Purpose HTML Template">
@@ -28,6 +30,8 @@
                 <link href="../../css/responsive.css" rel="stylesheet">
                 <link href="../../css/color.css" rel="stylesheet">
                 <link rel="stylesheet" href="./mediadur.css">
+                <link rel="stylesheet" href="./style/M_principalstyle.css">
+                <link rel="stylesheet" href="../../components/navstyle.css">
             </head>
             <body>
                 <div id="page">
@@ -50,10 +54,10 @@
                     <section class="page-section">
                         <div class="container">
                             <ul class="lista-links">
-                                <li><a href="<?php echo $nav->host; ?>/Tabs/SubMediaDUR/M_AbSxInf.php">Abuso Sexual Infantil</a></li>
-                                <li><a href="<?php echo $nav->host; ?>/Tabs/SubMediaDUR/M_AcEs.php">Acoso Escolar</a></li>
-                                <li><a href="<?php echo $nav->host; ?>/Tabs/SubMediaDUR/M_MaIn.php">Maltrato Infantil</a></li>
-                                <li><a href="<?php echo $nav->host; ?>/Tabs/SubMediaDUR/M_MoSe.php">Mochila segura</a></li>
+                                <li class="opcions"><a  href="<?php echo $nav->host; ?>/Tabs/SubMediaDUR/M_AbSxInf.php">Abuso Sexual Infantil</a></li>
+                                <li class="opcions"><a  href="<?php echo $nav->host; ?>/Tabs/SubMediaDUR/M_AcEs.php">Acoso Escolar</a></li>
+                                <li class="opcions"><a  href="<?php echo $nav->host; ?>/Tabs/SubMediaDUR/M_MaIn.php">Maltrato Infantil</a></li>
+                                <li class="opcions"><a  href="<?php echo $nav->host; ?>/Tabs/SubMediaDUR/M_MoSe.php">Mochila segura</a></li>
                             </ul>
                         </div>
                     </section>

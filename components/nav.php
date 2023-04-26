@@ -95,7 +95,7 @@ class Nav {
                     <div class="page-header">
                         <div class="container">
                             <div class="col-md-12">
-                                <h1 class="title text-color2"><?php echo $this->title; ?></h1>
+                                <h1 class="nav-title"><?php echo $this->title; ?></h1>
                             </div>
                         </div>
                     </div>
