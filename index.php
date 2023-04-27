@@ -40,7 +40,7 @@
         <?php
         require 'components/nav.php';
         $nav = new Nav();
-        session_start();
+        // session_start();
         if (!isset($_SESSION['login'])) {
             $_SESSION['login'] = false ;
         }
@@ -56,7 +56,7 @@
                     <!-- Wrapper for slides -->
                     <div class="carousel-inner" role="listbox">
                         <div class="item active">
-                            <img src="Resources/Banners/banner-11.png" alt="" title="" width="2000" height="1080">
+                            <div class="headercontainer">
                             <div class="index-header">
                                 <img class="index-header-img" src="rs-plugin/images/secretario.jpeg" alt="" title="">
                                 <h1 class="upper animation animated-item-1"> Educalaguna.</h1>
@@ -66,6 +66,7 @@
                                     <br>
                                     "Presentacion del Subsecretario Dr. Ulises Adame de León"
                                 </p>
+                            </div>
                             </div>
                         </div>
                     </div>

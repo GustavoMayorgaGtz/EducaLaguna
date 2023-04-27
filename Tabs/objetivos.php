@@ -1,38 +1,5 @@
 <!DOCTYPE html>
 <html lang="es">
-<<<<<<< HEAD
-    <head>
-        <meta charset="utf-8">
-        <title>Acerca de</title>
-        <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <meta name="keywords" content="HTML5 Template">
-        <meta name="description" content="Mist — Multi-Purpose HTML Template">
-        <meta name="author" content="zozothemes.com">
-        <meta name="viewport" conte-nt="width=device-width, initial-scale=1.0">
-        <link rel="shortcut icon" href="../rs-plugin/images/logoicon.png">
-        <link rel='stylesheet' href='http://fonts.googleapis.com/css?family=Arimo:300,400,700,400italic,700italic'>
-        <link href='http://fonts.googleapis.com/css?family=Oswald:400,300,700' rel='stylesheet' type='text/css'>
-        <link href='../css/font-awesome.min.css' rel='stylesheet' type='text/css'/>
-        <link href="../css/bootstrap.min.css" rel="stylesheet">
-        <link href="../css/hover-dropdown-menu.css" rel="stylesheet">
-        <link href="../css/icons.css" rel="stylesheet">
-        <link href="../css/revolution-slider.css" rel="stylesheet">
-        <link href="../rs-plugin/css/settings.css" rel="stylesheet">
-        <link href="../css/animate.min.css" rel="stylesheet">
-        <link href="../css/owl/owl.carousel.css" rel="stylesheet" >
-        <link href="../css/owl/owl.theme.css" rel="stylesheet" >
-        <link href="../css/owl/owl.transitions.css" rel="stylesheet" >
-        <link href="../css/prettyPhoto.css" rel="stylesheet">
-        <link href="../css/style.css" rel="stylesheet">
-		<link href="../css/responsive.css" rel="stylesheet">
-        <link href="../css/color.css" rel="stylesheet">
-        <link rel="stylesheet" href="../components/navstyle.css">
-        <link rel="stylesheet" href="style/objetivosstyle.css">
-    </head>
-    <body>
-        <div id="page">		
-=======
->>>>>>> a3a577a8d3a9bcf47bd8ee6877b24e97d05ae664
 
 <head>
     <meta charset="utf-8">
@@ -65,32 +32,6 @@
 <body>
     <div id="page">
 
-<<<<<<< HEAD
-            <!-- RELLENO-->
-            <section class="page-section">
-                <div class="container">
-                    <h4 class="titles-im">Mision</h4>
-                    <div class="row">
-                        <div class="col-md-12" style="font-style: italic">Ofrecer una educación de calidad, integral, participativa, innovadora y promotora del aprendizaje que nos permita formar personas comprometidas con el desarrollo sostenible, capaces de elevar su nivel de vida, el desarrollo personal y la formación de capital humano, que contribuya al impulso del desarrollo económico y social del Estado.</div>
-                    </div>
-                    <br>
-                    <h4 class="titles-im">Vision</h4>
-                    <div class="row">
-                        <div class="col-md-12" style="font-style: italic">Ser un sistema educativo solido con una educación para todos, con sentido humano y social, que orienta su actuación bajo el impulso de la equidad, la rendición de cuentas, la transparencia y ofrece servicios educativos, administrativos con eficiencia, calidad y pertinencia.</div>
-                    </div>
-                    <br>
-                    <h4 class="titles-im">Objetivo</h4>
-                    <div class="row">
-                        <div class="col-md-12">La Secretaría de Educación, instancia rectora de la política educativa, posee una actividad funcional que considera la planeación, operación y control de actividades diversas, cuya conducción está a cargo de un equipo humano multidisciplinario, que labora en espacios físicos variados, integrando un conjunto de fuerzas en movimiento, ha operado con elevados niveles de efectividad, para ofrecer el servicio educativo con calidez humana.</div>
-                        <br>
-                        <div class="col-md-12">Tiene establecidos tanto planes estratégicos planes operativos, metas generales, visión y misión. Los proyectos estratégicos, diseñados para alcanzar los objetivos y las metas, muestran cómo se pueden aplicar en el quehacer cotidiano, están ligados a la definición de la misión de la Dependencia, el objetivo general que justifica su existencia.</div>
-                        <br>
-                        <div class="col-md-12">Indudablemente las metas son elementos fundamentales en la operatividad de la Secretaría, que se perfilan a un futuro deseable, proporcionan sentido de dirección, concentran esfuerzos, guían planes y decisiones; sirven para evaluar los avances. El grado en que se alcancen las metas, depende del desempeño de los directivos, así como de la eficacia de quienes coordinan las acciones de los niveles operativos.</div>
-                    </div>
-                    <li class="title-interes"><a >Enlaces de Interés</a></li>
-                    <div>
-                        <div></div>
-=======
         <!-- Page Loader -->
         <div id="pageloader">
             <div class="loader-item fa fa-spin text-color"></div>
@@ -132,7 +73,6 @@
                         que orienta su actuación bajo el impulso de la equidad, la rendición de cuentas,
                         la transparencia y ofrece servicios educativos, administrativos con eficiencia, calidad y
                         pertinencia.
->>>>>>> a3a577a8d3a9bcf47bd8ee6877b24e97d05ae664
                     </div>
                 </div>
                 <br>
