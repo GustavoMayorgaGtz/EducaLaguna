@@ -1,3 +1,4 @@
+<!-- xd -->
 <!DOCTYPE html>
 <html lang="es">
 
@@ -165,13 +166,169 @@
                                 </div>
                                 <div class="owl-carousel navigation-1" data-pagination="false" data-items="1"
                                     data-autoplay="true" data-navigation="true">
-                                    <iframe width="auto" height="auto" src="https://www.youtube.com/embed/se39VMQYJns?autoplay=1&mute=1&loop=1"
+                                    <iframe class="Video"
+                                        src="https://www.youtube.com/embed/HM6qnRgyB_U?autoplay=1&mute=1&loop=1"
                                         title="MediaDUR Intro" frameborder="0"
-                                        allow="accelerometer; autoplay;  clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; loop"
+                                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                                         allowfullscreen></iframe>
-                                        
+
+
                                 </div>
                             </div>
+                            <div class="widget">
+                                <div class="widget-title">
+                                    <h3 class="title">Directorio</h3>
+                                </div>
+                            <div class="table-container">
+                                <table>
+                                    <thead>
+                                        <tr>
+                                            <th>Nombre</th>
+                                            <th>Puesto</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr>
+                                            <td>MTRO. JAIRO SIGFRIDO CERON FRANCO</td>
+                                            <td>DIRECTOR DE EDUCACION BASICA</td>
+                                        </tr>
+                                        <tr>
+                                            <td>DR. CÉSAR MIRANDA GUARDADO</td>
+                                            <td>JEFE DEL DEPARTAMENTO DE SERVICIOS EDUCATIVOS</td>
+                                        </tr>
+                                        <tr>
+                                            <td>PROFR. FRANCISCO MONREAL GARCÍA</td>
+                                            <td>COORDINADOR DE EDUCACION PRIMARIA</td>
+                                        </tr>
+                                        <tr>
+                                            <td>PROFR. LAZARO CASTRO VALENZUELA</td>
+                                            <td>SUBJEFE DE EDUCACION MEDIA SUPERIOR</td>
+                                        </tr>
+                                        <tr>
+                                            <td>LIC. LEONCIO ORTIZ GOMEZ</td>
+                                            <td>COORDINADOR DE PARTICIPACION SOCIAL</td>
+                                        </tr>
+                                        <tr>
+                                            <td>MTRA. GLORIA ALICIA DÍAZ HURTADO</td>
+                                            <td>COORDINADORA DE EDUCACION INICIAL</td>
+                                        </tr>
+                                        <tr>
+                                            <td>PROFR. JOSE LUIS GALINDO ALMANZA</td>
+                                            <td>SUBJEFE DE ESCS. SECS. TENICAS</td>
+                                        </tr>
+                                        <tr>
+                                            <td>PROFR. JAIME SILVA MORALES</td>
+                                            <td>SUBJEFE DE ESC.SEC.GENERALES</td>
+                                        </tr>
+                                        <tr>
+                                            <td>PROFR. VÍCTOR HUGO OLIVAS ROCHA</td>
+                                            <td>ENCARGADO DE LA SUBJEFATURA SECUNDARIA ESTATAL</td>
+                                        </tr>
+                                        <tr>
+                                            <td>PROFRA. FRANCISCA BLANCO VILLANUEVA</td>
+                                            <td>SUBJEFA DE EDUCACION PREESCOLAR</td>
+                                        </tr>
+                                        <tr>
+                                            <td>C.P. ARTURO IBARRA FLORES</td>
+                                            <td>COORDINADOR DE COOPERATIVAS ESCOLARES DE PRODUCCION Y DE CONSUMO</td>
+                                        </tr>
+                                        <tr>
+                                            <td>PROFRA. MA. IDALIA DEL SOCORRO ESPINOZA MERAZ</td>
+                                            <td>SUBJEFA DE EDUCACION ESPECIAL</td>
+                                        </tr>
+                                        <tr>
+                                            <td>PROFR. JUAN EFREN NUÑEZ LANDEROS</td>
+                                            <td>COORDINADOR DE EDUCACION FISICA</td>
+                                        </tr>
+                                        <tr>
+                                            <td>MARIA CONCEPCIÓN BENÍTEZ MARTÍNEZ</td>
+                                            <td>RESP. DEL NIVEL DE PRIMARIA ESTATAL</td>
+                                        </tr>
+                                        <tr>
+                                            <td>MTRA. LAURA ESTELA GARCÍA GALVÁN</td>
+                                            <td>RESP. DEL NIVEL DE PREEESCOLAR ESTATAL</td>
+                                        </tr>
+                                        <tr>
+                                            <td>PROFR. DANIEL GONZÁLEZ MENA</td>
+                                            <td>COORDINAROD E CEDEX Y MISIONES CULTURALES</td>
+                                        </tr>
+                                        <tr>
+                                            <td>DR. GERARDO DE JESÚS GARCA ROSALES</td>
+                                            <td>CIIDE SAN ISIDRO “PROFR. JOSÉ SANTOS VALDÉS”</td>
+                                        </tr>
+                                        <tr>
+                                            <td>MTRA. ELIDA ELIZARRARAS RAMÍREZ </td>
+                                            <td>CIIDE TORREMOLINOS “JOSÉ VASCONCELOS”</td>
+                                        </tr>
+                                        <tr>
+                                            <td>DRA. ERIKA COLÓN RUEDA</td>
+                                            <td>CIIDE MIGUEL DE LA MADRID “HERMILA GALINDO ACOSTA”</td>
+                                        </tr>
+                                        <tr>
+                                            <td>PROFR. ELIAZAR ISAÍAS PRINCE ALMARAZ</td>
+                                            <td>CIIDE VALLE DE CHAPALA “JOSE REVUELTAS”</td>
+                                        </tr>
+                                        <tr>
+                                            <td>DRA. CONCEPCIÓN DEL SOCORRO MEDRANO MADRILES</td>
+                                            <td>COORDINACION GENERAL DEL CENTRO DE INVESTIGACION E NNOVACIÓN PARA EL DESARROLLO EDUCATIVO (CIIDE)</td>
+                                        </tr>
+                                        <tr>
+                                            <td>ING. ANDRES MADRID ESCOBEDO</td>
+                                            <td>DIRECTOR DE ADMINISTRACION Y PLANEACION</td>
+                                        </tr>
+                                        <tr>
+                                            <td>M.A.F. Y M.E.D. ROMAN ABEL RAMOS GARCÍA</td>
+                                            <td>JEFE DEL DEPARTAMENTO DE SERVICIOS ADMINISTRATIVOS</td>
+                                        </tr>
+                                        <tr>
+                                            <td>M.E. DULCE ARGENTINA BONILLA DÁVILA</td>
+                                            <td>JEFA DEL DEPARTAMENTO DE PLANEACION EDUCACTIVA</td>
+                                        </tr>
+                                        <tr>
+                                            <td>ING. FRACISCO JAVIER RODRÍGUEZ VILLA</td>
+                                            <td>SUBJEFE DE RECURSOS HUMANOS</td>
+                                        </tr>
+                                        <tr>
+                                            <td>C.P. MARIA DE LOS ANGELES DE AVILA RAMOS</td>
+                                            <td>SUBJEFA DE RECURSOS FINANCIEROS</td>
+                                        </tr>
+                                        <tr>
+                                            <td>C. ELIZABETH MARTINEZ JIMENEZ</td>
+                                            <td>SUBJEFE DE NOMINA Y DISTRIBUCION DE CHEQUES</td>
+                                        </tr>
+                                        <tr>
+                                            <td>C. RENÉ GONZÁLEZ MUÑOZ</td>
+                                            <td>SUBJEFE DE RECURSOS MATERIALES Y SERVICIOS</td>
+                                        </tr>
+                                        <tr>
+                                            <td>ARQ. JESÚS ESPINO MARTÍNEZ</td>
+                                            <td>ENCARGADO DE LA SUBJEFATURA DE PROGRAMACION </td>
+                                        </tr>
+                                        <tr>
+                                            <td>ING. LILIANA MARÍA RODRÍGUEZ IBARRA</td>
+                                            <td>ENCARGADA DE LA SUBJEFATURA DE REGISTRO Y CERTIFICACION ESCOLAR</td>
+                                        </tr>
+                                        <tr>
+                                            <td>ING. ANTONIO VILLAGRANA CARRAZCO</td>
+                                            <td>SUBJEFE DE SEGUIMIENTO DE OBRA Y EQUIPAMIENTO ESCOLAR</td>
+                                        </tr>
+                                        <tr>
+                                            <td>ING. ADRIANA QUEVEDO GÓMEZ</td>
+                                            <td>SUBJEFA DE INFORMÁTICA ADMINISTRATIVA</td>
+                                        </tr>
+                                        <tr>
+                                            <td>C.P. FLOR LILIANA ROSALES</td>
+                                            <td>RESP. DE ANTEPROYECTO DEL PRESUPUESTO Y PROGRAMA OPERATIVO ANUAL (POA)</td>
+                                        </tr>
+                                        <tr>
+                                            <td>MTRA. CLAUDIA YAZMIN GARCÍA ESCAREÑO</td>
+                                            <td>ENCARGADA DE USICAMM</td>
+                                        </tr>                    
+                                        <!-- Agrega más filas según sea necesario -->
+                                    </tbody>
+                                </table>
+                            </div>
+
                         </div>
                     </div>
                 </div>
@@ -179,7 +336,7 @@
 
             <!--Peronal Aministrativo-->
             <section id="related-projects" class="page-section">
-                <div class="image-bg content-in fixed" data-background="Resources/Banners/banner-11.png">
+                <div class="image-bg content-in fixed">
                     <div class="overlay-strips"></div>
                 </div>
                 <div class="container white">

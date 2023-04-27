@@ -1279,7 +1279,7 @@ i.fa-1x{
 }
 .image-bg .overlay-strips,
 .overlay-strips{
-  background:url(../img/patterns/pattern.png) repeat;
+  background: #c2c2c2;
   height: 100%;
   opacity: .8;
   filter: alpha(opacity=20);
