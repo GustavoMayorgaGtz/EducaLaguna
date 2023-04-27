@@ -26,6 +26,7 @@
     <link href="../css/style.css" rel="stylesheet">
     <link href="../css/responsive.css" rel="stylesheet">
     <link href="../css/color.css" rel="stylesheet">
+    <link rel="stylesheet" href="objetivosStyles.css">
 </head>
 
 <body>
@@ -79,14 +80,35 @@
 
                 <div class="row">
                     <div class="col-md-12">
-                     <p>La Secretaría de Educación, instancia rectora de la política educativa, posee una actividad funcional que considera la planeación, operación y control de actividades diversas, cuya conducción está a cargo de un equipo humano multidisciplinario, que labora en espacios físicos variados, integrando un conjunto de fuerzas en movimiento, ha operado con elevados niveles de efectividad, para ofrecer el servicio educativo con calidez humana.</p>
-                     <br>
-                     <p>Tiene establecidos tanto planes estratégicos planes operativos, metas generales, visión y misión. Los proyectos estratégicos, diseñados para alcanzar los objetivos y las metas, muestran cómo se pueden aplicar en el quehacer cotidiano, están ligados a la definición de la misión de la Dependencia, el objetivo general que justifica su existencia.</p>
-                     <br>
-                     <p>Indudablemente, las metas son elementos fundamentales en la operatividad de la Secretaría, que se perfilan a un futuro deseable, proporcionan sentido de dirección, concentran esfuerzos, guían planes y decisiones; sirven para evaluar los avances. El grado en que se alcancen las metas, depende del desempeño de los directivos, así como de la eficacia de quienes coordinan las acciones de los niveles operativos.</p>
+                        <p>La Secretaría de Educación, instancia rectora de la política educativa, posee una actividad
+                            funcional que considera la planeación, operación y control de actividades diversas, cuya
+                            conducción está a cargo de un equipo humano multidisciplinario, que labora en espacios
+                            físicos variados, integrando un conjunto de fuerzas en movimiento, ha operado con elevados
+                            niveles de efectividad, para ofrecer el servicio educativo con calidez humana.</p>
+                        <br>
+                        <p>Tiene establecidos tanto planes estratégicos planes operativos, metas generales, visión y
+                            misión. Los proyectos estratégicos, diseñados para alcanzar los objetivos y las metas,
+                            muestran cómo se pueden aplicar en el quehacer cotidiano, están ligados a la definición de
+                            la misión de la Dependencia, el objetivo general que justifica su existencia.</p>
+                        <br>
+                        <p>Indudablemente, las metas son elementos fundamentales en la operatividad de la Secretaría,
+                            que se perfilan a un futuro deseable, proporcionan sentido de dirección, concentran
+                            esfuerzos, guían planes y decisiones; sirven para evaluar los avances. El grado en que se
+                            alcancen las metas, depende del desempeño de los directivos, así como de la eficacia de
+                            quienes coordinan las acciones de los niveles operativos.</p>
                     </div>
                 </div>
                 <br>
+        </section>
+        <section class="container-interes">
+            <!-- ENLACES DE INTERES -->
+            <span class="interes-subtitle">Enlaces de <span class="interes-span">Interés</span></span>
+            <div class="container-grid-opciones">
+                <img class="img-interes" onclick="window.location.href='https://contraloria.durango.gob.mx/'" src="../rs-plugin/images/SECOED.svg">
+                <img class="img-interes" onclick="window.location.href='https://home.inai.org.mx/'" src="../rs-plugin/images/INAI.png">
+                <img class="img-interes" onclick="window.location.href='https://www.plataformadetransparencia.org.mx/'" src="../rs-plugin/images/plataformaNacional.png">
+                <img class="img-interes" onclick="window.location.href='https://idaip.org.mx/sitio/'" src="../rs-plugin/images/IDAIP.jpg">
+            </div>
         </section>
 
 
