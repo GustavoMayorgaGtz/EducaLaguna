@@ -4,3 +4,8 @@
     font-family: 'Mukta', sans-serif;
     font-weight: bolder;
 }
+.icon-nav{
+    width:200px;
+    margin-top: 7px;
+    cursor: pointer;
+}

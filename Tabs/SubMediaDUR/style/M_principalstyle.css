@@ -7,10 +7,28 @@
     padding: 5px 10px;
     border-left: 2px solid rgb(57, 167, 57);
     animation-iteration-count: 1;
-    animation: 2s slide !important;
+    animation: 2s slide;
     animation-fill-mode: forwards;
     margin: 5px;
     box-shadow: -5px 5px 5px rgba(0, 0, 0, 0.068);
+}
+
+.container-information{
+   margin: 0px 20px 20px 20px;
+   border: 1px solid rgb(219, 219, 219);
+   padding: 15px;
+   width: 70%;
+   max-width: 800px;
+   min-width: 300px;
+   border-radius: 8px;
+   box-shadow: -5px 5px 5px rgba(0, 0, 0, 0.068);
+}
+
+.section{
+    padding: 25px 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
 
 @keyframes slide{

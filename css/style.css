@@ -3408,8 +3408,8 @@ div.count-number:before{
 .page-header{
 	border-bottom: 1px solid #e1e1e1;
 	border-top: 1px solid #e1e1e1;
-	padding: 30px 0;
-	background-color:#f2f2f2;
+	padding: 25px 0;
+	background-color:#f3f3f3;
 	margin: 0px;
 }
 .page-header h1{
