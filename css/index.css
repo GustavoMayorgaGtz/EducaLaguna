@@ -12,8 +12,11 @@
     gap: 1rem;
 }
 .index-header-img {
+    margin: 0px 20px 20px 20px;
+   border: 1px solid rgb(219, 219, 219);
+   padding: 15px;
     width: 50%;
-   max-width: 200px;
+   max-width: 250px;
    min-width: 80px;
    border-radius: 30px;
    box-shadow: -5px 5px 5px rgba(0, 0, 0, 0.068);
