@@ -42,31 +42,33 @@
         $nav = new Nav();
         // session_start();
         if (!isset($_SESSION['login'])) {
-            $_SESSION['login'] = false ;
+            $_SESSION['login'] = false;
         }
         $nav->setHaveLogin(!$_SESSION['login']);
-        $nav->setHaveLogout( $_SESSION['login'] );
-        $nav->setHaveDropdown( $_SESSION['login'] );
+        $nav->setHaveLogout($_SESSION['login']);
+        $nav->setHaveDropdown($_SESSION['login']);
         $nav->render();
         ?>
         <!-- Slider -->
         <section class="slider" id="home">
             <div id="main-slider">
-                <div id="carousel-example-generic1" class="carousel slide carousel-fade" data-ride="carousel" data-pause="false">
+                <div id="carousel-example-generic1" class="carousel slide carousel-fade" data-ride="carousel"
+                    data-pause="false">
                     <!-- Wrapper for slides -->
                     <div class="carousel-inner" role="listbox">
                         <div class="item active">
                             <div class="headercontainer">
-                            <div class="index-header">
-                                <img class="index-header-img" src="rs-plugin/images/secretario.jpeg" alt="" title="">
-                                <h1 class="upper animation animated-item-1"> Educalaguna.</h1>
-                                <p class="description  animation animated-item-2 hidden-sm hidden-xs">
-                                    Pagina de internet de la Subsecretaria de Educacion de la Laguna de Durango <br>
-                                    "Educalaguna"
-                                    <br>
-                                    "Presentacion del Subsecretario Dr. Ulises Adame de León"
-                                </p>
-                            </div>
+                                <div class="index-header">
+                                    <img class="index-header-img" src="rs-plugin/images/secretario.jpeg" alt=""
+                                        title="">
+                                    <h1 class="upper animation animated-item-1"> Educalaguna.</h1>
+                                    <p class="description  animation animated-item-2 hidden-sm hidden-xs">
+                                        Pagina de internet de la Subsecretaria de Educacion de la Laguna de Durango <br>
+                                        "Educalaguna"
+                                        <br>
+                                        "Presentacion del Subsecretario Dr. Ulises Adame de León"
+                                    </p>
+                                </div>
                             </div>
                         </div>
                     </div>
@@ -79,17 +81,41 @@
                     <div class="row">
                         <div class="col-sm-12 col-md-9">
                             <div class="row">
-                                <div class="col-sm-6 col-md-6">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repudiandae odit iste exercitationem praesentium deleniti nostrum laborum rem id nihil tempora. Adipisci ea commodi unde nam placeat cupiditate quasi a ducimus rem consequuntur ex eligendi minima voluptatem assumenda voluptas quidem sit maiores odio velit voluptate.</div>
-                                <div class="col-sm-6 col-md-6">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repudiandae odit iste exercitationem praesentium deleniti nostrum laborum rem id nihil tempora. Adipisci ea commodi unde nam placeat cupiditate quasi a ducimus rem consequuntur ex eligendi minima voluptatem assumenda voluptas quidem sit maiores odio velit voluptate.</div>
+                                <div class="col-sm-6 col-md-6">Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+                                    Repudiandae odit iste exercitationem praesentium deleniti nostrum laborum rem id
+                                    nihil tempora. Adipisci ea commodi unde nam placeat cupiditate quasi a ducimus rem
+                                    consequuntur ex eligendi minima voluptatem assumenda voluptas quidem sit maiores
+                                    odio velit voluptate.</div>
+                                <div class="col-sm-6 col-md-6">Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+                                    Repudiandae odit iste exercitationem praesentium deleniti nostrum laborum rem id
+                                    nihil tempora. Adipisci ea commodi unde nam placeat cupiditate quasi a ducimus rem
+                                    consequuntur ex eligendi minima voluptatem assumenda voluptas quidem sit maiores
+                                    odio velit voluptate.</div>
                             </div>
                             <hr />
                             <div class="row">
-                                <div class="col-md-12">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repudiandae odit iste exercitationem praesentium deleniti nostrum laborum rem id nihil tempora. Adipisci ea commodi unde nam placeat cupiditate quasi a ducimus rem consequuntur ex eligendi minima voluptatem assumenda voluptas quidem sit maiores odio velit voluptate. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repudiandae odit iste exercitationem praesentium deleniti nostrum laborum rem id nihil tempora. Adipisci ea commodi unde nam placeat cupiditate quasi a ducimus rem consequuntur ex eligendi minima voluptatem assumenda voluptas quidem sit maiores odio velit voluptate.</div>
+                                <div class="col-md-12">Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+                                    Repudiandae odit iste exercitationem praesentium deleniti nostrum laborum rem id
+                                    nihil tempora. Adipisci ea commodi unde nam placeat cupiditate quasi a ducimus rem
+                                    consequuntur ex eligendi minima voluptatem assumenda voluptas quidem sit maiores
+                                    odio velit voluptate. Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+                                    Repudiandae odit iste exercitationem praesentium deleniti nostrum laborum rem id
+                                    nihil tempora. Adipisci ea commodi unde nam placeat cupiditate quasi a ducimus rem
+                                    consequuntur ex eligendi minima voluptatem assumenda voluptas quidem sit maiores
+                                    odio velit voluptate.</div>
                             </div>
                             <hr />
                             <div class="row">
-                                <div class="col-sm-6 col-md-6">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repudiandae odit iste exercitationem praesentium deleniti nostrum laborum rem id nihil tempora. Adipisci ea commodi unde nam placeat cupiditate quasi a ducimus rem consequuntur ex eligendi minima voluptatem assumenda voluptas quidem sit maiores odio velit voluptate.</div>
-                                <div class="col-sm-6 col-md-6">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repudiandae odit iste exercitationem praesentium deleniti nostrum laborum rem id nihil tempora. Adipisci ea commodi unde nam placeat cupiditate quasi a ducimus rem consequuntur ex eligendi minima voluptatem assumenda voluptas quidem sit maiores odio velit voluptate.</div>
+                                <div class="col-sm-6 col-md-6">Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+                                    Repudiandae odit iste exercitationem praesentium deleniti nostrum laborum rem id
+                                    nihil tempora. Adipisci ea commodi unde nam placeat cupiditate quasi a ducimus rem
+                                    consequuntur ex eligendi minima voluptatem assumenda voluptas quidem sit maiores
+                                    odio velit voluptate.</div>
+                                <div class="col-sm-6 col-md-6">Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+                                    Repudiandae odit iste exercitationem praesentium deleniti nostrum laborum rem id
+                                    nihil tempora. Adipisci ea commodi unde nam placeat cupiditate quasi a ducimus rem
+                                    consequuntur ex eligendi minima voluptatem assumenda voluptas quidem sit maiores
+                                    odio velit voluptate.</div>
                             </div>
                             <hr />
                         </div>
@@ -102,7 +128,8 @@
                                 <ul class="latest-posts">
                                     <li>
                                         <div class="post-thumb">
-                                            <img class="img-rounded" src="rs-plugin/images/MediaDUR.jpg" alt="" title="" width="84" height="84" />
+                                            <img class="img-rounded" src="rs-plugin/images/MediaDUR.jpg" alt="" title=""
+                                                width="84" height="84" />
                                         </div>
                                         <div class="post-details">
                                             <div class="description">
@@ -114,7 +141,8 @@
                                     </li>
                                     <li>
                                         <div class="post-thumb">
-                                            <img class="img-rounded" src="img/sections/blog/2.jpg" alt="" title="" width="84" height="84" />
+                                            <img class="img-rounded" src="img/sections/blog/2.jpg" alt="" title=""
+                                                width="84" height="84" />
                                         </div>
                                         <div class="post-details">
                                             <div class="description">
@@ -135,8 +163,13 @@
                                 <div class="widget-title">
                                     <h3 class="title">Multimedia</h3>
                                 </div>
-                                <div class="owl-carousel navigation-1" data-pagination="false" data-items="1" data-autoplay="true" data-navigation="true">
-                                    <img src="rs-plugin/images/MediaDUR.jpg" width="270" height="auto" alt="" />
+                                <div class="owl-carousel navigation-1" data-pagination="false" data-items="1"
+                                    data-autoplay="true" data-navigation="true">
+                                    <iframe width="auto" height="auto" src="https://www.youtube.com/embed/se39VMQYJns?autoplay=1&mute=1&loop=1"
+                                        title="MediaDUR Intro" frameborder="0"
+                                        allow="accelerometer; autoplay;  clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; loop"
+                                        allowfullscreen></iframe>
+                                        
                                 </div>
                             </div>
                         </div>
@@ -156,12 +189,14 @@
                     </div>
                     <div class="row">
                         <div class="col-md-12 text-center">
-                            <div class="owl-carousel pagination-1 dark-switch text-center " data-pagination="true" data-autoplay="true" data-navigation="false" data-items="3">
+                            <div class="owl-carousel pagination-1 dark-switch text-center " data-pagination="true"
+                                data-autoplay="true" data-navigation="false" data-items="3">
                                 <div class="item">
                                     <p><br>Secretario de Educación en el Estado de Durango.</p>
                                     <div class="client-image">
                                         <!-- Image -->
-                                        <img class="img-circle" src="Resources/Usr/user.png" width="80" height="80" alt="">
+                                        <img class="img-circle" src="Resources/Usr/user.png" width="80" height="80"
+                                            alt="">
                                     </div>
                                     <div class="client-details text-center">
                                         <div class="client-details">
@@ -176,7 +211,8 @@
                                     <p><br>Subsecretario de Educación en la Región Laguna.</p>
                                     <div class="client-image">
                                         <!-- Image -->
-                                        <img class="img-circle" src="Resources/Usr/user.png" width="80" height="80" alt="">
+                                        <img class="img-circle" src="Resources/Usr/user.png" width="80" height="80"
+                                            alt="">
                                     </div>
                                     <div class="client-details text-center">
                                         <div class="client-details">
@@ -202,7 +238,10 @@
                                 <div class="widget-title">
                                     <h3 class="title">Acerca de nosotros</h3>
                                 </div>
-                                <p>Establecer criterios de actuación y atención al interior de las escuelas de Educación Básica, que fortalezcan los mecanismos de prevención en la generación de ambientes escolares propicios para el aprendizaje, salvaguardando la integridad física y psicológica de la comunidad escolar, apegado a los derechos humanos.</p>
+                                <p>Establecer criterios de actuación y atención al interior de las escuelas de Educación
+                                    Básica, que fortalezcan los mecanismos de prevención en la generación de ambientes
+                                    escolares propicios para el aprendizaje, salvaguardando la integridad física y
+                                    psicológica de la comunidad escolar, apegado a los derechos humanos.</p>
                                 <p>
                                     <strong>Office:</strong>
                                     <br />No. 12, Ribon Building,
@@ -231,10 +270,12 @@
                                             <a href="#"></a>
                                         </li>
                                         <li>
-                                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet repellat officia eius quo tenetur dolor!</p>
+                                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet repellat
+                                                officia eius quo tenetur dolor!</p>
                                         </li>
                                         <li>
-                                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ducimus nulla ullam vel velit harum distinctio.</p>
+                                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ducimus nulla
+                                                ullam vel velit harum distinctio.</p>
                                         </li>
                                     </ul>
                                 </nav>
@@ -245,15 +286,19 @@
                                 </div>
                                 <p class="form-message" style="display: none;"></p>
                                 <div class="contact-form">
-                                    <form role="form" name="contactform" id="contactform" method="post" action="php/contact-form.php">
+                                    <form role="form" name="contactform" id="contactform" method="post"
+                                        action="php/contact-form.php">
                                         <div class="input-text form-group">
-                                            <input type="text" name="contact_name" class="input-name form-control" placeholder="Full Name" />
+                                            <input type="text" name="contact_name" class="input-name form-control"
+                                                placeholder="Full Name" />
                                         </div>
                                         <div class="input-email form-group">
-                                            <input type="email" name="contact_email" class="input-email form-control" placeholder="Email" />
+                                            <input type="email" name="contact_email" class="input-email form-control"
+                                                placeholder="Email" />
                                         </div>
                                         <div class="textarea-message form-group">
-                                            <textarea name="contact_message" class="textarea-message form-control" placeholder="Message" rows="3"></textarea>
+                                            <textarea name="contact_message" class="textarea-message form-control"
+                                                placeholder="Message" rows="3"></textarea>
                                         </div>
                                         <button class="btn btn-default" type="submit">Enviar
                                             <i class="icon-paper-plane"></i></button>

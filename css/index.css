@@ -1,7 +1,6 @@
 .headercontainer{
-    width: 2000; 
-    height: 1080;
-    
+    width: 2000px; 
+    min-height: calc(100vh - 60px);
 }
 .index-header {
     position: absolute;
@@ -13,19 +12,40 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    color: #ffffff;
+    color: #585858;
     gap: 1rem;
 }
 .index-header-img {
-    margin: 0px 20px 20px 20px;
-   border: 1px solid rgb(219, 219, 219);
+   margin: 0px 20px 20px 20px;
+   border: 1px solid rgba(0, 0, 0, 0.205);
    padding: 15px;
    width: 50%;
-   max-width: 250px;
+   max-width: 270px;
    min-width: 80px;
+   box-shadow: -5px 5px 5px rgba(99, 99, 99, 0.151);
    border-radius: 8px;
-   box-shadow: -5px 5px 5px rgba(0, 0, 0, 0.068);
+   
 }
 .index-header .description {
+    width: 70%;
+    height: 15%;
     text-align: center;
+    border-radius: 8px;
+    box-shadow: -5px 5px 5px rgba(99, 99, 99, 0.151);
 }
+.video-container {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    padding-bottom: 56.25%; /* relación de aspecto 16:9 */
+  }
+  
+  .video-container iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+  
+  
