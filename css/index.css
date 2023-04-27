@@ -12,8 +12,11 @@
     gap: 1rem;
 }
 .index-header-img {
-    width: 300px;
-    border-radius: 20px;
+    width: 50%;
+   max-width: 200px;
+   min-width: 80px;
+   border-radius: 30px;
+   box-shadow: -5px 5px 5px rgba(0, 0, 0, 0.068);
 }
 .index-header .description {
     text-align: center;

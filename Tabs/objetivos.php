@@ -25,6 +25,8 @@
         <link href="../css/style.css" rel="stylesheet">
 		<link href="../css/responsive.css" rel="stylesheet">
         <link href="../css/color.css" rel="stylesheet">
+        <link rel="stylesheet" href="../components/navstyle.css">
+        <link rel="stylesheet" href="style/objetivosstyle.css">
     </head>
     <body>
         <div id="page">		
@@ -52,36 +54,27 @@
             <!-- RELLENO-->
             <section class="page-section">
                 <div class="container">
-                    <h4 style="color: rgb(42, 42, 46); font-weight: bold;">Mision</h4>
+                    <h4 class="titles-im">Mision</h4>
                     <div class="row">
-                        <div class="col-md-12" style="font-style: italic">"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eveniet illo consectetur quisquam velit blanditiis..."</div>
+                        <div class="col-md-12" style="font-style: italic">Ofrecer una educación de calidad, integral, participativa, innovadora y promotora del aprendizaje que nos permita formar personas comprometidas con el desarrollo sostenible, capaces de elevar su nivel de vida, el desarrollo personal y la formación de capital humano, que contribuya al impulso del desarrollo económico y social del Estado.</div>
                     </div>
                     <br>
+                    <h4 class="titles-im">Vision</h4>
                     <div class="row">
-                        <div class="col-md-12">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repudiandae odit iste exercitationem praesentium deleniti nostrum laborum rem id nihil tempora. Adipisci ea commodi unde nam placeat cupiditate quasi a ducimus rem consequuntur ex eligendi minima voluptatem assumenda voluptas quidem sit maiores odio velit voluptate. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repudiandae odit iste exercitationem praesentium deleniti nostrum laborum rem id nihil tempora. Adipisci ea commodi unde nam placeat cupiditate quasi a ducimus rem consequuntur ex eligendi minima voluptatem assumenda voluptas quidem sit maiores odio velit voluptate.</div>
-                    </div>
-                    <h4 style="color: rgb(42, 42, 46); font-weight: bold;">Vision</h4>
-                    <div class="row">
-                        <div class="col-md-12" style="font-style: italic">"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eveniet illo consectetur quisquam velit blanditiis..."</div>
+                        <div class="col-md-12" style="font-style: italic">Ser un sistema educativo solido con una educación para todos, con sentido humano y social, que orienta su actuación bajo el impulso de la equidad, la rendición de cuentas, la transparencia y ofrece servicios educativos, administrativos con eficiencia, calidad y pertinencia.</div>
                     </div>
                     <br>
+                    <h4 class="titles-im">Objetivo</h4>
                     <div class="row">
-                        <div class="col-md-12">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repudiandae odit iste exercitationem praesentium deleniti nostrum laborum rem id nihil tempora. Adipisci ea commodi unde nam placeat cupiditate quasi a ducimus rem consequuntur ex eligendi minima voluptatem assumenda voluptas quidem sit maiores odio velit voluptate. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repudiandae odit iste exercitationem praesentium deleniti nostrum laborum rem id nihil tempora. Adipisci ea commodi unde nam placeat cupiditate quasi a ducimus rem consequuntur ex eligendi minima voluptatem assumenda voluptas quidem sit maiores odio velit voluptate.</div>
+                        <div class="col-md-12">La Secretaría de Educación, instancia rectora de la política educativa, posee una actividad funcional que considera la planeación, operación y control de actividades diversas, cuya conducción está a cargo de un equipo humano multidisciplinario, que labora en espacios físicos variados, integrando un conjunto de fuerzas en movimiento, ha operado con elevados niveles de efectividad, para ofrecer el servicio educativo con calidez humana.</div>
+                        <br>
+                        <div class="col-md-12">Tiene establecidos tanto planes estratégicos planes operativos, metas generales, visión y misión. Los proyectos estratégicos, diseñados para alcanzar los objetivos y las metas, muestran cómo se pueden aplicar en el quehacer cotidiano, están ligados a la definición de la misión de la Dependencia, el objetivo general que justifica su existencia.</div>
+                        <br>
+                        <div class="col-md-12">Indudablemente las metas son elementos fundamentales en la operatividad de la Secretaría, que se perfilan a un futuro deseable, proporcionan sentido de dirección, concentran esfuerzos, guían planes y decisiones; sirven para evaluar los avances. El grado en que se alcancen las metas, depende del desempeño de los directivos, así como de la eficacia de quienes coordinan las acciones de los niveles operativos.</div>
                     </div>
-                    <h4 style="color: rgb(42, 42, 46); font-weight: bold;">Servicios</h4>
-                    <div class="row">
-                        <div class="col-md-12">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repudiandae odit iste exercitationem praesentium deleniti nostrum laborum rem id nihil tempora. Adipisci ea commodi unde nam placeat cupiditate quasi a ducimus rem consequuntur ex eligendi minima voluptatem assumenda voluptas quidem sit maiores odio velit voluptate. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repudiandae odit iste exercitationem praesentium deleniti nostrum laborum rem id nihil tempora. Adipisci ea commodi unde nam placeat cupiditate quasi a ducimus rem consequuntur ex eligendi minima voluptatem assumenda voluptas quidem sit maiores odio velit voluptate.</div>
-                    </div>
-                    <br>
-                    <ol>
-                        <li>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ut, error.</li>
-                        <li>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ut, error.</li>
-                        <li>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ut, error.</li>
-                        <li>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ut, error.</li>
-                      </ol>
-                    <h4 style="color: rgb(42, 42, 46); font-weight: bold;">Departamento de la subsecretaria</h4>
-                    <div class="row">
-                        <div class="col-md-12">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repudiandae odit iste exercitationem praesentium deleniti nostrum laborum rem id nihil tempora. Adipisci ea commodi unde nam placeat cupiditate quasi a ducimus rem consequuntur ex eligendi minima voluptatem assumenda voluptas quidem sit maiores odio velit voluptate. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repudiandae odit iste exercitationem praesentium deleniti nostrum laborum rem id nihil tempora. Adipisci ea commodi unde nam placeat cupiditate quasi a ducimus rem consequuntur ex eligendi minima voluptatem assumenda voluptas quidem sit maiores odio velit voluptate.</div>
+                    <li class="title-interes"><a >Enlaces de Interés</a></li>
+                    <div>
+                        <div></div>
                     </div>
                 </div>
             </section>
