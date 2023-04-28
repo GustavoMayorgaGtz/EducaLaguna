@@ -27,6 +27,7 @@
     <link href="../css/responsive.css" rel="stylesheet">
     <link href="../css/color.css" rel="stylesheet">
     <link rel="stylesheet" href="objetivosStyles.css">
+    <link href="../components/navstyle.css" rel="stylesheet">
 </head>
 
 <body>

@@ -1194,6 +1194,26 @@ i.fa-1x{
     right: 0;
 }
 /* BG Image */
+.black{
+	color: #000;
+}
+
+.containerpersonal{
+	background-color: red;
+	background-repeat: no-repeat;
+	background-position: center top;
+	-webkit-background-size: cover;
+	background-size: cover;
+	bottom: 0;
+	left: 0;
+	overflow: hidden;
+	position: absolute;
+	right: 0;
+	text-align: center;
+	top: 0;
+	z-index: 0;
+	min-height:unset;
+}
 
 .image-bg{
 	width: 100%;
@@ -1285,6 +1305,8 @@ i.fa-1x{
   filter: alpha(opacity=20);
   width: 100%;
 }
+
+
 .image-bg .overlay-boxed,
 .overlay-boxed {
   background:url(../img/patterns/pattern2.png) repeat;

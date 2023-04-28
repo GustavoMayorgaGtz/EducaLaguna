@@ -45,7 +45,7 @@
         <?php
         require_once '../../components/nav.php';
         $nav = new Nav();
-        $nav->setTitle('MediaDUR');
+        $nav->setTitle('Protocolos de Actuación');
         $nav->setHaveLogout(true);
         $nav->setHaveDropdown(true);
         $nav->render();
@@ -54,7 +54,7 @@
         <!-- page-section -->
         <div class="section">
             <div class="container-information">
-            <p>El Hipermanual MediaDUR surgió como propuesta de intervención derivada de la investigación <b>Protocolos de Actuación en Materia de Convivencia en Educación Básica</b> con <b>Folio: 2020_UJV_INV_64</b>, desarrollada por el <b>Dr. Gerardo de J. Garza Rosales</b> de la <b>Unidad del CIIDE “Profr. José Santos Valdés”</b> de Lerdo, Durango.
+            <p>Los Protocolos de Actuación <b>MediaDUR</b> surgierón como propuesta de intervención derivada de la investigación <b>Protocolos de Actuación en Materia de Convivencia en Educación Básica</b> con <b>Folio: 2020_UJV_INV_64</b>, desarrollada por el <b>Dr. Gerardo de J. Garza Rosales</b> de la <b>Unidad del CIIDE “Profr. José Santos Valdés”</b> de Lerdo, Durango.
 </p>
 <p> <b>MediaDUR</b> busca ser un concepto diferente en el proceso informativo del docente, a traves de medios digitales</p>
             </div>

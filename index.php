@@ -336,10 +336,10 @@
 
             <!--Peronal Aministrativo-->
             <section id="related-projects" class="page-section">
-                <div class="image-bg content-in fixed">
+                <div class="containerpersonal">
                     <div class="overlay-strips"></div>
                 </div>
-                <div class="container white">
+                <div class="container black">
                     <div class="section-title">
                         <!-- Heading -->
                         <h2 class="title">Subsecretaria de educacion</h2>
