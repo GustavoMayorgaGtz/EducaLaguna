@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Mukta:wght@200&display=swap');
+/* font-family: 'Mukta', sans-serif; */
+
+*{
+    font-family: 'Mukta', sans-serif;
+}
+
+body{
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    overflow-y: scroll;
+
+}
+
+body > .title{
+   font-size: 30px;
+   font-weight: bold;
+   margin: 20px;
+   padding-left: 10px;
+   border-left: 5px solid rgb(44, 73, 168);
+}
+
+body > .paragraph{
+   padding: 10px 30px;
+   font-size: 20px;
+   color: black;
+}

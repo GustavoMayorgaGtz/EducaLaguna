@@ -25,6 +25,7 @@
         <link href="../../css/style.css" rel="stylesheet">
 		<link href="../../css/responsive.css" rel="stylesheet">
         <link href="../../css/color.css" rel="stylesheet">
+        <link href="../../components/navstyle.css" rel="stylesheet">
     </head>
     <body>
         <div id="page">		
@@ -59,11 +60,11 @@
                 <div class="container boxed-block" style="border-radius: 15px; text-align: center;">
                     <br>
                     <div class="row">
-                        <div class="col-md-12" ><a href="https://drive.google.com/file/d/1QcywcrAn-Nhdz8RHYmyLdti20PgvKCXP/view">1.0. Protocolo De Detección, Prevención Y Actuación En Casos De Abuso Sexual Infantil. <img  src="../../Resources/Usr/ad.png" alt="" width="100px" height="60px"></a></div>
+                        <div class="col-md-12" ><a href="./AbSxInf/abusoinf.php?menu=1">1.0. Protocolo De Detección, Prevención Y Actuación En Casos De Abuso Sexual Infantil. <img  src="../../Resources/Usr/ad.png" alt="" width="100px" height="60px"></a></div>
                     </div>
                     <hr />
                     <div class="row">
-                        <div class="col-md-12" ><a href="https://drive.google.com/file/d/1phIhC0iX__SzO9MOQPgWLi_iRa9bT2G-/view">1.1. Responsabilidades de Madres, Padres y Tutores Legales. <img  src="../../Resources/Usr/ad.png" alt="" width="100px" height="60px"></a></div>
+                        <div class="col-md-12" ><a href="./AbSxInf/abusoinf.php?menu=2">1.1. Responsabilidades de Madres, Padres y Tutores Legales. <img  src="../../Resources/Usr/ad.png" alt="" width="100px" height="60px"></a></div>
                     </div>
                     <hr />
                     <div class="row">

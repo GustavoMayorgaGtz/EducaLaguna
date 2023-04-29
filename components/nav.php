@@ -1,4 +1,5 @@
 <?php
+
 class Nav {
     private bool $have_logout;
     private bool $have_dropdown;
@@ -23,6 +24,8 @@ class Nav {
     public function setHaveDropdown( bool $value ): void {
         $this->have_dropdown = $value;
     }
+
+
   
     public function setTitle( string $value ): void {
         $this->title = $value;
@@ -44,7 +47,7 @@ class Nav {
                                             <span class="icon-bar"></span>
                                         </button>
                                         <a class="col-md-12">
-                                            <img src="<?php echo $this->host;?>/rs-plugin/images/logoicon.png" alt="logo" width="70px">
+                                            <img class="icon-nav" onclick="seed()" src="<?php echo $this->host;?>/rs-plugin/images/SEED.svg" alt="logo" width="70px">
                                         </a>
                                     </div>
                                     <div class="navbar-collapse collapse">
@@ -95,7 +98,7 @@ class Nav {
                     <div class="page-header">
                         <div class="container">
                             <div class="col-md-12">
-                                <h1 class="title text-color2"><?php echo $this->title; ?></h1>
+                                <h1 class="nav-title"><?php echo $this->title; ?></h1>
                             </div>
                         </div>
                     </div>
@@ -104,6 +107,11 @@ class Nav {
                 ?>
             </header>
         </div>
+        <script>
+          function seed (){
+            window.location.href = "https://educacion.durango.gob.mx/index.php";
+          }
+        </script>
         <?php
     }
 }
