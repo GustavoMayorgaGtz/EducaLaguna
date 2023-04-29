@@ -13,6 +13,7 @@ while ($fila = $resultado->fetch()) {
 
     $arreglo = explode("#", $fila['Descripcion']); //Obtenemos la descripcion y separamos
     $titulo = $fila['Titulo']; //Obtenemos el titulo
+    $url = $fila['URLVideo']; //Obtenemos el video
     $parrafosSize = count($arreglo); //contamos los parrafos del arreglo
     // print_r($arreglo); //print_r sirve para imprimir arreglos
     // echo $parrafosSize; 
@@ -63,34 +64,51 @@ while ($fila = $resultado->fetch()) {
     $nav->render();
 
     echo "<span class='title'>{$titulo}</span>";
-    foreach ($arreglo as $valor) {
-        echo "<span class='paragraph'>{$valor}</span>";
-        echo "<br>";
-    }
     ?>
-      <!-- Scripts -->
-        <script type="text/javascript" src="../../../js/jquery.min.js"></script>
-        <script type="text/javascript" src="../../../js/bootstrap.min.js"></script>
-        <script type="text/javascript" src="../../../js/hover-dropdown-menu.js"></script>
-        <script type="text/javascript" src="../../../js/jquery.hover-dropdown-menu-addon.js"></script>	
-        <script type="text/javascript" src="../../../js/jquery.easing.1.3.js"></script>
-        <script type="text/javascript" src="../../../js/jquery.sticky.js"></script>
-        <script type="text/javascript" src="../../../js/bootstrapValidator.min.js"></script>	
-        <script type="text/javascript" src="../../../rs-plugin/js/jquery.themepunch.tools.min.js"></script>   
-        <script type="text/javascript" src="../../../rs-plugin/js/jquery.themepunch.revolution.min.js"></script>
-        <script type="text/javascript" src="../../../js/revolution-custom.js"></script>
-        <script type="text/javascript" src="../../../js/jquery.mixitup.min.js"></script>
-        <script type="text/javascript" src="../../../js/jquery.appear.js"></script>
-        <script type="text/javascript" src="../../../js/effect.js"></script>
-        <script type="text/javascript" src="../../../js/owl.carousel.min.js"></script>
-        <script type="text/javascript" src="../../../js/jquery.prettyPhoto.js"></script>
-        <script type="text/javascript" src="../../../js/jquery.parallax-1.1.3.js"></script>
-        <script type="text/javascript" src="../../../js/jquery.countTo.js"></script>
-        <script type="text/javascript" src="../../../js/tweet/carousel.js"></script>
-        <script type="text/javascript" src="../../../js/tweet/scripts.js"></script>
-        <script type="text/javascript" src="../../../js/tweet/tweetie.min.js"></script>
-        <script type="text/javascript" src="../../../js/jquery.mb.YTPlayer.js"></script>
-        <script type="text/javascript" src="../../../js/custom.js"></script>
+    <div class="container-center">
+        <?php
+        /*PARA COLOCAR UN LINK OBTENEMOS EL LINK NORMAL DEL VIDEO
+        DESDE LA URL DE BUSQUEDA DEL NAVEGADOR POR EJEMPLO
+        https://www.youtube.com/watch?v=tHsPyC23oww  <----
+        EN LA PARTE FINAL TENEMOS EL SIGUIENTE TEXTO: tHsPyC23oww
+        ESTE TEXTO SE PEGA DESPUES DE EMBED/
+        https://www.youtube.com/embed/
+        EN EL LINK DEL IFRAME EN EL CODIGO DE ABAJO -->
+        */
+        echo "<iframe class='video'
+      src='{$url}'
+       title='YouTube video player' frameborder='0'
+        allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share' allowfullscreen>
+        </iframe>";
+        foreach ($arreglo as $valor) {
+            echo "<span class='paragraph'>{$valor}</span>";
+            echo "<br>";
+        }
+        ?>
+    </div>
+    <!-- Scripts -->
+    <script type="text/javascript" src="../../../js/jquery.min.js"></script>
+    <script type="text/javascript" src="../../../js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="../../../js/hover-dropdown-menu.js"></script>
+    <script type="text/javascript" src="../../../js/jquery.hover-dropdown-menu-addon.js"></script>
+    <script type="text/javascript" src="../../../js/jquery.easing.1.3.js"></script>
+    <script type="text/javascript" src="../../../js/jquery.sticky.js"></script>
+    <script type="text/javascript" src="../../../js/bootstrapValidator.min.js"></script>
+    <script type="text/javascript" src="../../../rs-plugin/js/jquery.themepunch.tools.min.js"></script>
+    <script type="text/javascript" src="../../../rs-plugin/js/jquery.themepunch.revolution.min.js"></script>
+    <script type="text/javascript" src="../../../js/revolution-custom.js"></script>
+    <script type="text/javascript" src="../../../js/jquery.mixitup.min.js"></script>
+    <script type="text/javascript" src="../../../js/jquery.appear.js"></script>
+    <script type="text/javascript" src="../../../js/effect.js"></script>
+    <script type="text/javascript" src="../../../js/owl.carousel.min.js"></script>
+    <script type="text/javascript" src="../../../js/jquery.prettyPhoto.js"></script>
+    <script type="text/javascript" src="../../../js/jquery.parallax-1.1.3.js"></script>
+    <script type="text/javascript" src="../../../js/jquery.countTo.js"></script>
+    <script type="text/javascript" src="../../../js/tweet/carousel.js"></script>
+    <script type="text/javascript" src="../../../js/tweet/scripts.js"></script>
+    <script type="text/javascript" src="../../../js/tweet/tweetie.min.js"></script>
+    <script type="text/javascript" src="../../../js/jquery.mb.YTPlayer.js"></script>
+    <script type="text/javascript" src="../../../js/custom.js"></script>
 </body>
 
 </html>
