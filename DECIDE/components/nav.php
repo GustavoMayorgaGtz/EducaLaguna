@@ -4,7 +4,7 @@ class Nav {
     private bool $have_dropdown;
     private bool $have_login;
     private string $title;
-    public string $host = 'http://localhost/DECIDE';
+    public string $host = 'http://localhost/DECIDE/DECIDE';
     public function __construct() {
         $this->have_logout = false;
         $this->have_dropdown = false;
