@@ -60,54 +60,57 @@ session_start();
             </section>
             <!--Tabla de contenido-->
             <section class="page-section">
-                <h4 style="  text-align: center; color: #2e9797; font-weight: bolder;">2. Protocolo de detección, prevención y actuación
-                    en casos de Acoso Escolar.</h4>
+                <h4 style="  text-align: center; color: #2e9797; font-weight: bolder;"><a href="https://drive.google.com/file/d/1nTJ5NIcEt8ToJBBgna-PZgIIFf7IK-Gb/view">2. Protocolo de detección, prevención y actuación
+                    en casos de Acoso Escolar.
+                </h4>
+
                 <div class="container boxed-block" style="border-radius: 15px; text-align: center;">
-                    <br>
-                    <div class="row">
-                        <div class="col-md-12" ><a href="https://drive.google.com/file/d/1OW7cY0KIsSMnf8JNHo50wu9T8D7gzyBW/view">2.0. Protocolo de detección, prevención y actuación en casos de Acoso Escolar. <img  src="../../Resources/Usr/ad.png" alt="" width="100px" height="60px"></a></div>
+                    
+                    <div class="container-imagenes">
+                        <div class="card"><div class="col-md-12" ><a href="https://drive.google.com/file/d/1OW7cY0KIsSMnf8JNHo50wu9T8D7gzyBW/view">2.0. Protocolo de detección, prevención y actuación en casos de Acoso Escolar. <img  src="../../rs-plugin/images/deteccion.png" alt="" width="50px" height="20px"></a></div>
                     </div>
-                    <hr />
-                    <div class="row">
-                        <div class="col-md-12" ><a href="https://drive.google.com/file/d/1gsGN8kKqGCyv6ojtoZEfppRgrtdIU6rg/view">2.1 Responsabilidades de Comunidad Escolar. <img  src="../../Resources/Usr/ad.png" alt="" width="100px" height="60px"></a></div>
+                      
+                    <div class="container-imagenes">
+                        <div class="card"><div class="col-md-12" ><a href="https://drive.google.com/file/d/1gsGN8kKqGCyv6ojtoZEfppRgrtdIU6rg/view">2.1 Responsabilidades de Comunidad Escolar. <img  src="../../rs-plugin/images/social.png" alt="" width="70px" height="20px"></a></div>
                     </div>
-                    <hr />
-                    <div class="row">
-                        <div class="col-md-12" ><a href="https://drive.google.com/file/d/1eBtxhbxlg3HTyXJtrOQrS7Wyvx3oJQ3Y/view">2.2. Responsabilidades de Madres, Padres y Tutores Legales. <img  src="../../Resources/Usr/ad.png" alt="" width="100px" height="60px"></a></div>
+                   
+                    <div class="container-imagenes">
+                        <div class="card"><div class="col-md-12" ><a href="https://drive.google.com/file/d/1eBtxhbxlg3HTyXJtrOQrS7Wyvx3oJQ3Y/view">2.2. Responsabilidades de Madres, Padres y Tutores Legales. <img  src="../../rs-plugin/images/padre-e-hijo.png" alt="" width="70px" height="20px"></a></div>
                     </div>
-                    <hr />
-                    <div class="row">
-                        <div class="col-md-12" ><a href="https://drive.google.com/file/d/1G4T8aqH55GBccn8-fDJejLSTOQ-MsHql/view">2.3. Responsabilidades de los Docentes. <img  src="../../Resources/Usr/ad.png" alt="" width="100px" height="60px"></a></div>
+    
+                    <div class="container-imagenes">
+                        <div class="card"><div class="col-md-12" ><a href="https://drive.google.com/file/d/1G4T8aqH55GBccn8-fDJejLSTOQ-MsHql/view">2.3. Responsabilidades de los Docentes. <img  src="../../rs-plugin/images/masculino.png" alt="" width="70px" height="200px"></a></div>
                     </div>
-                    <hr />
-                    <div class="row">
-                        <div class="col-md-12" ><a href="https://drive.google.com/file/d/1VRZ5zAuj4TPgodBln2QH5NpK52fJuFMu/view">2.4. Responsabilidades del Personal Administrativo, De Apoyo. <img  src="../../Resources/Usr/ad.png" alt="" width="100px" height="60px"></a></div>
+
+                    <div class="container-imagenes">
+                        <div class="card"><div class="col-md-12" ><a href="https://drive.google.com/file/d/1VRZ5zAuj4TPgodBln2QH5NpK52fJuFMu/view">2.4. Responsabilidades del Personal Administrativo, De Apoyo. <img  src="../../rs-plugin/images/apoyo.png" alt="" width="50px" height="20px"></a></div>
                     </div>
-                    <hr />
-                    <div class="row">
-                        <div class="col-md-12" ><a href="https://drive.google.com/file/d/1v5pf32RhFrTZMua6i7xt125iIOPecEmI/view">2.5. Responsabilidades del Personal de Servicios Educativos Complementarios. <img  src="../../Resources/Usr/ad.png" alt="" width="100px" height="60px"></a></div>
+                    
+                    <div class="container-imagenes">
+                        <div class="card"><div class="col-md-17" ><a href="https://drive.google.com/file/d/1v5pf32RhFrTZMua6i7xt125iIOPecEmI/view">2.5. Responsabilidades del Personal de Servicios Educativos Complementarios. <img  src="../../rs-plugin/images/femenino.png" alt="" width="50px" height="20px"></a></div>
                     </div>
-                    <hr />
-                    <div class="row">
-                        <div class="col-md-12" ><a href="https://drive.google.com/file/d/1ck6Ouyu4SX6v_d5TdGA9CaLSIEFsQNfm/view">2.6. Responsabilidades de Directivos Escolares. <img  src="../../Resources/Usr/ad.png" alt="" width="100px" height="60px"></a></div>
+
+                    <div class="container-imagenes">
+                        <div class="card"><div class="col-md-12" ><a href="https://drive.google.com/file/d/1ck6Ouyu4SX6v_d5TdGA9CaLSIEFsQNfm/view">2.6. Responsabilidades de Directivos Escolares. <img  src="../../rs-plugin/images/equipo.png" alt="" width="60px" height="20px"></a></div>
                     </div>
-                    <hr />
-                    <div class="row">
-                        <div class="col-md-12" ><a href="https://drive.google.com/file/d/1dAAia1ntWTFfJ2YNWaUTIz2anq3uUa-c/view">2.7. Responsabilidades de los Jefe de Sector y Supervisores(as). <img  src="../../Resources/Usr/ad.png" alt="" width="100px" height="60px"></a></div>
+
+                    <div class="container-imagenes">
+                        <div class="card"><div class="col-md-13" ><a href="https://drive.google.com/file/d/1dAAia1ntWTFfJ2YNWaUTIz2anq3uUa-c/view">2.7. Responsabilidades de los Jefe de Sector y Supervisores(as). <img  src="../../rs-plugin/images/gerente.png" alt="" width="70px" height="20px"></a></div>
                     </div>
-                    <hr />
-                    <div class="row">
-                        <div class="col-md-12" ><a href="https://drive.google.com/file/d/1MzXoyftyFr9aaGyrKVMy63XkoicQFvIE/view">2.8. Guía de observación para identificar indicadores de riesgo y detección en casos de acoso escolar. <img  src="../../Resources/Usr/ad.png" alt="" width="100px" height="60px"></a></div>
+
+                    <div class="container-imagenes">
+                        <div class="card"><div class="col-md-15" ><a href="https://drive.google.com/file/d/1MzXoyftyFr9aaGyrKVMy63XkoicQFvIE/view">2.8. Guía de observación para identificar indicadores de riesgo y detección en casos de acoso escolar. <img  src="../../rs-plugin/images/identificar.png" alt="" width="40px" height="20px"></a></div>
                     </div>
-                    <hr />
-                    <div class="row">
-                        <div class="col-md-12" ><a href="https://drive.google.com/file/d/1f_TQ6KNnDPM3HNEjbySh5DKTyyGaqQDv/view">2.9. Protocolo para la detección, prevención y actuación en casos de acoso escolar. <img  src="../../Resources/Usr/ad.png" alt="" width="100px" height="60px"></a></div>
+
+                    <div class="container-imagenes">
+                        <div class="card"><div class="col-md-12" ><a href="https://drive.google.com/file/d/1f_TQ6KNnDPM3HNEjbySh5DKTyyGaqQDv/view">2.9. Protocolo para la detección, prevención y actuación en casos de acoso escolar. <img  src="../../rs-plugin/images/seguro.png" alt="" width="40px" height="20px"></a></div>
                     </div>
-                    <hr />
-                    <div class="row">
-                        <div class="col-md-12" ><a href="https://drive.google.com/file/d/1UOsM99YyojoRFIFYZkKHDNz4y9lZT82q/view">2.10. Diagrama de Flujo del Protocolo de Acoso Escolar (Infografía). <img  src="../../Resources/Usr/ad.png" alt="" width="100px" height="60px"></a></div>
+                   
+                    <div class="container-imagenes">
+                        <div class="card"><div class="col-md-12" ><a href="https://drive.google.com/file/d/1UOsM99YyojoRFIFYZkKHDNz4y9lZT82q/view">2.10. Diagrama de Flujo del Protocolo de Acoso Escolar (Infografía). <img  src="../../rs-plugin/images/flujo-de-trabajo.png" alt="" width="70px" height="20px"></a></div>
                     </div>
                 </div>
+
             </section>
             
             <!--Footer -->

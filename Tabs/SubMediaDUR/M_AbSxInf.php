@@ -99,7 +99,7 @@
                     </div>
                     <hr />
                     <div class="row">
-                        <div class="col-md-12" ><a href="https://drive.google.com/file/d/1aGbKpfL6qbGg-I9wbzBGXCdlZrSHohic/view">1.10.Diagrama de Flujo del Protocolo de Abuso Sexual Infantil (Infografía). <img  src="../../Resources/Usr/ad.png" alt="" width="100px" height="60px"></a></div>
+                        <div class="col-md-12" ><a href="https://drive.google.com/file/d/1aGbKpfL6qbGg-I9wbzBGXCdlZrSHohic/view">1.10.Diagrama de Flujo del Protocolo de Abuso Sexual Infantil (Infografía). <img  src="../../rs-plugin/images/flujo-de-trabajo.png" alt="" width="70px" height="20px"></a></div>
                     </div>
                 </div>
             </section>
