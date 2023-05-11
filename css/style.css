@@ -470,28 +470,33 @@ color:#ffffff;
 	visibility:visible;
 }
 
+
 /*---------------------------CARDS-------------------------------*/
 
 
 
 .container-imagenes{
     width: 100%;
-    height: 200px;
-    padding: 10px;
+   
+    padding: 0px;
     box-sizing: border-box;
     display: flex;
-	justify-content: space-between;
-    align-items:last baseline;
+	justify-content: flex-start;
+   
+	flex-direction: row;
+	flex-wrap: wrap;
+	list-style: none;
+	gap: 10px;
+
+
 	
 }
 
 .card{
     min-width: 150px;
     width: 150px;
-    height: 100%;
     margin: 10px;
-    min-height: 100%;
-    background-color: rgb(53, 247, 98);
+    background: linear-gradient(111deg, #48af3c, #737680);
     border-radius: 5px;
     animation: 1s slide;
 	
@@ -503,6 +508,18 @@ color:#ffffff;
     background-color: rgb(113, 250, 136);
     box-shadow: -5px 5px 5px rgba(0,0,0,0.459);
     
+}
+
+.frecuentes{
+    display: block;
+    background: white;
+    color: #52545A;
+    min-height: 210px;
+    border-radius: 0 0 8px 8px;
+    padding: 0 0 15px;
+    box-shadow: 0px 1px 12px #dfe6ee;
+    transform: scale(.96);
+    transition: all .3s ease;
 }
 
 
