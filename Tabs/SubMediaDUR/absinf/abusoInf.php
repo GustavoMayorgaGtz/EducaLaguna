@@ -6,7 +6,7 @@ session_start();
 //recibimos por parametro en url la opcion que se desea ver
 $opcion = $_GET['menu'];
 //Arreglo que guarda el id del contenido respecto al protocolo
-$consulta = "SELECT * FROM tbprotocolo AS protocolo INNER JOIN tbcontenido AS contenido  ON protocolo.IdProtocolo = {$opcion} and contenido.IdProtocolo = {$opcion};";
+$consulta = "SELECT Descripcion, Titulo, URLVideo FROM tbprotocolo AS protocolo INNER JOIN tbcontenido AS contenido  ON protocolo.IdProtocolo = {$opcion} and contenido.IdProtocolo = {$opcion};";
 //Se realiza la consulta y se separan los elementos por #
 $resultado = $conexion->query($consulta);
 while ($fila = $resultado->fetch()) {

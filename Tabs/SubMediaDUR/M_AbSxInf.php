@@ -60,47 +60,47 @@
                 <div class="container boxed-block" style="border-radius: 15px; text-align: center;">
                     <br>
                     <div class="row">
-                        <div class="col-md-12" ><a href="./AbSxInf/abusoinf.php?menu=1">1.0. Protocolo De Detección, Prevención Y Actuación En Casos De Abuso Sexual Infantil. <img  src="../../Resources/Usr/ad.png" alt="" width="100px" height="60px"></a></div>
+                        <div class="col-md-12" ><a href="./absinf/abusoinf.php?menu=1">1.0. Protocolo De Detección, Prevención Y Actuación En Casos De Abuso Sexual Infantil. <img  src="../../Resources/Usr/ad.png" alt="" width="100px" height="60px"></a></div>
                     </div>
                     <hr />
                     <div class="row">
-                        <div class="col-md-12" ><a href="./AbSxInf/abusoinf.php?menu=2">1.1. Responsabilidades de Madres, Padres y Tutores Legales. <img  src="../../Resources/Usr/ad.png" alt="" width="100px" height="60px"></a></div>
+                        <div class="col-md-12" ><a href="./absinf/abusoinf.php?menu=2">1.1. Responsabilidades de Madres, Padres y Tutores Legales. <img  src="../../Resources/Usr/ad.png" alt="" width="100px" height="60px"></a></div>
                     </div>
                     <hr />
                     <div class="row">
-                        <div class="col-md-12" ><a href="https://drive.google.com/file/d/1TpIilHjCb1HwpIxBZzkU1EMwr_Od5RIH/view">1.2. Responsabilidades de Docentes. <img  src="../../Resources/Usr/ad.png" alt="" width="100px" height="60px"></a></div>
+                        <div class="col-md-12" ><a href="./absinf/abusoinf.php?menu=3">1.2. Responsabilidades de Docentes. <img  src="../../Resources/Usr/ad.png" alt="" width="100px" height="60px"></a></div>
                     </div>
                     <hr />
                     <div class="row">
-                        <div class="col-md-12" ><a href="https://drive.google.com/file/d/1irdaAiObdjj77chpwkmJGHZ0Ry9j-x9I/view">1.3. Responsabilidades de Personal Administrativo, De Apoyo. <img  src="../../Resources/Usr/ad.png" alt="" width="100px" height="60px"></a></div>
+                        <div class="col-md-12" ><a href="./absinf/abusoinf.php?menu=4">1.3. Responsabilidades de Personal Administrativo, De Apoyo. <img  src="../../Resources/Usr/ad.png" alt="" width="100px" height="60px"></a></div>
                     </div>
                     <hr />
                     <div class="row">
-                        <div class="col-md-12" ><a href="https://drive.google.com/file/d/1EnSQ2lXeb185IbdhfKVRw2azUX5jEiSW/view">1.4. Responsabilidades de Personal de Servicios Educativos Complementarios. <img  src="../../Resources/Usr/ad.png" alt="" width="100px" height="60px"></a></div>
+                        <div class="col-md-12" ><a href="./absinf/abusoinf.php?menu=5">1.4. Responsabilidades de Personal de Servicios Educativos Complementarios. <img  src="../../Resources/Usr/ad.png" alt="" width="100px" height="60px"></a></div>
                     </div>
                     <hr />
                     <div class="row">
-                        <div class="col-md-12" ><a href="https://drive.google.com/file/d/1X72kPmY9Kb7a4u_5y2IH3ZXkWjQqzANu/view">1.5. Responsabilidades de Directivos Escolares. <img  src="../../Resources/Usr/ad.png" alt="" width="100px" height="60px"></a></div>
+                        <div class="col-md-12" ><a href="./absinf/abusoinf.php?menu=6">1.5. Responsabilidades de Directivos Escolares. <img  src="../../Resources/Usr/ad.png" alt="" width="100px" height="60px"></a></div>
                     </div>
                     <hr />
                     <div class="row">
-                        <div class="col-md-12" ><a href="https://drive.google.com/file/d/15rRQIlEk65lz55HlgX3RVFBz5T8rhAP5/view">1.6. Responsabilidades del Jefe de Sector y Supervisores(as). <img  src="../../Resources/Usr/ad.png" alt="" width="100px" height="60px"></a></div>
+                        <div class="col-md-12" ><a href="./absinf/abusoinf.php?menu=7">1.6. Responsabilidades del Jefe de Sector y Supervisores(as). <img  src="../../Resources/Usr/ad.png" alt="" width="100px" height="60px"></a></div>
                     </div>
                     <hr />
                     <div class="row">
-                        <div class="col-md-12" ><a href="https://drive.google.com/file/d/1eI6ngJQfwOx6pRpy6PCVdp3S-2xTveJm/view">1.7. Guía de observación para identificar indicadores de riesgo y detección en casos de abuso sexual infantil. <img  src="../../Resources/Usr/ad.png" alt="" width="100px" height="60px"></a></div>
+                        <div class="col-md-12" ><a href="./absinf/abusoinf.php?menu=8">1.7. Guía de observación para identificar indicadores de riesgo y detección en casos de abuso sexual infantil. <img  src="../../Resources/Usr/ad.png" alt="" width="100px" height="60px"></a></div>
                     </div>
                     <hr />
                     <div class="row">
-                        <div class="col-md-12" ><a href="https://drive.google.com/file/d/1ae-GLzJH-Hx3l2O6PiwNR5klybDL1GDx/view">1.8. Recomendaciones de actuación en casos de abuso sexual infantil. <img  src="../../Resources/Usr/ad.png" alt="" width="100px" height="60px"></a></div>
+                        <div class="col-md-12" ><a href="./absinf/abusoinf.php?menu=9">1.8. Recomendaciones de actuación en casos de abuso sexual infantil. <img  src="../../Resources/Usr/ad.png" alt="" width="100px" height="60px"></a></div>
                     </div>
                     <hr />
                     <div class="row">
-                        <div class="col-md-12" ><a href="https://drive.google.com/file/d/1CIQ1kwwS-kfjSd8E7LZMOQ4dwX_fDFMh/view">1.9. Protocolo para la detección, prevención y actuación en casos de abuso sexual infantil. <img  src="../../Resources/Usr/ad.png" alt="" width="100px" height="60px"></a></div>
+                        <div class="col-md-12" ><a href="./absinf/abusoinf.php?menu=10">1.9. Protocolo para la detección, prevención y actuación en casos de abuso sexual infantil. <img  src="../../Resources/Usr/ad.png" alt="" width="100px" height="60px"></a></div>
                     </div>
                     <hr />
                     <div class="row">
-                        <div class="col-md-12" ><a href="https://drive.google.com/file/d/1aGbKpfL6qbGg-I9wbzBGXCdlZrSHohic/view">1.10.Diagrama de Flujo del Protocolo de Abuso Sexual Infantil (Infografía). <img  src="../../Resources/Usr/ad.png" alt="" width="100px" height="60px"></a></div>
+                        <div class="col-md-12" ><a href="./absinf/abusoinf.php?menu=11">1.10.Diagrama de Flujo del Protocolo de Abuso Sexual Infantil (Infografía). <img  src="../../Resources/Usr/ad.png" alt="" width="100px" height="60px"></a></div>
                     </div>
                 </div>
             </section>
