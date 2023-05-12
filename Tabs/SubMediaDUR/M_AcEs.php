@@ -68,7 +68,7 @@ session_start();
                     
                     <ul class="container-imagenes">
                         <div class="card">
-                            <div class="col-md-12" ><a href="https://drive.google.com/file/d/1OW7cY0KIsSMnf8JNHo50wu9T8D7gzyBW/view">2.0. Protocolo de detección, prevención y actuación en casos de Acoso Escolar. <img  src="../../rs-plugin/images/deteccion.png" alt="" width="50px" height="20px"></a></div>
+                            <div class="col-md-12" ><a href="https://drive.google.com/file/d/1OW7cY0KIsSMnf8JNHo50wu9T8D7gzyBW/view">2.0. Protocolo de detección, prevención y actuación en casos de Acoso Escolar. <img  src="../../rs-plugin/images/protocolo deteccion, prevencion y actuacion de casos.png" alt="" width="50px" height="20px"></a></div>
                         </div>
 
                         <div class="card">
