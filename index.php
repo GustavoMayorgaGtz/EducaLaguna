@@ -102,7 +102,7 @@ Dr. Guillermo Adame Calderón       Secretario de Educación del Estado del esta
                             <div class="row">
                                 <b>Secretaría de Educación del Estado de Durango  </b><br>
                                 <div class="col-sm-6 col-md-6">Anunciamos, ante los medios de comunicación, las estrategias de prevención de adicciones, que se aplicará en las escuelas, con los docentes, estudiantes y, en el caso de Durango, con los padres de familia.
-                                    odio velit voluptate.</div>
+                                </div>
                                 <div class="col-sm-6 col-md-6">Al sumarnos a esta campaña, nuestro estado se coloca como una entidad que se ocupa y se preocupa en temas de sensibilidad social.</div>
                             </div>
                             <hr />
