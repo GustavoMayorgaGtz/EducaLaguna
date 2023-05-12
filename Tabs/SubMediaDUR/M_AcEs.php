@@ -1,3 +1,8 @@
+<?php
+if (!isset($_SESSION['login'])) {
+    $_SESSION['login'] = false ;
+}
+?>
 <!DOCTYPE html>
 <html lang="es">
     <head>
@@ -39,13 +44,13 @@
             <?php
             require_once '../../components/nav.php';
             $nav = new Nav();
-            session_start();
+session_start();
+
             if (!isset($_SESSION['login'])) {
                 $_SESSION['login'] = false ;
                 header("location:". $nav->host ."/Tabs/SubMediaDUR/M_Principal.php");
             }
-
-            $nav->setTitle( 'Abuso Sexual Infantil' );
+            $nav->setTitle( 'Acoso Escolar' );
             $nav->setHaveLogout( true );
             $nav->setHaveDropdown( true );
             $nav->setHaveLogin(false);
@@ -56,66 +61,64 @@
             </section>
             <!--Tabla de contenido-->
             <section class="page-section">
-                <h4 style="  text-align: center; color: #2e9797; font-weight: bolder;"><a href="https://drive.google.com/file/d/1hS7MlOKl8yculG1mZq22Eyl1prz-AJ3s/view">1. Protocolo de detección, prevención y actuación en casos de Abuso Sexual Infantil.</h4>
-                <div class="container boxed-block" style="border-radius: 15px; text-align: center;">
-                    <br>
-                    <div class="row">
-                        <div class = "container-imagenes">
-                        <div class ="card"><div class="col-md-12" ><a href="https://drive.google.com/file/d/1QcywcrAn-Nhdz8RHYmyLdti20PgvKCXP/view">1.0. Protocolo De Detección, Prevención Y Actuación En Casos De Abuso Sexual Infantil. <img  src="../../rs-plugin/images/support.png" alt="" width="80px" height="40px"></a></div>
-                        </div>
-                        
-                        <div class = "container-imagenes">
-                        <div class ="card"><div class="col-md-12" ><a href="https://drive.google.com/file/d/1phIhC0iX__SzO9MOQPgWLi_iRa9bT2G-/view">1.1. Responsabilidades de Madres, Padres y Tutores Legales.<img  src="../../rs-plugin/images/family.png" alt="" width="80px" height="40px"></a></div>
-                        </div>
+                <h4 style="  text-align: center; color: #2e9797; font-weight: bolder;"><a href="https://drive.google.com/file/d/1nTJ5NIcEt8ToJBBgna-PZgIIFf7IK-Gb/view">2. Protocolo de detección, prevención y actuación
+                    en casos de Acoso Escolar.
+                </h4>
 
-                        <div class = "container-imagenes">
-                        <div class ="card"><div class="col-md-12" ><a href="https://drive.google.com/file/d/1TpIilHjCb1HwpIxBZzkU1EMwr_Od5RIH/view">1.2. Responsabilidades de Docentes. <img  src="../../rs-plugin/images/teacher.png" alt="" width="80px" height="40px"></a></div>
-                        </div>
-                        
-                        <div class = "container-imagenes">
-                        <div class ="card"><div class="col-md-12" ><a href="https://drive.google.com/file/d/1irdaAiObdjj77chpwkmJGHZ0Ry9j-x9I/view">1.3. Responsabilidades de Personal Administrativo, De Apoyo. <img  src="../../rs-plugin/images/care.png" alt="" width="80px" height="40px"></a></div>
-                        </div>
-
-                        <div class = "container-imagenes">
-                        <div class ="card"><div class="col-md-12" ><a href="https://drive.google.com/file/d/1EnSQ2lXeb185IbdhfKVRw2azUX5jEiSW/view">1.4. Responsabilidades de Personal de Servicios Educativos Complementarios. <img  src="../../rs-plugin/images/male.png" alt="" width="80px" height="40px"></a></div>
-                        </div>
-                    </div>
-                    <hr />
-                    <div class="row">
-                        <div class="container-imagenes">
-                        <div class ="card"><div class="col-md-12" ><a href="https://drive.google.com/file/d/1X72kPmY9Kb7a4u_5y2IH3ZXkWjQqzANu/view">1.5. Responsabilidades de Directivos Escolares. <img  src="../../Resources/Usr/ad.png" alt="" width="100px" height="60px"></a></div>
-                        </div>
-
-                        <div class="container-imagenes">
-                        <div class ="card"><div class="col-md-12" ><a href="https://drive.google.com/file/d/15rRQIlEk65lz55HlgX3RVFBz5T8rhAP5/view">1.6. Responsabilidades del Jefe de Sector y Supervisores(as). <img  src="../../Resources/Usr/ad.png" alt="" width="100px" height="60px"></a></div>
-                        </div>
+                <div class="frecuentes" style="border-radius: 15px; text-align: center;">
                     
-                        <div class="container-imagenes">
-                        <div class ="card"><div class="col-md-12" ><a href="https://drive.google.com/file/d/1eI6ngJQfwOx6pRpy6PCVdp3S-2xTveJm/view">1.7. Guía de observación para identificar indicadores de riesgo y detección en casos de abuso sexual infantil. <img  src="../../Resources/Usr/ad.png" alt="" width="100px" height="60px"></a></div>
+                    <ul class="container-imagenes">
+                        <div class="card">
+                            <div class="col-md-12" ><a href="https://drive.google.com/file/d/1OW7cY0KIsSMnf8JNHo50wu9T8D7gzyBW/view">2.0. Protocolo de detección, prevención y actuación en casos de Acoso Escolar. <img  src="../../rs-plugin/images/deteccion.png" alt="" width="50px" height="20px"></a></div>
                         </div>
 
-                        <div class="container-imagenes">
-                        <div class ="card"><div class="col-md-12" ><a href="https://drive.google.com/file/d/1ae-GLzJH-Hx3l2O6PiwNR5klybDL1GDx/view">1.8. Recomendaciones de actuación en casos de abuso sexual infantil. <img  src="../../Resources/Usr/ad.png" alt="" width="100px" height="60px"></a></div>
+                        <div class="card">
+                            <div class="col-md-12" ><a href="https://drive.google.com/file/d/1gsGN8kKqGCyv6ojtoZEfppRgrtdIU6rg/view">2.1 Responsabilidades de Comunidad Escolar. <img  src="../../rs-plugin/images/social.png" alt="" width="70px" height="20px"></a></div>
                         </div>
 
-                        <div class="container-imagenes">
-                            <div class ="card"><div class="col-md-12" ><a href="https://drive.google.com/file/d/1CIQ1kwwS-kfjSd8E7LZMOQ4dwX_fDFMh/view">1.9. Protocolo para la detección, prevención y actuación en casos de abuso sexual infantil. <img  src="../../Resources/Usr/ad.png" alt="" width="100px" height="60px"></a></div>
+                        <div class="card">
+                            <div class="col-md-12" ><a href="https://drive.google.com/file/d/1eBtxhbxlg3HTyXJtrOQrS7Wyvx3oJQ3Y/view">2.2. Responsabilidades de Madres, Padres y Tutores Legales. <img  src="../../rs-plugin/images/padre-e-hijo.png" alt="" width="70px" height="20px"></a></div>
                         </div>
 
-                        <div class="container-imagenes">
-                            <div class="card"><div class="col-md-12" ><a href="https://drive.google.com/file/d/1aGbKpfL6qbGg-I9wbzBGXCdlZrSHohic/view">1.10.Diagrama de Flujo del Protocolo de Abuso Sexual Infantil (Infografía). <img  src="../../Resources/Usr/ad.png" alt="" width="100px" height="60px"></a></div>
-                            </div>
+                        <div class="card">
+                            <div class="col-md-12" ><a href="https://drive.google.com/file/d/1G4T8aqH55GBccn8-fDJejLSTOQ-MsHql/view">2.3. Responsabilidades de los Docentes. <img  src="../../rs-plugin/images/masculino.png" alt="" width="70px" height="200px"></a></div>
                         </div>
-                    
-                    </div>
-                    
-                        
-                    
-                    
-                    <div class="row">
-                        
-                    </div>
+
+                        <div class="card">
+                            <div class="col-md-12" ><a href="https://drive.google.com/file/d/1VRZ5zAuj4TPgodBln2QH5NpK52fJuFMu/view">2.4. Responsabilidades del Personal Administrativo, De Apoyo. <img  src="../../rs-plugin/images/apoyo.png" alt="" width="50px" height="20px"></a></div>
+                        </div>
+
+                        <div class="card">
+                            <div class="col-md-17" ><a href="https://drive.google.com/file/d/1v5pf32RhFrTZMua6i7xt125iIOPecEmI/view">2.5. Responsabilidades del Personal de Servicios Educativos Complementarios. <img  src="../../rs-plugin/images/femenino.png" alt="" width="50px" height="20px"></a></div>
+                        </div>
+
+                        <div class="card">
+                            <div class="col-md-12" ><a href="https://drive.google.com/file/d/1ck6Ouyu4SX6v_d5TdGA9CaLSIEFsQNfm/view">2.6. Responsabilidades de Directivos Escolares. <img  src="../../rs-plugin/images/equipo.png" alt="" width="60px" height="20px"></a></div>
+                        </div>
+
+
+                        <div class="card">
+                            <div class="col-md-13" ><a href="https://drive.google.com/file/d/1dAAia1ntWTFfJ2YNWaUTIz2anq3uUa-c/view">2.7. Responsabilidades de los Jefe de Sector y Supervisores(as). <img  src="../../rs-plugin/images/gerente.png" alt="" width="70px" height="20px"></a></div>
+                        </div>
+
+                        <div class="card">
+                            <div class="col-md-15" ><a href="https://drive.google.com/file/d/1MzXoyftyFr9aaGyrKVMy63XkoicQFvIE/view">2.8. Guía de observación para identificar indicadores de riesgo y detección en casos de acoso escolar. <img  src="../../rs-plugin/images/identificar.png" alt="" width="40px" height="20px"></a></div>
+                        </div>
+
+                        <div class="card">
+                            <div class="col-md-12" ><a href="https://drive.google.com/file/d/1f_TQ6KNnDPM3HNEjbySh5DKTyyGaqQDv/view">2.9. Protocolo para la detección, prevención y actuación en casos de acoso escolar. <img  src="../../rs-plugin/images/seguro.png" alt="" width="40px" height="20px"></a></div>
+                        </div>
+
+                        <div class="card">
+                            <div class="col-md-12" ><a href="https://drive.google.com/file/d/1UOsM99YyojoRFIFYZkKHDNz4y9lZT82q/view">2.10. Diagrama de Flujo del Protocolo de Acoso Escolar (Infografía). <img  src="../../rs-plugin/images/flujo-de-trabajo.png" alt="" width="70px" height="20px"></a></div>
+                        </div>
+        </ul>
+                      
+                   
+                   
+                   
                 </div>
+
             </section>
             
             <!--Footer -->
@@ -123,7 +126,8 @@
                 <div class="copyright">
                     <div class="container">
                         <div class="row">
-                            <div class="col-xs-10 col-sm-6 col-md-6"> &copy; 2023. Apoyo educativo.                            <br />
+                        <div class="col-xs-10 col-sm-6 col-md-6"> &copy; 2023. Apoyo educativo.                            <br />
+                            <br />
                             <a href="#">Terminos y Condiciones</a> / 
                             <a href="#">Politica y Privacidad</a></div>
                             <div class="col-xs-2  col-sm-6 col-md-6 text-right page-scroll gray-bg icons-circle i-3x">

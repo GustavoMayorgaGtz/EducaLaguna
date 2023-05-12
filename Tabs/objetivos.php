@@ -28,6 +28,9 @@
     <link href="../css/color.css" rel="stylesheet">
     <link rel="stylesheet" href="objetivosStyles.css">
     <link href="../components/navstyle.css" rel="stylesheet">
+    <link rel="stylesheet" href="./mediadur.css">
+    <link rel="stylesheet" href="./style/M_principalstyle.css">
+    <link rel="stylesheet" href="../../components/navstyle.css">
 </head>
 
 <body>
@@ -52,11 +55,12 @@
         $nav->setHaveDropdown($_SESSION['login']);
         $nav->render();
         ?>
+        ?>
 
         <!-- RELLENO-->
         <section class="page-section">
             <div class="container">
-                <h4 style="color: rgb(42, 42, 46); font-weight: bold;">Mision</h4>
+                <h4 style="color: rgb(42, 42, 46); font-weight: bold;">Misión</h4>
 
                 <div class="row">
                     <div class="col-md-12"> Ofrecer una educación de calidad, integral, participativa,
@@ -66,7 +70,7 @@
                         que contribuya al impulso del desarrollo económico y social del Estado.</div>
                 </div>
                 <br>
-                <h4 style="color: rgb(42, 42, 46); font-weight: bold;">Vision</h4>
+                <h4 style="color: rgb(42, 42, 46); font-weight: bold;">Visión</h4>
 
                 <div class="row">
                     <div class="col-md-12">
@@ -77,17 +81,17 @@
                     </div>
                 </div>
                 <br>
-                <h4 style="color: rgb(42, 42, 46); font-weight: bold;">Objetivo</h4>
+                <h4 style="color: rgb(42, 42, 46); font-weight: bold;">Objetivos</h4>
 
                 <div class="row">
                     <div class="col-md-12">
                         <p>La Secretaría de Educación, instancia rectora de la política educativa, posee una actividad
                             funcional que considera la planeación, operación y control de actividades diversas, cuya
                             conducción está a cargo de un equipo humano multidisciplinario, que labora en espacios
-                            físicos variados, integrando un conjunto de fuerzas en movimiento, ha operado con elevados
+                            físicos variados, integrando un conjunto de fuerzas en movimiento. Ha operado con elevados
                             niveles de efectividad, para ofrecer el servicio educativo con calidez humana.</p>
                         <br>
-                        <p>Tiene establecidos tanto planes estratégicos planes operativos, metas generales, visión y
+                        <p>Tiene establecidos tanto planes estratégicos como planes operativos, metas generales, visión y
                             misión. Los proyectos estratégicos, diseñados para alcanzar los objetivos y las metas,
                             muestran cómo se pueden aplicar en el quehacer cotidiano, están ligados a la definición de
                             la misión de la Dependencia, el objetivo general que justifica su existencia.</p>
@@ -105,10 +109,14 @@
             <!-- ENLACES DE INTERES -->
             <span class="interes-subtitle">Enlaces de <span class="interes-span">Interés</span></span>
             <div class="container-grid-opciones">
-                <img class="img-interes" onclick="window.location.href='https://contraloria.durango.gob.mx/'" src="../rs-plugin/images/SECOED.svg">
-                <img class="img-interes" onclick="window.location.href='https://home.inai.org.mx/'" src="../rs-plugin/images/INAI.png">
-                <img class="img-interes" onclick="window.location.href='https://www.plataformadetransparencia.org.mx/'" src="../rs-plugin/images/plataformaNacional.png">
-                <img class="img-interes" onclick="window.location.href='https://idaip.org.mx/sitio/'" src="../rs-plugin/images/IDAIP.jpg">
+                <img class="img-interes" onclick="window.location.href='https://contraloria.durango.gob.mx/'"
+                    src="../rs-plugin/images/SECOED.svg">
+                <img class="img-interes" onclick="window.location.href='https://home.inai.org.mx/'"
+                    src="../rs-plugin/images/INAI.png">
+                <img class="img-interes" onclick="window.location.href='https://www.plataformadetransparencia.org.mx/'"
+                    src="../rs-plugin/images/plataformaNacional.png">
+                <img class="img-interes" onclick="window.location.href='https://idaip.org.mx/sitio/'"
+                    src="../rs-plugin/images/IDAIP.jpg">
             </div>
         </section>
 

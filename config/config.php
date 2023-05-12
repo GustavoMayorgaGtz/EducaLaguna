@@ -5,7 +5,7 @@ class Configuracion {
     Aqui se definen las variables globales que se usaran en caso de usar peticiones o usar el servidor 
     */
     public static array $DATA = [
-        'host' => 'http://localhost/DECIDE/DECIDE'
+        'host' => 'http://localhost/DECIDE'
     ];
 }
 ?>

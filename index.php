@@ -62,12 +62,12 @@
                                 <div class="index-header">
                                     <img class="index-header-img" src="rs-plugin/images/secretario.jpeg" alt=""
                                         title="">
-                                    <h1 class="upper animation animated-item-1"> Educalaguna.</h1>
+                                    <h1 class="upper animation animated-item-1"> Educalaguna</h1>
                                     <p class="description  animation animated-item-2 hidden-sm hidden-xs">
-                                        Pagina de internet de la Subsecretaria de Educacion de la Laguna de Durango <br>
-                                        "Educalaguna"
+                                        Subsecretaria de Educacion de la Laguna de Durango
+                                        
                                         <br>
-                                        "Presentacion del Subsecretario Dr. Ulises Adame de León"
+                                        "Presentación del Subsecretario Dr. Ulises Adame de León"
                                     </p>
                                 </div>
                             </div>
@@ -82,41 +82,28 @@
                     <div class="row">
                         <div class="col-sm-12 col-md-9">
                             <div class="row">
-                                <div class="col-sm-6 col-md-6">Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                                    Repudiandae odit iste exercitationem praesentium deleniti nostrum laborum rem id
-                                    nihil tempora. Adipisci ea commodi unde nam placeat cupiditate quasi a ducimus rem
-                                    consequuntur ex eligendi minima voluptatem assumenda voluptas quidem sit maiores
-                                    odio velit voluptate.</div>
-                                <div class="col-sm-6 col-md-6">Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                                    Repudiandae odit iste exercitationem praesentium deleniti nostrum laborum rem id
-                                    nihil tempora. Adipisci ea commodi unde nam placeat cupiditate quasi a ducimus rem
-                                    consequuntur ex eligendi minima voluptatem assumenda voluptas quidem sit maiores
-                                    odio velit voluptate.</div>
+                                <div class="col-md-12"><b>PLANTEAMIENTO</b> <br> Brindar a la población la oportunidad de acceso al servicio educativo, en la modalidad que requiera. Elevar la calidad de la educación, abatir el rezago educativo y ampliar la cobertura de atención. Dinamizar los procesos de planeación, organización, seguimiento y evaluación de programas, proyectos y acciones institucionales educativas. Adecuar permanentemente los planes y programas de estudio, a las características y valores culturales de las distintas etnias de la Entidad. Diversificar los modelos de enseñanza, con base en las características económicas, sociales y culturales de individuos y grupos. Potenciar en los alumnos el desarrollo de las capacidades cognitivas, habilidades y aptitudes. Impulsar la formación en valores, a efecto de preparar a los alumnos para asumir sus responsabilidades sociales y enfrentar con éxito los retos del futuro. Incorporar a la educación el uso de la tecnología y de los sistemas modernos de información. Impulsar las competencias pedagógicas del docente, para el desarrollo de procesos innovadores y creativos en el aula. Organizar y capacitar a los equipos técnico-pedagógicos, para que realicen la asesoría tutorial. Valorar la eficiencia en el desempeño profesional de los maestros. Propiciar la recuperación de la función técnico-pedagógico de directores y supervisores. Hacer eficiente la función de los consejos técnicos y academias de maestros. Reforzar la figura del docente indígena. Integrar en un solo organismo, las instancias que efectúan acciones de formación, capacitación y actualización profesional del magisterio. Promover el sentido de corresponsabilidad entre escuela-comunidad, mediante el adecuado funcionamiento de los consejos escolares, municipales y estatal de participación social. Sensibilizar a la comunidad para lograr la conservación y mejoramiento de los espacios educativos. Promover entre los padres de familia, su participación comprometida con la educación. Establecer coordinación con los diversos sectores, en beneficio de la educación.</div>
                             </div>
                             <hr />
                             <div class="row">
-                                <div class="col-md-12">Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                                    Repudiandae odit iste exercitationem praesentium deleniti nostrum laborum rem id
-                                    nihil tempora. Adipisci ea commodi unde nam placeat cupiditate quasi a ducimus rem
-                                    consequuntur ex eligendi minima voluptatem assumenda voluptas quidem sit maiores
-                                    odio velit voluptate. Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                                    Repudiandae odit iste exercitationem praesentium deleniti nostrum laborum rem id
-                                    nihil tempora. Adipisci ea commodi unde nam placeat cupiditate quasi a ducimus rem
-                                    consequuntur ex eligendi minima voluptatem assumenda voluptas quidem sit maiores
-                                    odio velit voluptate.</div>
+                                <div class="col-md-12"><b>DR. JOSÉ GUILLERMO ADAME CALDERÓN <br> SECRETARIO DE EDUCACIÓN</b> <br> La historia nos ha demostrado que las sociedades que invierten en educación se transforman, en el corto tiempo, en comunidades armónicas, sustentables y de crecimiento sostenido.<br>
+En este sentido, es claro, que la inversión que se requiere para un Sistema Educativo de Calidad, requiere de aspectos que van más allá de los recursos económicos.<br>
+En Durango, estamos ciertos, contamos con un magisterio enérgico, propositivo y que se adapta al cambio, según las circunstancias que se presenten. Debemos aprovechar con inteligencia, con actitud, visión y compromiso, pero sobre todo con voluntad, la capacidad intelectual, conocimientos y experiencias y con ello, construir un modelo educativo que responda con mayor claridad a las necesidades educativas que tenemos y así configurar el tejido social que estamos deseando, para una convivencia social digna de los seres humanos que somos.<br>
+Nuestra mayor riqueza está en nuestra niñez y juventud, ellos son nuestro compromiso y el motivo de nuestro trabajo diario, son el motivo que tenemos para idear y consolidar un horizonte más promisorio.<br>
+Nuestro mayor empuje está en nuestras maestras y maestros, en todos los trabajadores de la educación; con un ejército de tal magnitud podemos crear la dinámica necesaria para que todas nuestras instituciones educativas se conviertan en centros donde se adquieran conocimientos, se transformen y se conviertan en ciencia nueva que se aplica y se convierta en tecnología revolucionaria.<br>
+En los cuerpos de coordinación, jefaturas de área, supervisión de zona y de sector tenemos una fuerza de apoyo y acompañamiento que amalgama experiencia y preparación, docencia y profesionalización orientadas a la solución de retos y desafíos que se presentan en la cotidiana acción de la enseñanza y el aprendizaje. El confinamiento social nos dio clara muestra de la determinación con la que los padres de familia actúan para hacer que sus hijos se formen en los diferentes trayectos educativos y lo sigan haciendo fuera del aula.<br>
+Con la voluntad conjunta de todos estos sectores poblacionales, con la interacción de las instituciones, con el apoyo de los tres ordenes de gobierno y el valioso aporte de los diferentes sectores sociales, podemos construir un proyecto y modelo educativo que haga que Durango se sitúe dentro de los primeros cinco lugares en calidad educativa en el país.<br>
+Esa es nuestra visión y en ello centramos toda nuestra energía y la suma de todos los esfuerzos.<br>
+Por una Educación con Valor.<br>
+Dr. Guillermo Adame Calderón       Secretario de Educación del Estado del estado de Durango
+</div>
                             </div>
                             <hr />
                             <div class="row">
-                                <div class="col-sm-6 col-md-6">Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                                    Repudiandae odit iste exercitationem praesentium deleniti nostrum laborum rem id
-                                    nihil tempora. Adipisci ea commodi unde nam placeat cupiditate quasi a ducimus rem
-                                    consequuntur ex eligendi minima voluptatem assumenda voluptas quidem sit maiores
+                                <b>Secretaría de Educación del Estado de Durango  </b><br>
+                                <div class="col-sm-6 col-md-6">Anunciamos, ante los medios de comunicación, las estrategias de prevención de adicciones, que se aplicará en las escuelas, con los docentes, estudiantes y, en el caso de Durango, con los padres de familia.
                                     odio velit voluptate.</div>
-                                <div class="col-sm-6 col-md-6">Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                                    Repudiandae odit iste exercitationem praesentium deleniti nostrum laborum rem id
-                                    nihil tempora. Adipisci ea commodi unde nam placeat cupiditate quasi a ducimus rem
-                                    consequuntur ex eligendi minima voluptatem assumenda voluptas quidem sit maiores
-                                    odio velit voluptate.</div>
+                                <div class="col-sm-6 col-md-6">Al sumarnos a esta campaña, nuestro estado se coloca como una entidad que se ocupa y se preocupa en temas de sensibilidad social.</div>
                             </div>
                             <hr />
                         </div>
@@ -126,7 +113,7 @@
                                 <div class="widget-title">
                                     <h3 class="title">Importante</h3>
                                 </div>
-                                <ul class="latest-posts">
+                                <!-- <ul class="latest-posts">
                                     <li>
                                         <div class="post-thumb">
                                             <img class="img-rounded" src="rs-plugin/images/MediaDUR.jpg" alt="" title=""
@@ -135,7 +122,7 @@
                                         <div class="post-details">
                                             <div class="description">
                                                 <a href="https://lagunasubsecretari.wixsite.com/mediadur">
-                                                    <!-- Text -->
+                                                   
                                                     Sitio web MediaDURE wix.</a>
                                             </div>
                                         </div>
@@ -148,17 +135,17 @@
                                         <div class="post-details">
                                             <div class="description">
                                                 <a href="#">
-                                                    <!-- Text -->
+                                                    
                                                     The standard chunk of Lorem Ipsum used since.</a>
                                             </div>
                                             <div class="meta">
-                                                <!-- Meta Date -->
+                                                
                                                 <span class="time">
                                                     <i class="fa fa-calendar"></i> 03.11.2014</span>
                                             </div>
                                         </div>
                                     </li>
-                                </ul>
+                                </ul> -->
                             </div>
                             <div class="widget">
                                 <div class="widget-title">
@@ -405,7 +392,46 @@
                                     <br />Gomez Palacio, Mx.
                                 </p>
                                 <p>
-                                    <strong>Contactanos:</strong> +52 (871) 2-34-25-50
+                                    <strong>Números de teléfono de interés:</strong>
+                                    <div class="table-container" ><table class="NumerosTele">
+                                    <thead>
+                                        <tr>
+                                            <th>Agencia</th>
+                                            <th>Telefono</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr>
+                                            <td>Presidencia</td>
+                                            <td>871 175 1000</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Emergencias</td>
+                                            <td>911</td>
+                                        </tr> 
+                                        <tr>
+                                            <td>Bomberos</td>
+                                            <td>871 714 1210</td>
+                                        </tr> 
+                                        <tr>
+                                            <td>Cruz Roja </td>
+                                            <td>871 723 7620</td>
+                                        </tr>   
+                                        <tr>
+                                            <td>Dif estatal laguna</td>
+                                            <td>871 723 2605</td>
+                                        </tr>  
+                                        <tr>
+                                            <td>CENTRO DE SALUD</td>
+                                            <td>871 725 3032</td>
+                                        </tr>  
+                                        <tr>
+                                            <td>DIF LERDO </td>
+                                            <td>871 725 3175</td>
+                                        </tr>            
+                                        <!-- Agrega más filas según sea necesario -->
+                                    </tbody>
+                                </table></div>
                                 </p>
                                 <div class="social-icon gray-bg icons-circle i-3x">
                                     <a href="https://www.facebook.com/MediaDUR/">

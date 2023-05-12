@@ -115,49 +115,7 @@
 	- Item Box
 	- Carousel Custom height 
 	
-/****************CardsTarjetas*******************/
-.container-imagenes{
-    width: 100%;
-    height: 240px;
-    padding: 0px;
-    box-sizing: border-box;
-    display: flex;
-    justify-content: space-between;
-    align-items: first baseline;
-}
-
-.card{
-    min-width: 150px;
-    width: calc(33.33% - 20px);
-    height: 100%;
-    margin: 10px;
-    min-height: 100%;
-    background-color: rgb(5, 170, 14);
-    border-radius: 5px;
-    animation: 2s slide;
-}
-
-.card:hover{
-    transition: all 2s;
-    transform: scale(1,1);
-    background-color: rgb(83, 245, 8);
-    box-shadow: -5px 5px 5px black;
-}
-
-@keyframes slide {
-    0%{
-        opacity: 0;
-        transform: translateX(-100%);
-    }
-    100%{
-        opacity: 1;
-        transform: translate(0%);
-    }
-    
-}
-
-
-	/******************************************************************************
+/******************************************************************************
   Global Style 
 *******************************************************************************/
 body {
@@ -314,8 +272,9 @@ a:focus{
 	outline: 0 none;
 }
 .container {
-    max-width: 1200px;
+    max-width: 1000px;
     width: 100%;
+	
 }
 /* Positions */
 
@@ -510,6 +469,67 @@ color:#ffffff;
 .visible{
 	visibility:visible;
 }
+
+
+/*---------------------------CARDS-------------------------------*/
+
+
+
+.container-imagenes{
+    width: 100%;
+   
+    padding: 0px;
+    box-sizing: border-box;
+    display: flex;
+	justify-content: flex-start;
+   
+	flex-direction: row;
+	flex-wrap: wrap;
+	list-style: none;
+	gap: 10px;
+
+
+	
+}
+
+.card{
+    min-width: 150px;
+    width: 150px;
+    margin: 10px;
+    background: linear-gradient(111deg, #48af3c, #737680);
+    border-radius: 5px;
+    animation: 1s slide;
+	
+}
+
+.card:hover{
+    transition: all 2s;
+    transform: scale(1.1);
+    background: linear-gradient(111deg, #2f6829, #737680);
+    box-shadow: -5px 5px 5px rgba(0,0,0,0.459);
+    
+}
+
+.frecuentes{
+    display: block;
+    background: white;
+    color: #52545A;
+    min-height: 210px;
+    border-radius: 0 0 8px 8px;
+    padding: 0 0 15px;
+    box-shadow: 0px 1px 12px #dfe6ee;
+    transform: scale(.96);
+    transition: all .3s ease;
+}
+
+
+
+
+
+
+
+
+
 /******************************************************************************
   Icons Styles
 *******************************************************************************/
@@ -1236,26 +1256,6 @@ i.fa-1x{
     right: 0;
 }
 /* BG Image */
-.black{
-	color: #000;
-}
-
-.containerpersonal{
-	background-color: red;
-	background-repeat: no-repeat;
-	background-position: center top;
-	-webkit-background-size: cover;
-	background-size: cover;
-	bottom: 0;
-	left: 0;
-	overflow: hidden;
-	position: absolute;
-	right: 0;
-	text-align: center;
-	top: 0;
-	z-index: 0;
-	min-height:unset;
-}
 
 .image-bg{
 	width: 100%;
@@ -1341,14 +1341,12 @@ i.fa-1x{
 }
 .image-bg .overlay-strips,
 .overlay-strips{
-  background: #c2c2c2;
+  background:url(../img/patterns/pattern.png) repeat;
   height: 100%;
   opacity: .8;
   filter: alpha(opacity=20);
   width: 100%;
 }
-
-
 .image-bg .overlay-boxed,
 .overlay-boxed {
   background:url(../img/patterns/pattern2.png) repeat;
