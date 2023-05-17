@@ -28,6 +28,30 @@ align-items: center;
     grid-template-columns: 1fr 1fr 1fr 1fr;
     gap: 20px;
 }
+.obj_design{
+	font-family: 'Mukta', sans-serif;
+    font-weight: bold;
+    font-size: 16px;
+    padding: 5px 10px;
+    border-top: 2px solid rgb(57, 167, 57);
+    animation-iteration-count: 1;
+    animation: 2s slide;
+    animation-fill-mode: forwards;
+    margin: 5px;
+    box-shadow: -5px 5px 5px rgba(0, 0, 0, 0.068);
+	
+	
+}
+@keyframes slide{
+    0%{
+        transform: translateX(-100%);
+        opacity: 0;
+    }
+    100%{
+        transform: translateX(0%);
+        opacity: 1;
+    }
+}
 
 .img-interes{
     cursor: pointer;

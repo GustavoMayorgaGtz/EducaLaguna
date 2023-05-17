@@ -46,7 +46,7 @@
         require '../components/nav.php';
         $nav = new Nav();
         $nav->setTitle('SEED');
-        session_start();
+
         if (!isset($_SESSION['login'])) {
             $_SESSION['login'] = false;
         }
@@ -59,32 +59,41 @@
 
         <!-- RELLENO-->
         <section class="page-section">
-            <div class="container">
-                <h4 style="color: rgb(42, 42, 46); font-weight: bold;">Misión</h4>
+            <div class="container ">
+            <div class="obj_design" >
+                <h4 
+                   style="color: rgb(42, 42, 46); font-weight: bold;">Misión</h4>
 
                 <div class="row">
-                    <div class="col-md-12"> Ofrecer una educación de calidad, integral, participativa,
+                    <div class="col-md-12" style="text-align:justify;"> 
+                    <p class="description  animation animated-item-2 hidden-sm hidden-xs opcions">
+                    Ofrecer una educación de calidad, integral, participativa,
                         innovadora y promotora del aprendizaje que nos permita formar personas comprometidas con
                         el desarrollo sostenible, capaces de elevar su nivel de vida, el desarrollo personal y la
                         formación de capital humano,
-                        que contribuya al impulso del desarrollo económico y social del Estado.</div>
+                        que contribuya al impulso del desarrollo económico y social del Estado. 
+                    </div></div>
+                    
                 </div>
                 <br>
+                <div class="obj_design" >
                 <h4 style="color: rgb(42, 42, 46); font-weight: bold;">Visión</h4>
 
                 <div class="row">
-                    <div class="col-md-12">
+                    <div class="col-md-12" style="text-align:justify;">
                         Ser un sistema educativo sólido, con una educación para todos, con sentido humano y social,
                         que orienta su actuación bajo el impulso de la equidad, la rendición de cuentas,
                         la transparencia y ofrece servicios educativos, administrativos con eficiencia, calidad y
                         pertinencia.
                     </div>
                 </div>
+                </div>
                 <br>
+                <div class="obj_design" >
                 <h4 style="color: rgb(42, 42, 46); font-weight: bold;">Objetivos</h4>
 
                 <div class="row">
-                    <div class="col-md-12">
+                    <div class="col-md-12" style="text-align:justify;">
                         <p>La Secretaría de Educación, instancia rectora de la política educativa, posee una actividad
                             funcional que considera la planeación, operación y control de actividades diversas, cuya
                             conducción está a cargo de un equipo humano multidisciplinario, que labora en espacios
@@ -103,6 +112,7 @@
                             quienes coordinan las acciones de los niveles operativos.</p>
                     </div>
                 </div>
+                </div>
                 <br>
         </section>
         <section class="container-interes">
@@ -116,7 +126,7 @@
                 <img class="img-interes" onclick="window.location.href='https://www.plataformadetransparencia.org.mx/'"
                     src="../rs-plugin/images/plataformaNacional.png">
                 <img class="img-interes" onclick="window.location.href='https://idaip.org.mx/sitio/'"
-                    src="../rs-plugin/images/IDAIP.jpg">
+                    src="../rs-plugin/images/IDAIP.png">
             </div>
         </section>
 

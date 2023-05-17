@@ -39,11 +39,9 @@
             <?php
             require_once '../../components/nav.php';
             $nav = new Nav();
-session_start();
 
             if (!isset($_SESSION['login'])) {
                 $_SESSION['login'] = false ;
-                header("location:". $nav->host ."/Tabs/SubMediaDUR/M_Principal.php");
             }
             $nav->setTitle( 'Mochila Segura' );
             $nav->setHaveLogout( true );

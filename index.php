@@ -64,7 +64,7 @@
                                         title="">
                                     <h1 class="upper animation animated-item-1"> Educalaguna</h1>
                                     <p class="description  animation animated-item-2 hidden-sm hidden-xs">
-                                        Subsecretaria de Educacion de la Laguna de Durango
+                                        Subsecretaría de Educación de la Laguna de Durango
                                         
                                         <br>
                                         "Presentación del Subsecretario Dr. Ulises Adame de León"
@@ -82,11 +82,11 @@
                     <div class="row">
                         <div class="col-sm-12 col-md-9">
                             <div class="row">
-                                <div class="col-md-12"><b>PLANTEAMIENTO</b> <br> Brindar a la población la oportunidad de acceso al servicio educativo, en la modalidad que requiera. Elevar la calidad de la educación, abatir el rezago educativo y ampliar la cobertura de atención. Dinamizar los procesos de planeación, organización, seguimiento y evaluación de programas, proyectos y acciones institucionales educativas. Adecuar permanentemente los planes y programas de estudio, a las características y valores culturales de las distintas etnias de la Entidad. Diversificar los modelos de enseñanza, con base en las características económicas, sociales y culturales de individuos y grupos. Potenciar en los alumnos el desarrollo de las capacidades cognitivas, habilidades y aptitudes. Impulsar la formación en valores, a efecto de preparar a los alumnos para asumir sus responsabilidades sociales y enfrentar con éxito los retos del futuro. Incorporar a la educación el uso de la tecnología y de los sistemas modernos de información. Impulsar las competencias pedagógicas del docente, para el desarrollo de procesos innovadores y creativos en el aula. Organizar y capacitar a los equipos técnico-pedagógicos, para que realicen la asesoría tutorial. Valorar la eficiencia en el desempeño profesional de los maestros. Propiciar la recuperación de la función técnico-pedagógico de directores y supervisores. Hacer eficiente la función de los consejos técnicos y academias de maestros. Reforzar la figura del docente indígena. Integrar en un solo organismo, las instancias que efectúan acciones de formación, capacitación y actualización profesional del magisterio. Promover el sentido de corresponsabilidad entre escuela-comunidad, mediante el adecuado funcionamiento de los consejos escolares, municipales y estatal de participación social. Sensibilizar a la comunidad para lograr la conservación y mejoramiento de los espacios educativos. Promover entre los padres de familia, su participación comprometida con la educación. Establecer coordinación con los diversos sectores, en beneficio de la educación.</div>
+                                <div  class="col-md-12" style="text-align:justify;" ><b>PLANTEAMIENTO</b> <br> Brindar a la población la oportunidad de acceso al servicio educativo, en la modalidad que requiera. Elevar la calidad de la educación, abatir el rezago educativo y ampliar la cobertura de atención. Dinamizar los procesos de planeación, organización, seguimiento y evaluación de programas, proyectos y acciones institucionales educativas. Adecuar permanentemente los planes y programas de estudio, a las características y valores culturales de las distintas etnias de la Entidad. Diversificar los modelos de enseñanza, con base en las características económicas, sociales y culturales de individuos y grupos. Potenciar en los alumnos el desarrollo de las capacidades cognitivas, habilidades y aptitudes. Impulsar la formación en valores, a efecto de preparar a los alumnos para asumir sus responsabilidades sociales y enfrentar con éxito los retos del futuro. Incorporar a la educación el uso de la tecnología y de los sistemas modernos de información. Impulsar las competencias pedagógicas del docente, para el desarrollo de procesos innovadores y creativos en el aula. Organizar y capacitar a los equipos técnico-pedagógicos, para que realicen la asesoría tutorial. Valorar la eficiencia en el desempeño profesional de los maestros. Propiciar la recuperación de la función técnico-pedagógico de directores y supervisores. Hacer eficiente la función de los consejos técnicos y academias de maestros. Reforzar la figura del docente indígena. Integrar en un solo organismo, las instancias que efectúan acciones de formación, capacitación y actualización profesional del magisterio. Promover el sentido de corresponsabilidad entre escuela-comunidad, mediante el adecuado funcionamiento de los consejos escolares, municipales y estatal de participación social. Sensibilizar a la comunidad para lograr la conservación y mejoramiento de los espacios educativos. Promover entre los padres de familia, su participación comprometida con la educación. Establecer coordinación con los diversos sectores, en beneficio de la educación.</div>
                             </div>
                             <hr />
                             <div class="row">
-                                <div class="col-md-12"><b>DR. JOSÉ GUILLERMO ADAME CALDERÓN <br> SECRETARIO DE EDUCACIÓN</b> <br> La historia nos ha demostrado que las sociedades que invierten en educación se transforman, en el corto tiempo, en comunidades armónicas, sustentables y de crecimiento sostenido.<br>
+                                <div class="col-md-12" style="text-align:justify;"><b>DR. JOSÉ GUILLERMO ADAME CALDERÓN <br> SECRETARIO DE EDUCACIÓN</b> <br> La historia nos ha demostrado que las sociedades que invierten en educación se transforman, en el corto tiempo, en comunidades armónicas, sustentables y de crecimiento sostenido.<br>
 En este sentido, es claro, que la inversión que se requiere para un Sistema Educativo de Calidad, requiere de aspectos que van más allá de los recursos económicos.<br>
 En Durango, estamos ciertos, contamos con un magisterio enérgico, propositivo y que se adapta al cambio, según las circunstancias que se presenten. Debemos aprovechar con inteligencia, con actitud, visión y compromiso, pero sobre todo con voluntad, la capacidad intelectual, conocimientos y experiencias y con ello, construir un modelo educativo que responda con mayor claridad a las necesidades educativas que tenemos y así configurar el tejido social que estamos deseando, para una convivencia social digna de los seres humanos que somos.<br>
 Nuestra mayor riqueza está en nuestra niñez y juventud, ellos son nuestro compromiso y el motivo de nuestro trabajo diario, son el motivo que tenemos para idear y consolidar un horizonte más promisorio.<br>
@@ -101,9 +101,8 @@ Dr. Guillermo Adame Calderón       Secretario de Educación del Estado del esta
                             <hr />
                             <div class="row">
                                 <b>Secretaría de Educación del Estado de Durango  </b><br>
-                                <div class="col-sm-6 col-md-6">Anunciamos, ante los medios de comunicación, las estrategias de prevención de adicciones, que se aplicará en las escuelas, con los docentes, estudiantes y, en el caso de Durango, con los padres de familia.
-                                </div>
-                                <div class="col-sm-6 col-md-6">Al sumarnos a esta campaña, nuestro estado se coloca como una entidad que se ocupa y se preocupa en temas de sensibilidad social.</div>
+                                <div class="col-sm-6 col-md-6" style="text-align:justify;">Anunciamos, ante los medios de comunicación, las estrategias de prevención de adicciones, que se aplicará en las escuelas, con los docentes, estudiantes y, en el caso de Durango, con los padres de familia..</div>
+                                <div class="col-sm-6 col-md-6" style="text-align:justify;">Al sumarnos a esta campaña, nuestro estado se coloca como una entidad que se ocupa y se preocupa en temas de sensibilidad social.</div>
                             </div>
                             <hr />
                         </div>
@@ -153,11 +152,7 @@ Dr. Guillermo Adame Calderón       Secretario de Educación del Estado del esta
                                 </div>
                                 <div class="owl-carousel navigation-1" data-pagination="false" data-items="1"
                                     data-autoplay="true" data-navigation="true">
-                                    <iframe class="Video"
-                                        src="https://www.youtube.com/embed/HM6qnRgyB_U?autoplay=1&mute=1&loop=1"
-                                        title="MediaDUR Intro" frameborder="0"
-                                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                                        allowfullscreen></iframe>
+                                   <iframe width="560" height="315" src="https://www.youtube.com/embed/QOlP-YatpVU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
                                 </div>
@@ -177,7 +172,7 @@ Dr. Guillermo Adame Calderón       Secretario de Educación del Estado del esta
                                     <tbody>
                                         <tr>
                                             <td>MTRO. JAIRO SIGFRIDO CERON FRANCO</td>
-                                            <td>DIRECTOR DE EDUCACION BASICA</td>
+                                            <td>DIRECTOR DE EDUCACIÓN BÁSICA</td>
                                         </tr>
                                         <tr>
                                             <td>DR. CÉSAR MIRANDA GUARDADO</td>
@@ -185,19 +180,19 @@ Dr. Guillermo Adame Calderón       Secretario de Educación del Estado del esta
                                         </tr>
                                         <tr>
                                             <td>PROFR. FRANCISCO MONREAL GARCÍA</td>
-                                            <td>COORDINADOR DE EDUCACION PRIMARIA</td>
+                                            <td>COORDINADOR DE EDUCACIÓN PRIMARIA</td>
                                         </tr>
                                         <tr>
                                             <td>PROFR. LAZARO CASTRO VALENZUELA</td>
-                                            <td>SUBJEFE DE EDUCACION MEDIA SUPERIOR</td>
+                                            <td>SUBJEFE DE EDUCACIÓN MEDIA SUPERIOR</td>
                                         </tr>
                                         <tr>
-                                            <td>LIC. LEONCIO ORTIZ GOMEZ</td>
-                                            <td>COORDINADOR DE PARTICIPACION SOCIAL</td>
+                                            <td>LIC. LEONCIO ORTIZ GÓMEZ</td>
+                                            <td>COORDINADOR DE PARTICIPACIÓN SOCIAL</td>
                                         </tr>
                                         <tr>
                                             <td>MTRA. GLORIA ALICIA DÍAZ HURTADO</td>
-                                            <td>COORDINADORA DE EDUCACION INICIAL</td>
+                                            <td>COORDINADORA DE EDUCACIÓN INICIAL</td>
                                         </tr>
                                         <tr>
                                             <td>PROFR. JOSE LUIS GALINDO ALMANZA</td>
@@ -213,19 +208,19 @@ Dr. Guillermo Adame Calderón       Secretario de Educación del Estado del esta
                                         </tr>
                                         <tr>
                                             <td>PROFRA. FRANCISCA BLANCO VILLANUEVA</td>
-                                            <td>SUBJEFA DE EDUCACION PREESCOLAR</td>
+                                            <td>SUBJEFA DE EDUCACIÓN PREESCOLAR</td>
                                         </tr>
                                         <tr>
                                             <td>C.P. ARTURO IBARRA FLORES</td>
-                                            <td>COORDINADOR DE COOPERATIVAS ESCOLARES DE PRODUCCION Y DE CONSUMO</td>
+                                            <td>COORDINADOR DE COOPERATIVAS ESCOLARES DE PRODUCCIÓN Y DE CONSUMO</td>
                                         </tr>
                                         <tr>
                                             <td>PROFRA. MA. IDALIA DEL SOCORRO ESPINOZA MERAZ</td>
-                                            <td>SUBJEFA DE EDUCACION ESPECIAL</td>
+                                            <td>SUBJEFA DE EDUCACIÓN ESPECIAL</td>
                                         </tr>
                                         <tr>
                                             <td>PROFR. JUAN EFREN NUÑEZ LANDEROS</td>
-                                            <td>COORDINADOR DE EDUCACION FISICA</td>
+                                            <td>COORDINADOR DE EDUCACIÓN FÍSICA</td>
                                         </tr>
                                         <tr>
                                             <td>MARIA CONCEPCIÓN BENÍTEZ MARTÍNEZ</td>
@@ -257,11 +252,11 @@ Dr. Guillermo Adame Calderón       Secretario de Educación del Estado del esta
                                         </tr>
                                         <tr>
                                             <td>DRA. CONCEPCIÓN DEL SOCORRO MEDRANO MADRILES</td>
-                                            <td>COORDINACION GENERAL DEL CENTRO DE INVESTIGACION E NNOVACIÓN PARA EL DESARROLLO EDUCATIVO (CIIDE)</td>
+                                            <td>COORDINACIÓN GENERAL DEL CENTRO DE INVESTIGACIÓN E NNOVACIÓN PARA EL DESARROLLO EDUCATIVO (CIIDE)</td>
                                         </tr>
                                         <tr>
                                             <td>ING. ANDRES MADRID ESCOBEDO</td>
-                                            <td>DIRECTOR DE ADMINISTRACION Y PLANEACION</td>
+                                            <td>DIRECTOR DE ADMINISTRACIÓN Y PLANEACIÓN</td>
                                         </tr>
                                         <tr>
                                             <td>M.A.F. Y M.E.D. ROMAN ABEL RAMOS GARCÍA</td>
@@ -269,31 +264,31 @@ Dr. Guillermo Adame Calderón       Secretario de Educación del Estado del esta
                                         </tr>
                                         <tr>
                                             <td>M.E. DULCE ARGENTINA BONILLA DÁVILA</td>
-                                            <td>JEFA DEL DEPARTAMENTO DE PLANEACION EDUCACTIVA</td>
+                                            <td>JEFA DEL DEPARTAMENTO DE PLANEACIÓN EDUCACTIVA</td>
                                         </tr>
                                         <tr>
                                             <td>ING. FRACISCO JAVIER RODRÍGUEZ VILLA</td>
                                             <td>SUBJEFE DE RECURSOS HUMANOS</td>
                                         </tr>
                                         <tr>
-                                            <td>C.P. MARIA DE LOS ANGELES DE AVILA RAMOS</td>
+                                            <td>C.P. MARIA DE LOS ANGELES DE ÁVILA RAMOS</td>
                                             <td>SUBJEFA DE RECURSOS FINANCIEROS</td>
                                         </tr>
                                         <tr>
-                                            <td>C. ELIZABETH MARTINEZ JIMENEZ</td>
-                                            <td>SUBJEFE DE NOMINA Y DISTRIBUCION DE CHEQUES</td>
+                                            <td>C. ELIZABETH MARTÍNEZ JÍMENEZ</td>
+                                            <td>SUBJEFE DE NOMINA Y DISTRIBUCIÓN DE CHEQUES</td>
                                         </tr>
                                         <tr>
-                                            <td>C. RENÉ GONZÁLEZ MUÑOZ</td>
+                                            <td>C. RENÉ GONZÁLEZ MÚÑOZ</td>
                                             <td>SUBJEFE DE RECURSOS MATERIALES Y SERVICIOS</td>
                                         </tr>
                                         <tr>
                                             <td>ARQ. JESÚS ESPINO MARTÍNEZ</td>
-                                            <td>ENCARGADO DE LA SUBJEFATURA DE PROGRAMACION </td>
+                                            <td>ENCARGADO DE LA SUBJEFATURA DE PROGRAMACIóN </td>
                                         </tr>
                                         <tr>
                                             <td>ING. LILIANA MARÍA RODRÍGUEZ IBARRA</td>
-                                            <td>ENCARGADA DE LA SUBJEFATURA DE REGISTRO Y CERTIFICACION ESCOLAR</td>
+                                            <td>ENCARGADA DE LA SUBJEFATURA DE REGISTRO Y CERTIFICACIóN ESCOLAR</td>
                                         </tr>
                                         <tr>
                                             <td>ING. ANTONIO VILLAGRANA CARRAZCO</td>
@@ -329,17 +324,17 @@ Dr. Guillermo Adame Calderón       Secretario de Educación del Estado del esta
                 <div class="container black">
                     <div class="section-title">
                         <!-- Heading -->
-                        <h2 class="title">Subsecretaria de educacion</h2>
+                        <h2 class="title">Subsecretaría de educación</h2>
                     </div>
                     <div class="row">
                         <div class="col-md-12 text-center">
                             <div class="owl-carousel pagination-1 dark-switch text-center " data-pagination="true"
-                                data-autoplay="true" data-navigation="false" data-items="3">
+                                data-autoplay="true" data-navigation="false" data-items="2">
                                 <div class="item">
                                     <p><br>Secretario de Educación en el Estado de Durango.</p>
                                     <div class="client-image">
                                         <!-- Image -->
-                                        <img class="img-circle" src="Resources/Usr/user.png" width="80" height="80"
+                                        <img class="img-circle" src="rs-plugin/images/persona2.jpg" width="80" height="80"
                                             alt="">
                                     </div>
                                     <div class="client-details text-center">
@@ -355,7 +350,7 @@ Dr. Guillermo Adame Calderón       Secretario de Educación del Estado del esta
                                     <p><br>Subsecretario de Educación en la Región Laguna.</p>
                                     <div class="client-image">
                                         <!-- Image -->
-                                        <img class="img-circle" src="Resources/Usr/user.png" width="80" height="80"
+                                        <img class="img-circle" src="rs-plugin/images/persona1.jpg" width="80" height="80"
                                             alt="">
                                     </div>
                                     <div class="client-details text-center">
@@ -382,14 +377,12 @@ Dr. Guillermo Adame Calderón       Secretario de Educación del Estado del esta
                                 <div class="widget-title">
                                     <h3 class="title">Acerca de nosotros</h3>
                                 </div>
-                                <p>Establecer criterios de actuación y atención al interior de las escuelas de Educación
-                                    Básica, que fortalezcan los mecanismos de prevención en la generación de ambientes
-                                    escolares propicios para el aprendizaje, salvaguardando la integridad física y
+                                <p style="text-align:justify;">Establecer criterios de actuación y atención al interior de las escuelas de  Básica, que fortalezcan los mecanismos de prevención en la generación de ambientes escolares propicios para el aprendizaje, salvaguardando la integridad física y
                                     psicológica de la comunidad escolar, apegado a los derechos humanos.</p>
                                 <p>
                                     <strong>Office:</strong>
                                     <br />No. 12, Ribon Building,
-                                    <br />Gomez Palacio, Mx.
+                                    <br />Gómez Palacio, Mx.
                                 </p>
                                 <p>
                                     <strong>Números de teléfono de interés:</strong>
@@ -397,7 +390,7 @@ Dr. Guillermo Adame Calderón       Secretario de Educación del Estado del esta
                                     <thead>
                                         <tr>
                                             <th>Agencia</th>
-                                            <th>Telefono</th>
+                                            <th>Teléfono</th>
                                         </tr>
                                     </thead>
                                     <tbody>
@@ -444,7 +437,7 @@ Dr. Guillermo Adame Calderón       Secretario de Educación del Estado del esta
                             </div>
                             <div class="col-xs-12 col-sm-6 col-md-4 widget">
                                 <div class="widget-title">
-                                    <h3 class="title">Ultimas noticias</h3>
+                                    <h3 class="title">Últimas noticias</h3>
                                 </div>
                                 <nav>
                                     <ul class="footer-blog">
@@ -473,15 +466,19 @@ Dr. Guillermo Adame Calderón       Secretario de Educación del Estado del esta
                                         action="php/contact-form.php">
                                         <div class="input-text form-group">
                                             <input type="text" name="contact_name" class="input-name form-control"
-                                                placeholder="Full Name" />
+                                                placeholder="Nombre" />
                                         </div>
                                         <div class="input-email form-group">
                                             <input type="email" name="contact_email" class="input-email form-control"
-                                                placeholder="Email" />
+                                                placeholder="Correo Electrónico" />
+                                        </div>
+                                         <div class="input-email form-group">
+                                            <input type="subjet" name="contact_subject" class="input-email form-control"
+                                                placeholder="Tema" />
                                         </div>
                                         <div class="textarea-message form-group">
                                             <textarea name="contact_message" class="textarea-message form-control"
-                                                placeholder="Message" rows="3"></textarea>
+                                                placeholder="Mensaje" rows="3"></textarea>
                                         </div>
                                         <button class="btn btn-default" type="submit">Enviar
                                             <i class="icon-paper-plane"></i></button>

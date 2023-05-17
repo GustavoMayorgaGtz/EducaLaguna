@@ -39,10 +39,10 @@
             <?php
             require_once '../../components/nav.php';
             $nav = new Nav();
-            session_start();
+           
             if (!isset($_SESSION['login'])) {
                 $_SESSION['login'] = false ;
-                header("location:". $nav->host ."/Tabs/SubMediaDUR/M_Principal.php");
+                
             }
 
             $nav->setTitle( 'Abuso Sexual Infantil' );
@@ -56,6 +56,7 @@
             </section>
             <!--Tabla de contenido-->
             <section class="page-section">
+                
                 <h4 style="  text-align: center; color: #2e9797; font-weight: bolder;">1. Protocolo de detección, prevención y actuación en casos de Abuso Sexual Infantil.</h4>
                 <div class="container boxed-block" style="border-radius: 15px; text-align: center;">
                     <br>
