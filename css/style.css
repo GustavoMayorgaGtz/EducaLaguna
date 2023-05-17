@@ -502,9 +502,10 @@ color:#ffffff;
     background: linear-gradient(0deg, #359645, #2c2c2c);
     border-radius: 5px;
     animation: 1s slide;
-	-webkit-text-fill-color: white;
+	
 }
 .card > a{
+	-webkit-text-fill-color: wheat;
 	height: 100%;
 	width: 100%;
 	display: flex;
@@ -515,6 +516,7 @@ color:#ffffff;
 }
 
 .card > .container-img >{
+	background-color: white;
 	height: 100%;
 	width: 100%;
 	display: flex;
@@ -525,6 +527,7 @@ color:#ffffff;
 }
 
 .card > .container-img > .imagen-card{
+	
 	height: 80px;
 	width: 80px;
 	filter: invert(1);

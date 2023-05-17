@@ -58,6 +58,7 @@
                 <h4 style="  text-align: center; color: #2e9797; font-weight: bolder;">3. Protocolo de detección, prevención y actuación en casos de Maltrato Infantil.</h4>
                 <div class="container boxed-block" style="border-radius: 15px; text-align: center;">
                     <br>
+                    <ul class="container-imagenes">
                     <div class="row">
                         <div class="col-md-12" ><a href="https://drive.google.com/file/d/1qkBHIH_5uYRLKP7OOPXouu6t4VBEVWys/view">3.0. Protocolo de detección, prevención y actuación en casos de Maltrato Infantil. <img  src="../../Resources/Usr/ad.png" alt="" width="100px" height="60px"></a></div>
                     </div>
@@ -97,6 +98,7 @@
                     <div class="row">
                         <div class="col-md-12" ><a href="https://drive.google.com/file/d/1aejZTRWVO1S3joFwtNt2MjDaCbUfquxt/view">3.9. Diagrama de Flujo del Protocolo de Maltrato Infantil (Infografía). <img  src="../../Resources/Usr/ad.png" alt="" width="100px" height="60px"></a></div>
                     </div>
+                    </ul>
                 </div>
             </section>
             
