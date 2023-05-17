@@ -93,61 +93,53 @@ if (!isset($_SESSION['login'])) {
                     <div class="card">
                         <a href="https://drive.google.com/file/d/1G4T8aqH55GBccn8-fDJejLSTOQ-MsHql/view">2.3.
                                 Responsabilidades de los Docentes.</a><div class="container-img"><img class="imagen-card" src="../../rs-plugin/images/masculino.png"
-                                    alt="" width="70px" height="200px"></div>
+                                   ></div>
                     </div>
 
                     <div class="card">
-                        <div class="col-md-12"><a
-                                href="https://drive.google.com/file/d/1VRZ5zAuj4TPgodBln2QH5NpK52fJuFMu/view">2.4.
-                                Responsabilidades del Personal Administrativo, De Apoyo.<br> <img
-                                    src="../../rs-plugin/images/apoyo.png" alt="" width="50px" height="20px"></a></div>
+                        <a href="https://drive.google.com/file/d/1VRZ5zAuj4TPgodBln2QH5NpK52fJuFMu/view">2.4.
+                                Responsabilidades del Personal Administrativo, De Apoyo.</a><div class="container-img"><img class="imagen-card"
+                                    src="../../rs-plugin/images/apoyo.png"></div>
                     </div>
 
                     <div class="card">
-                        <div class="col-md-17"><a
-                                href="https://drive.google.com/file/d/1v5pf32RhFrTZMua6i7xt125iIOPecEmI/view">2.5.
-                                Responsabilidades del Personal de Servicios Educativos Complementarios.<br> <img
-                                    src="../../rs-plugin/images/femenino.png" alt="" width="50px" height="20px"></a>
+                        <a href="https://drive.google.com/file/d/1v5pf32RhFrTZMua6i7xt125iIOPecEmI/view">2.5.
+                                Responsabilidades del Personal de Servicios Educativos Complementarios.</a><div class="container-img"> <img class="imagen-card"
+                                    src="../../rs-plugin/images/femenino.png">
                         </div>
                     </div>
 
                     <div class="card">
-                        <div class="col-md-12"><a
-                                href="https://drive.google.com/file/d/1ck6Ouyu4SX6v_d5TdGA9CaLSIEFsQNfm/view">2.6.
-                                Responsabilidades de Directivos Escolares.<br> <img
-                                    src="../../rs-plugin/images/equipo.png" alt="" width="60px" height="20px"></a></div>
+                        <a href="https://drive.google.com/file/d/1ck6Ouyu4SX6v_d5TdGA9CaLSIEFsQNfm/view">2.6.
+                                Responsabilidades de Directivos Escolares.</a><div class="container-img"> <img class="imagen-card"
+                                    src="../../rs-plugin/images/equipo.png" ></div>
                     </div>
 
 
                     <div class="card">
-                        <div class="col-md-13"><a
-                                href="https://drive.google.com/file/d/1dAAia1ntWTFfJ2YNWaUTIz2anq3uUa-c/view">2.7.
-                                Responsabilidades de los Jefe de Sector y Supervisores(as).<br> <img
-                                    src="../../rs-plugin/images/gerente.png" alt="" width="70px" height="20px"></a>
+                        <a href="https://drive.google.com/file/d/1dAAia1ntWTFfJ2YNWaUTIz2anq3uUa-c/view">2.7.
+                                Responsabilidades de los Jefe de Sector y Supervisores(as).</a><div class="container-img"> <img class="imagen-card"
+                                    src="../../rs-plugin/images/gerente.png">
                         </div>
                     </div>
 
                     <div class="card">
-                        <div class="col-md-15"><a
+                        <a
                                 href="https://drive.google.com/file/d/1MzXoyftyFr9aaGyrKVMy63XkoicQFvIE/view">2.8. Guía
                                 de observación para identificar indicadores de riesgo y detección en casos de acoso
-                                escolar.<br> <img src="../../rs-plugin/images/identificar.png" alt="" width="40px"
-                                    height="20px"></a></div>
+                                escolar.</a><div class="container-img"> <img class="imagen-card" src="../../rs-plugin/images/identificar.png" ></div>
                     </div>
 
                     <div class="card">
-                        <div class="col-md-12"><a
-                                href="https://drive.google.com/file/d/1f_TQ6KNnDPM3HNEjbySh5DKTyyGaqQDv/view">2.9.
-                                Protocolo para la detección, prevención y actuación en casos de acoso escolar.<br> <img
-                                    src="../../rs-plugin/images/seguro.png" alt="" width="40px" height="20px"></a></div>
+                        <a href="https://drive.google.com/file/d/1f_TQ6KNnDPM3HNEjbySh5DKTyyGaqQDv/view">2.9.
+                                Protocolo para la detección, prevención y actuación en casos de acoso escolar.</a><div class="container-img"> <img class="imagen-card"
+                                    src="../../rs-plugin/images/seguro.png" alt="" width="40px" height="20px"></div>
                     </div>
 
                     <div class="card">
-                        <div class="col-md-12"><a
-                                href="https://drive.google.com/file/d/1UOsM99YyojoRFIFYZkKHDNz4y9lZT82q/view">2.10.
-                                Diagrama de Flujo del Protocolo de Acoso Escolar (Infografía).<br> <img
-                                    src="../../rs-plugin/images/flujo-de-trabajo.png" alt="" width="70px"
-                                    height="20px"></a></div>
+                        <a href="https://drive.google.com/file/d/1UOsM99YyojoRFIFYZkKHDNz4y9lZT82q/view">2.10.
+                                Diagrama de Flujo del Protocolo de Acoso Escolar (Infografía).</a><div class="container-img"> <img class="imagen-card"
+                                    src="../../rs-plugin/images/flujo-de-trabajo.png" ></div>
                     </div>
                 </ul>
 
