@@ -54,9 +54,9 @@
         <!-- page-section -->
         <div class="section">
             <div class="container-information">
-            <p>Los Protocolos de Actuación <b>MediaDUR</b> surgierón como propuesta de intervención derivada de la investigación <b>Protocolos de Actuación en Materia de Convivencia en Educación Básica</b> con <b>Folio: 2020_UJV_INV_64</b>, desarrollada por el <b>Dr. Gerardo de J. Garza Rosales</b> de la <b>Unidad del CIIDE “Profr. José Santos Valdés”</b> de Lerdo, Durango.
+            <p>Los Protocolos de Actuación <b>MediaDUR</b> surgieron como propuesta de intervención derivada de la investigación <b>Protocolos de Actuación en Materia de Convivencia en Educación Básica</b> con <b>Folio: 2020_UJV_INV_64</b>, desarrollada por el <b>Dr. Gerardo de J. Garza Rosales</b> de la <b>Unidad del CIIDE “Profr. José Santos Valdés”</b> de Lerdo, Durango. En colaboración con el Lic. Leoncio Ortiz López  Coordinador del departamento de Participación Social de la Subsecretaría se implemento MediaDUR en el sitio educalaguna.
 </p>
-<p> <b>MediaDUR</b> busca ser un concepto diferente en el proceso informativo del docente, a traves de medios digitales</p>
+<p> <b>MediaDUR</b> busca ser un concepto diferente en el proceso informativo del docente, a traves de medios digitales.</p>
             </div>
 
             <div class="container">

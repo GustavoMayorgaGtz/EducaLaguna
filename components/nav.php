@@ -1,5 +1,4 @@
 <?php
-
 class Nav {
     private bool $have_logout;
     private bool $have_dropdown;
