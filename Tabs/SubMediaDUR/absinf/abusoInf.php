@@ -11,12 +11,12 @@ $consulta = "SELECT Descripcion, Titulo, URLVideo FROM tbprotocolo AS protocolo 
 $resultado = $conexion->query($consulta);
 while ($fila = $resultado->fetch()) {
 
-    $arreglo = explode("#", $fila['Descripcion']); //Obtenemos la descripcion y separamos
-    $titulo = $fila['Titulo']; //Obtenemos el titulo
-    $url = $fila['URLVideo']; //Obtenemos el video
-    $parrafosSize = count($arreglo); //contamos los parrafos del arreglo
-    // print_r($arreglo); //print_r sirve para imprimir arreglos
-    // echo $parrafosSize; 
+    $descripcion = $fila['Descripcion']; //Obtenemos la descripcion y separamos
+//     $titulo = $fila['Titulo']; //Obtenemos el titulo
+//     $url = $fila['URLVideo']; //Obtenemos el video
+//     $parrafosSize = count($arreglo); //contamos los parrafos del arreglo
+//     // print_r($arreglo); //print_r sirve para imprimir arreglos
+//     // echo $parrafosSize; 
 }
 ?>
 <!DOCTYPE html>
@@ -63,7 +63,7 @@ while ($fila = $resultado->fetch()) {
     $nav->setHaveLogin(false);
     $nav->render();
 
-    echo "<span class='title'>{$titulo}</span>";
+    // echo "<span class='title'>{$titulo}</span>";
     ?>
     <div class="container-center">
         <?php
@@ -75,15 +75,16 @@ while ($fila = $resultado->fetch()) {
         https://www.youtube.com/embed/
         EN EL LINK DEL IFRAME EN EL CODIGO DE ABAJO -->
         */
-        echo "<iframe class='video'
-      src='{$url}'
-       title='YouTube video player' frameborder='0'
-        allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share' allowfullscreen>
-        </iframe>";
-        foreach ($arreglo as $valor) {
-            echo "<span class='paragraph'>{$valor}</span>";
-            echo "<br>";
-        }
+    //     echo "<iframe class='video'
+    //   src='{$url}'
+    //    title='YouTube video player' frameborder='0'
+    //     allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share' allowfullscreen>
+    //     </iframe>";
+    //     foreach ($arreglo as $valor) {
+    //         echo "<span class='paragraph'>{$valor}</span>";
+    //         echo "<br>";
+    //     }
+    echo $descripcion;
         ?>
     </div>
     <!-- Scripts -->
