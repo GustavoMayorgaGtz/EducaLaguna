@@ -52,57 +52,100 @@
             $nav->render();
             ?>
             <section class="page-section page-section-video">
-                <div class="futuro-video"><p>(Video de presentación del protocolo)</p></div>
+                <div class="futuro-video"><p><iframe width="731" height="411" src="https://www.youtube.com/embed/Tn14pS8lS6c?autoplay=1" title="Responsabilidad de Madres y Padres Protocolos de Actuación" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p></div>
+                
+
+
             </section>
+
+            <h4 style="text-align: center; font-weight: bolder">
+                Madres, Padres y Tutores Legales | Docentes | Personal Administrativo de Apoyo | Directivos
+            </h4>
+
+
+
+            
+
+
             <!--Tabla de contenido-->
             <section class="page-section">
                 
-                <h4 style="  text-align: center; color: #2e9797; font-weight: bolder;">1. Protocolo de detección, prevención y actuación en casos de Abuso Sexual Infantil.</h4>
+                <h4 style="  text-align: center;" ><a style="color: #2e9797; font-weight: bolder;" href="https://drive.google.com/file/d/1hS7MlOKl8yculG1mZq22Eyl1prz-AJ3s/view" >
+                1. Protocolo de detección, prevención y actuación en casos de Abuso Sexual Infantil.</a></h4>
+
                 <div class="container boxed-block" style="border-radius: 15px; text-align: center;">
-                    <br>
-                    <div class="row">
-                        <div class="col-md-12" ><a href="./absinf/abusoinf.php?menu=1">1.0. Protocolo De Detección, Prevención Y Actuación En Casos De Abuso Sexual Infantil. <img  src="../../Resources/Usr/ad.png" alt="" width="100px" height="60px"></a></div>
-                    </div>
-                    <hr />
-                    <div class="row">
-                        <div class="col-md-12" ><a href="./absinf/abusoinf.php?menu=2">1.1. Responsabilidades de Madres, Padres y Tutores Legales. <img  src="../../Resources/Usr/ad.png" alt="" width="100px" height="60px"></a></div>
-                    </div>
-                    <hr />
-                    <div class="row">
-                        <div class="col-md-12" ><a href="./absinf/abusoinf.php?menu=3">1.2. Responsabilidades de Docentes. <img  src="../../Resources/Usr/ad.png" alt="" width="100px" height="60px"></a></div>
-                    </div>
-                    <hr />
-                    <div class="row">
-                        <div class="col-md-12" ><a href="./absinf/abusoinf.php?menu=4">1.3. Responsabilidades de Personal Administrativo, De Apoyo. <img  src="../../Resources/Usr/ad.png" alt="" width="100px" height="60px"></a></div>
-                    </div>
-                    <hr />
-                    <div class="row">
-                        <div class="col-md-12" ><a href="./absinf/abusoinf.php?menu=5">1.4. Responsabilidades de Personal de Servicios Educativos Complementarios. <img  src="../../Resources/Usr/ad.png" alt="" width="100px" height="60px"></a></div>
-                    </div>
-                    <hr />
-                    <div class="row">
-                        <div class="col-md-12" ><a href="./absinf/abusoinf.php?menu=6">1.5. Responsabilidades de Directivos Escolares. <img  src="../../Resources/Usr/ad.png" alt="" width="100px" height="60px"></a></div>
-                    </div>
-                    <hr />
-                    <div class="row">
-                        <div class="col-md-12" ><a href="./absinf/abusoinf.php?menu=7">1.6. Responsabilidades del Jefe de Sector y Supervisores(as). <img  src="../../Resources/Usr/ad.png" alt="" width="100px" height="60px"></a></div>
-                    </div>
-                    <hr />
-                    <div class="row">
-                        <div class="col-md-12" ><a href="./absinf/abusoinf.php?menu=8">1.7. Guía de observación para identificar indicadores de riesgo y detección en casos de abuso sexual infantil. <img  src="../../Resources/Usr/ad.png" alt="" width="100px" height="60px"></a></div>
-                    </div>
-                    <hr />
-                    <div class="row">
-                        <div class="col-md-12" ><a href="./absinf/abusoinf.php?menu=9">1.8. Recomendaciones de actuación en casos de abuso sexual infantil. <img  src="../../Resources/Usr/ad.png" alt="" width="100px" height="60px"></a></div>
-                    </div>
-                    <hr />
-                    <div class="row">
-                        <div class="col-md-12" ><a href="./absinf/abusoinf.php?menu=10">1.9. Protocolo para la detección, prevención y actuación en casos de abuso sexual infantil. <img  src="../../Resources/Usr/ad.png" alt="" width="100px" height="60px"></a></div>
-                    </div>
-                    <hr />
-                    <div class="row">
-                        <div class="col-md-12" ><a href="./absinf/abusoinf.php?menu=11">1.10.Diagrama de Flujo del Protocolo de Abuso Sexual Infantil (Infografía). <img  src="../../Resources/Usr/ad.png" alt="" width="100px" height="60px"></a></div>
-                    </div>
+                    
+                    <ul class="container-imagenes">
+
+                        <div class="card">
+                            <a href="./absinf/abusoinf.php?menu=1">
+                                Protocolo De Detección, Prevención Y Actuación En Casos De Abuso Sexual Infantil.</a>
+                            <div class="container-img"><img class="imagen-card" src="../../rs-plugin/images/deteccion.png"></div>
+                        </div>
+
+                        <!-- <div class="card">
+                            <a href="./absinf/abusoinf.php?menu=1">
+                               Responsabilidades de madres, padres y tutores legales.</a>
+                            <div class="container-img"><img class="imagen-card" src="../../rs-plugin/images/deteccion.png"></div>
+                        </div> -->
+
+                    
+                        <!-- <div class="card">
+                            <a href="./absinf/abusoinf.php?menu=1">
+                            Responsabilidades de Docentes.</a>
+                            <div class="container-img"><img class="imagen-card" src="../../rs-plugin/images/masculino.png"></div>
+                        </div> -->
+
+                        <!-- <div class="card">
+                            <a href="./absinf/abusoinf.php?menu=1">
+                            Responsabilidades de Personal Administrativo, De Apoyo..</a>
+                            <div class="container-img"><img class="imagen-card" src="../../rs-plugin/images/apoyo.png"></div>
+                        </div> -->
+
+                        <div class="card">
+                            <a href="./absinf/abusoinf.php?menu=1">
+                            Responsabilidades de Personal de Servicios Educativos Complementarios.</a>
+                            <div class="container-img"><img class="imagen-card" src="../../rs-plugin/images/femenino.png"></div>
+                        </div>
+
+                        <!-- <div class="card">
+                            <a href="./absinf/abusoinf.php?menu=1">
+                            Responsabilidades de Directivos Escolares.</a>
+                            <div class="container-img"><img class="imagen-card" src="../../rs-plugin/images/equipo.png"></div>
+                        </div> -->
+
+                        <div class="card">
+                            <a href="./absinf/abusoinf.php?menu=1">
+                            Responsabilidades del Jefe de Sector y Supervisores(as).</a>
+                            <div class="container-img"><img class="imagen-card" src="../../rs-plugin/images/gerente.png"></div>
+                        </div>
+
+                        <div class="card">
+                            <a href="./absinf/abusoinf.php?menu=1">
+                            Guía de observación para identificar indicadores de riesgo y detección en casos de abuso sexual infantil</a>
+                            <div class="container-img"><img class="imagen-card" src="../../rs-plugin/images/identificar.png"></div>
+                        </div>
+
+                        <div class="card">
+                            <a href="./absinf/abusoinf.php?menu=1">
+                            Recomendaciones de actuación en casos de abuso sexual infantil.</a>
+                            <div class="container-img"><img class="imagen-card" src="../../rs-plugin/images/recomendaciones.png"></div>
+                        </div>
+
+                        <div class="card">
+                            <a href="./absinf/abusoinf.php?menu=1">
+                            Protocolo para la detección, prevención y actuación en casos de abuso sexual infantil.</a>
+                            <div class="container-img"><img class="imagen-card" src="../../rs-plugin/images/prevencion.png"></div>
+                        </div>
+
+                        <div class="card">
+                            <a href="./absinf/abusoinf.php?menu=1">
+                            Diagrama de Flujo del Protocolo de Abuso Sexual Infantil (Infografía).</a>
+                            <div class="container-img"><img class="imagen-card" src="../../rs-plugin/images/flujo-de-trabajo.png"></div>
+                        </div>
+
+                    </ul>
+                    
                 </div>
             </section>
             

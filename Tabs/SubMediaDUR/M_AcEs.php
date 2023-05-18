@@ -59,85 +59,87 @@ if (!isset($_SESSION['login'])) {
         ?>
         <section class="page-section page-section-video">
             <div class="futuro-video">
-                <p>(Video de presentación del protocolo)</p>
+                <p><iframe width="731" height="411" src="https://www.youtube.com/embed/Tn14pS8lS6c?autoplay=1&loop=1" title="Responsabilidad de Madres y Padres Protocolos de Actuación" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; loop" allowfullscreen></iframe></p>
             </div>
         </section>
+        <h4 style="text-align: center; font-weight: bolder">
+                Madres, Padres y Tutores Legales | Docentes | Personal Administrativo de Apoyo | Directivos
+            </h4>
         <!--Tabla de contenido-->
         <section class="page-section">
-            <h4 style="  text-align: center; color: #2e9797; font-weight: bolder;"><a
+            <h4 style="  text-align: center; "><a style="color: #2e9797; font-weight: bolder;"
                     href="https://drive.google.com/file/d/1nTJ5NIcEt8ToJBBgna-PZgIIFf7IK-Gb/view">2. Protocolo de
                     detección, prevención y actuación
-                    en casos de Acoso Escolar.
+                    en casos de Acoso Escolar. </a>
             </h4>
 
-            <div class="frecuentes" style="border-radius: 15px; text-align: center;">
+            <div class="container boxed-block" style="border-radius: 15px; text-align: center;">
 
                 <ul class="container-imagenes">
                     <div class="card">
-                        <a href="https://drive.google.com/file/d/1OW7cY0KIsSMnf8JNHo50wu9T8D7gzyBW/view"> 2.0. Protocolo
+                        <a href="https://drive.google.com/file/d/1OW7cY0KIsSMnf8JNHo50wu9T8D7gzyBW/view">  Protocolo
                             de detección, prevención y actuación en casos de Acoso Escolar.</a>
                         <div class="container-img"><img class="imagen-card" src="../../rs-plugin/images/deteccion.png">
                         </div>
                     </div>
 
                     <div class="card">
-                       <a href="https://drive.google.com/file/d/1gsGN8kKqGCyv6ojtoZEfppRgrtdIU6rg/view">2.1 Responsabilidades de Comunidad Escolar.</a>
+                       <a href="https://drive.google.com/file/d/1gsGN8kKqGCyv6ojtoZEfppRgrtdIU6rg/view">Responsabilidades de Comunidad Escolar.</a>
                        <div class="container-img"><img class="imagen-card" src="../../rs-plugin/images/social.png"></div>
                     </div>
 
-                    <div class="card">
-                        <a href="https://drive.google.com/file/d/1eBtxhbxlg3HTyXJtrOQrS7Wyvx3oJQ3Y/view">2.2. Responsabilidades de Madres, Padres y Tutores Legales.</a> 
+                    <!-- <div class="card">
+                        <a href="https://drive.google.com/file/d/1eBtxhbxlg3HTyXJtrOQrS7Wyvx3oJQ3Y/view"> Responsabilidades de Madres, Padres y Tutores Legales.</a> 
                         <div class="container-img"><img class="imagen-card" src="../../rs-plugin/images/padre-e-hijo.png"></div>                        
-                    </div>
+                    </div> -->
 
-                    <div class="card">
-                        <a href="https://drive.google.com/file/d/1G4T8aqH55GBccn8-fDJejLSTOQ-MsHql/view">2.3.
+                    <!-- <div class="card">
+                        <a href="https://drive.google.com/file/d/1G4T8aqH55GBccn8-fDJejLSTOQ-MsHql/view">
                                 Responsabilidades de los Docentes.</a><div class="container-img"><img class="imagen-card" src="../../rs-plugin/images/masculino.png"
                                    ></div>
-                    </div>
+                    </div> -->
 
                     <div class="card">
-                        <a href="https://drive.google.com/file/d/1VRZ5zAuj4TPgodBln2QH5NpK52fJuFMu/view">2.4.
+                        <a href="https://drive.google.com/file/d/1VRZ5zAuj4TPgodBln2QH5NpK52fJuFMu/view">
                                 Responsabilidades del Personal Administrativo, De Apoyo.</a><div class="container-img"><img class="imagen-card"
                                     src="../../rs-plugin/images/apoyo.png"></div>
                     </div>
 
                     <div class="card">
-                        <a href="https://drive.google.com/file/d/1v5pf32RhFrTZMua6i7xt125iIOPecEmI/view">2.5.
+                        <a href="https://drive.google.com/file/d/1v5pf32RhFrTZMua6i7xt125iIOPecEmI/view">
                                 Responsabilidades del Personal de Servicios Educativos Complementarios.</a><div class="container-img"> <img class="imagen-card"
                                     src="../../rs-plugin/images/femenino.png">
                         </div>
                     </div>
 
-                    <div class="card">
-                        <a href="https://drive.google.com/file/d/1ck6Ouyu4SX6v_d5TdGA9CaLSIEFsQNfm/view">2.6.
+                    <!-- <div class="card">
+                        <a href="https://drive.google.com/file/d/1ck6Ouyu4SX6v_d5TdGA9CaLSIEFsQNfm/view">
                                 Responsabilidades de Directivos Escolares.</a><div class="container-img"> <img class="imagen-card"
                                     src="../../rs-plugin/images/equipo.png" ></div>
-                    </div>
+                    </div> -->
 
 
-                    <div class="card">
-                        <a href="https://drive.google.com/file/d/1dAAia1ntWTFfJ2YNWaUTIz2anq3uUa-c/view">2.7.
+                    <!-- <div class="card">
+                        <a href="https://drive.google.com/file/d/1dAAia1ntWTFfJ2YNWaUTIz2anq3uUa-c/view">
                                 Responsabilidades de los Jefe de Sector y Supervisores(as).</a><div class="container-img"> <img class="imagen-card"
                                     src="../../rs-plugin/images/gerente.png">
                         </div>
-                    </div>
+                    </div> -->
 
                     <div class="card">
                         <a
-                                href="https://drive.google.com/file/d/1MzXoyftyFr9aaGyrKVMy63XkoicQFvIE/view">2.8. Guía
+                                href="https://drive.google.com/file/d/1MzXoyftyFr9aaGyrKVMy63XkoicQFvIE/view">Guía
                                 de observación para identificar indicadores de riesgo y detección en casos de acoso
                                 escolar.</a><div class="container-img"> <img class="imagen-card" src="../../rs-plugin/images/identificar.png" ></div>
                     </div>
 
                     <div class="card">
-                        <a href="https://drive.google.com/file/d/1f_TQ6KNnDPM3HNEjbySh5DKTyyGaqQDv/view">2.9.
-                                Protocolo para la detección, prevención y actuación en casos de acoso escolar.</a><div class="container-img"> <img class="imagen-card"
+                        <a href="https://drive.google.com/file/d/1f_TQ6KNnDPM3HNEjbySh5DKTyyGaqQDv/view">                                Protocolo para la detección, prevención y actuación en casos de acoso escolar.</a><div class="container-img"> <img class="imagen-card"
                                     src="../../rs-plugin/images/seguro.png" alt="" width="40px" height="20px"></div>
                     </div>
 
                     <div class="card">
-                        <a href="https://drive.google.com/file/d/1UOsM99YyojoRFIFYZkKHDNz4y9lZT82q/view">2.10.
+                        <a href="https://drive.google.com/file/d/1UOsM99YyojoRFIFYZkKHDNz4y9lZT82q/view">
                                 Diagrama de Flujo del Protocolo de Acoso Escolar (Infografía).</a><div class="container-img"> <img class="imagen-card"
                                     src="../../rs-plugin/images/flujo-de-trabajo.png" ></div>
                     </div>
@@ -162,7 +164,7 @@ if (!isset($_SESSION['login'])) {
                         </div>
                         <div class="col-xs-2  col-sm-6 col-md-6 text-right page-scroll gray-bg icons-circle i-3x">
                             <a href="#page">
-                                <i class="glyphicon glyphicon-arrow-up"></i>
+                                <i class="fi fi-br-caret-up"></i>
                             </a>
                         </div>
                     </div>

@@ -50,54 +50,49 @@
             $nav->render();
             ?>
             <section class="page-section page-section-video">
-                <div class="futuro-video"><p>(Video de presentación del protocolo)</p></div>
+                <div class="futuro-video"><p><iframe width="731" height="411" src="https://www.youtube.com/embed/Tn14pS8lS6c?autoplay=1&loop=1" title="Responsabilidad de Madres y Padres Protocolos de Actuación" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; loop; picture-in-picture; web-share" allowfullscreen></iframe></p></div>
             </section>
+            <h4 style="text-align: center; font-weight: bolder">
+                Madres, Padres y Tutores Legales | Docentes | Personal Administrativo de Apoyo | Directivos
+            </h4> 
 
             <!--Tabla de contenido-->
             <section class="page-section">
-                <h4 style="  text-align: center; color: #2e9797; font-weight: bolder;">4. Protocolo de Mochila Segura.</h4>
-                <div class="container boxed-block" style="border-radius: 15px; text-align: center;">
-                    <br>
-                    <div class="row">
-                        <div class="col-md-12" ><a href="https://drive.google.com/file/d/16vdnbR3TW41d-xUPUujfBXyhaaAB5VLz/view">4.0. Protocolo de Mochila Segura. <img  src="../../Resources/Usr/ad.png" alt="" width="100px" height="60px"></a></div>
+                <h4 style="  text-align: center; "><a style="color: #2e9797; font-weight: bolder;" href="color: #2e9797; font-weight: bolder;" >4. Protocolo de Mochila Segura.</a></h4>
+                    <div class="container boxed-block" style="border-radius: 15px; text-align: center;">
+                        <ul class="container-imagenes">
+                            <div class="card">
+                                <a href="https://drive.google.com/file/d/16vdnbR3TW41d-xUPUujfBXyhaaAB5VLz/view">Protocolo de Mochila Segura.</a><div class="container-img"><img class="imagen-card" src="../../rs-plugin/images/backpack.png"></div>
+                            </div>
+                            <div class="card">
+                                <a href="https://drive.google.com/file/d/1-odEQL1XsFW50NNN964l0B1i37I9xh0d/view">Responsabilidades del Consejo Escolar: Desaliento de violencia y consumo de sustancias nocivas.</a><div class="container-img"> <img class="imagen-card"  src="../../rs-plugin/images/woman.png"></div>
+                            </div>
+                            <div class="card">
+                                <a href="https://drive.google.com/file/d/1N0ZAyODtqJuGK0tcAV6ePO0J6DtLHqDX/view">Responsabilidades de los Niveles Educativos.</a><div class="container-img"> <img class="imagen-card"  src="../../rs-plugin/images/masculino.png"></div>
+                            </div>
+                            <!-- <div class="card">
+                                <a href="https://drive.google.com/file/d/10IDD0JhDZjFd7nJBa5e_pGIDDKJg2UbQ/view">4.3. Responsabilidades de Madres, Padres y Tutores Legales.</a><div class="container-img"> <img class="imagen-card"  src="../../rs-plugin/images/gerente.png"></div>
+                            </div>                     -->
+                            <!-- <div class="card">
+                                <a href="https://drive.google.com/file/d/1kpYX7hhstz2BagKcmFv-eUOAosrfPo8V/view">4.4. Responsabilidades de los Docentes.</a><div class="container-img"> <img class="imagen-card"  src="../../rs-plugin/images/gerente.png"></div>
+                            </div>                     -->
+                            <!-- <div class="card">
+                                <a href="https://drive.google.com/file/d/1meSSXurMFFc2fv1KUSpI9QGqh_UXa0od/view">4.5. Responsabilidades de Personal Administrativo, De Apoyo.</a><div class="container-img"> <img class="imagen-card"  src="../../rs-plugin/images/gerente.png"></div>
+                            </div>                     -->
+                            <div class="card">
+                                <a href="https://drive.google.com/file/d/1Fqvrf1RHtszBvWKk4_c_cjKlYUFs72Ao/view">Responsabilidades de los Servicios Educativos Complementarios.</a><div class="container-img"> <img class="imagen-card"  src="../../rs-plugin/images/teaching.png"></div>
+                            </div>                    
+                            <!-- <div class="card">
+                                <a href="https://drive.google.com/file/d/1GYgfkv6bRdfMtpqJIZrQQlSBLP8Qepsf/view">4.7. Responsabilidades de los Directivos Escolares.</a><div class="container-img"> <img class="imagen-card"  src="../../rs-plugin/images/gerente.png"></div>
+                            </div>                     -->
+                            <div class="card">
+                                <a href="https://drive.google.com/file/d/11C8XwJKPGtleg5hbTxhPeViFyq9jDSbe/view">Responsabilidades de los Jefes de Sector y Supervisores(as).</a><div class="container-img"> <img class="imagen-card"  src="../../rs-plugin/images/gerente.png"></div>
+                            </div>                    
+                            <div class="card">
+                                <a href="https://drive.google.com/file/d/139hFIot_99QR3EfBQ3ICcx6eR_fdisYi/view">Esquema para llevar a cabo la estrategia.</a><div class="container-img"> <img class="imagen-card"  src="../../rs-plugin/images/flujo-de-trabajo.png"></div>
+                            </div>
+                        </ul>
                     </div>
-                    <hr />
-                    <div class="row">
-                        <div class="col-md-12" ><a href="https://drive.google.com/file/d/1-odEQL1XsFW50NNN964l0B1i37I9xh0d/view">4.1. Responsabilidades de Consejo Escolar de Participación Social y en particular del Comité de Desaliento de las Prácticas que Generan Violencia y el Consumo de Sustancias Nocivas para la Salud. <img  src="../../Resources/Usr/ad.png" alt="" width="100px" height="60px"></a></div>
-                    </div>
-                    <hr />
-                    <div class="row">
-                        <div class="col-md-12" ><a href="https://drive.google.com/file/d/1N0ZAyODtqJuGK0tcAV6ePO0J6DtLHqDX/view">4.2. Responsabilidades de los Niveles Educativos. <img  src="../../Resources/Usr/ad.png" alt="" width="100px" height="60px"></a></div>
-                    </div>
-                    <hr />
-                    <div class="row">
-                        <div class="col-md-12" ><a href="https://drive.google.com/file/d/10IDD0JhDZjFd7nJBa5e_pGIDDKJg2UbQ/view">4.3. Responsabilidades de Madres, Padres y Tutores Legales. <img  src="../../Resources/Usr/ad.png" alt="" width="100px" height="60px"></a></div>
-                    </div>
-                    <hr />
-                    <div class="row">
-                        <div class="col-md-12" ><a href="https://drive.google.com/file/d/1kpYX7hhstz2BagKcmFv-eUOAosrfPo8V/view">4.4. Responsabilidades de los Docentes. <img  src="../../Resources/Usr/ad.png" alt="" width="100px" height="60px"></a></div>
-                    </div>
-                    <hr />
-                    <div class="row">
-                        <div class="col-md-12" ><a href="https://drive.google.com/file/d/1meSSXurMFFc2fv1KUSpI9QGqh_UXa0od/view">4.5. Responsabilidades de Personal Administrativo, De Apoyo. <img  src="../../Resources/Usr/ad.png" alt="" width="100px" height="60px"></a></div>
-                    </div>
-                    <hr />
-                    <div class="row">
-                        <div class="col-md-12" ><a href="https://drive.google.com/file/d/1Fqvrf1RHtszBvWKk4_c_cjKlYUFs72Ao/view">4.6. Responsabilidades de los Servicios Educativos Complementarios. <img  src="../../Resources/Usr/ad.png" alt="" width="100px" height="60px"></a></div>
-                    </div>
-                    <hr />
-                    <div class="row">
-                        <div class="col-md-12" ><a href="https://drive.google.com/file/d/1GYgfkv6bRdfMtpqJIZrQQlSBLP8Qepsf/view">4.7. Responsabilidades de los Directivos Escolares. <img  src="../../Resources/Usr/ad.png" alt="" width="100px" height="60px"></a></div>
-                    </div>
-                    <hr />
-                    <div class="row">
-                        <div class="col-md-12" ><a href="https://drive.google.com/file/d/11C8XwJKPGtleg5hbTxhPeViFyq9jDSbe/view">4.8. Responsabilidades de los Jefes de Sector y Supervisores(as). <img  src="../../Resources/Usr/ad.png" alt="" width="100px" height="60px"></a></div>
-                    </div>
-                    <hr />
-                    <div class="row">
-                        <div class="col-md-12" ><a href="https://drive.google.com/file/d/139hFIot_99QR3EfBQ3ICcx6eR_fdisYi/view">4.9. Esquema para llevar a cabo la estrategia. <img  src="../../Resources/Usr/ad.png" alt="" width="100px" height="60px"></a></div>
-                    </div>
-                </div>
             </section>
             
             <!--Footer -->

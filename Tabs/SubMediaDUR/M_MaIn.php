@@ -50,53 +50,78 @@
             $nav->render();
             ?>
             <section class="page-section page-section-video">
-                <div class="futuro-video"><p>(Video de presentación del protocolo)</p></div>
+                <div class="futuro-video"><p><iframe width="731" height="411" src="https://www.youtube.com/embed/Tn14pS8lS6c?autoplay=1" title="Responsabilidad de Madres y Padres Protocolos de Actuación" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p></div>
             </section>
+            <h4 style="text-align: center; font-weight: bolder">
+                Madres, Padres y Tutores Legales | Docentes | Personal Administrativo de Apoyo | Directivos
+            </h4>
 
             <!--Tabla de contenido-->
             <section class="page-section">
-                <h4 style="  text-align: center; color: #2e9797; font-weight: bolder;">3. Protocolo de detección, prevención y actuación en casos de Maltrato Infantil.</h4>
+                <h4 style="  text-align: center;"><a style="color: #2e9797; font-weight: bolder;" href="https://drive.google.com/file/d/1L6vBmQt0--a6XXPvy9e2nSiBptMyPFCw/view" >3. Protocolo de detección, prevención y actuación en casos de Maltrato Infantil.</a></h4>
                 <div class="container boxed-block" style="border-radius: 15px; text-align: center;">
                     <br>
                     <ul class="container-imagenes">
-                    <div class="row">
-                        <div class="col-md-12" ><a href="https://drive.google.com/file/d/1qkBHIH_5uYRLKP7OOPXouu6t4VBEVWys/view">3.0. Protocolo de detección, prevención y actuación en casos de Maltrato Infantil. <img  src="../../Resources/Usr/ad.png" alt="" width="100px" height="60px"></a></div>
-                    </div>
-                    <hr />
-                    <div class="row">
-                        <div class="col-md-12" ><a href="https://drive.google.com/file/d/1bu1d9xRoi6oVqsJv83CFbayglsGf0dbM/view">3.1. Responsabilidades de Madres, Padres y Tutores Legales. <img  src="../../Resources/Usr/ad.png" alt="" width="100px" height="60px"></a></div>
-                    </div>
-                    <hr />
-                    <div class="row">
-                        <div class="col-md-12" ><a href="https://drive.google.com/file/d/19cKbYHOEJrelM6GK4ICTsioEGp1oyW15/view">3.2. Responsabilidades de los Docentes. <img  src="../../Resources/Usr/ad.png" alt="" width="100px" height="60px"></a></div>
-                    </div>
-                    <hr />
-                    <div class="row">
-                        <div class="col-md-12" ><a href="https://drive.google.com/file/d/1eiWARlTl8j6JKCjhN-hia8IqqEaKWrM3/view">3.3. Responsabilidades de Personal Administrativo, De Apoyo. <img  src="../../Resources/Usr/ad.png" alt="" width="100px" height="60px"></a></div>
-                    </div>
-                    <hr />
-                    <div class="row">
-                        <div class="col-md-12" ><a href="https://drive.google.com/file/d/1_qZ7bVqINQNBBXhDIMr77bj8gYVlBCO_/view">3.4. Responsabilidades del Personal de Servicios Educativos Complementarios. <img  src="../../Resources/Usr/ad.png" alt="" width="100px" height="60px"></a></div>
-                    </div>
-                    <hr />
-                    <div class="row">
-                        <div class="col-md-12" ><a href="https://drive.google.com/file/d/1qJrDIlYPlX3GcJzFCFNnNnrSTRo7_X5n/view">3.5. Responsabilidades de Directivos Escolares. <img  src="../../Resources/Usr/ad.png" alt="" width="100px" height="60px"></a></div>
-                    </div>
-                    <hr />
-                    <div class="row">
-                        <div class="col-md-12" ><a href="https://drive.google.com/file/d/1herr_r6PNWi7vM4Vko_8gGX3MbKR035i/view">3.6. Responsabilidades de los Jefes de Sector y Supervisores(as). <img  src="../../Resources/Usr/ad.png" alt="" width="100px" height="60px"></a></div>
-                    </div>
-                    <hr />
-                    <div class="row">
-                        <div class="col-md-12" ><a href="https://drive.google.com/file/d/1AJAiXxK5Pqqwnjy1vH4Lk3TWcj7ONB05/view">3.7. Guía de observación para identificar indicadores de riesgo y detección en casos de maltrato infantil. <img  src="../../Resources/Usr/ad.png" alt="" width="100px" height="60px"></a></div>
-                    </div>
-                    <hr />
-                    <div class="row">
-                        <div class="col-md-12" ><a href="https://drive.google.com/file/d/11KbcR8oiA1eGO0utQBvtnPfqSUXsritM/view">3.8. Protocolo en situaciones de maltrato infantil. <img  src="../../Resources/Usr/ad.png" alt="" width="100px" height="60px"></a></div>
-                    </div>
-                    <hr />
-                    <div class="row">
-                        <div class="col-md-12" ><a href="https://drive.google.com/file/d/1aejZTRWVO1S3joFwtNt2MjDaCbUfquxt/view">3.9. Diagrama de Flujo del Protocolo de Maltrato Infantil (Infografía). <img  src="../../Resources/Usr/ad.png" alt="" width="100px" height="60px"></a></div>
+                        <div class="card">
+                            <a href="https://drive.google.com/file/d/1L6vBmQt0--a6XXPvy9e2nSiBptMyPFCw/view">Protocolo de detección, prevención y actuación en casos de Maltrato Infantil. </a>
+                            <div class="container-img"><img class="imagen-card" src="../../rs-plugin/images/deteccion.png">
+                            </div>
+                        </div>
+
+                        <!-- <div class="card">
+                        <a href="https://drive.google.com/file/d/1bu1d9xRoi6oVqsJv83CFbayglsGf0dbM/view">Responsabilidades de Madres, Padres y Tutores Legales. </a>
+                            <div class="container-img"><img class="imagen-card" src="../../rs-plugin/images/familia.png">
+                            </div>
+                        </div> -->
+
+                        <!-- <div class="card">
+                        <a href="https://drive.google.com/file/d/19cKbYHOEJrelM6GK4ICTsioEGp1oyW15/view">Responsabilidades de los Docentes. </a>
+                            <div class="container-img"><img class="imagen-card" src="../../rs-plugin/images/profesor.png">
+                            </div>
+                        </div> -->
+
+                        <!-- <div class="card">
+                        <a href="https://drive.google.com/file/d/1eiWARlTl8j6JKCjhN-hia8IqqEaKWrM3/view">Responsabilidades de Personal Administrativo, De Apoyo. </a>
+                            <div class="container-img"><img class="imagen-card" src="../../rs-plugin/images/support.png">
+                            </div>
+                        </div> -->
+
+                        <div class="card">
+                        <a href="https://drive.google.com/file/d/1_qZ7bVqINQNBBXhDIMr77bj8gYVlBCO_/view">Responsabilidades del Personal de Servicios Educativos Complementarios. </a>
+                            <div class="container-img"><img class="imagen-card" src="../../rs-plugin/images/teacher.png">
+                            </div>
+                        </div>
+
+                        <div class="card">
+                        <a href="https://drive.google.com/file/d/1qJrDIlYPlX3GcJzFCFNnNnrSTRo7_X5n/view">Responsabilidades de Directivos Escolares. </a>
+                            <div class="container-img"><img class="imagen-card" src="../../rs-plugin/images/equipo.png">
+                            </div>
+                        </div>
+
+                        <!-- <div class="card">
+                        <a href="https://drive.google.com/file/d/1herr_r6PNWi7vM4Vko_8gGX3MbKR035i/view">Responsabilidades de los Jefes de Sector y Supervisores(as). </a>
+                            <div class="container-img"><img class="imagen-card" src="../../rs-plugin/images/care.png">
+                            </div>
+                        </div> -->
+
+                        <div class="card">
+                        <a href="https://drive.google.com/file/d/1AJAiXxK5Pqqwnjy1vH4Lk3TWcj7ONB05/view">Guía de observación para identificar indicadores de riesgo y detección en casos de maltrato infantil. </a>
+                            <div class="container-img"><img class="imagen-card" src="../../rs-plugin/images/prevencion.png">
+                            </div>
+                        </div>
+
+                        <div class="card">
+                        <a href="https://drive.google.com/file/d/11KbcR8oiA1eGO0utQBvtnPfqSUXsritM/view">Protocolo en situaciones de maltrato infantil. </a>
+                            <div class="container-img"><img class="imagen-card" src="../../rs-plugin/images/seguro.png">
+                            </div>
+                        </div>
+
+                        <div class="card">
+                        <a href="https://drive.google.com/file/d/1MXF5KaqSGUofZMdkgX2-6hL5brtj3e71/view">Diagrama de Flujo del Protocolo de Maltrato Infantil (Infografía). </a>
+                            <div class="container-img"><img class="imagen-card" src="../../rs-plugin/images/flujo-de-trabajo.png">
+                            </div>
+                        </div>
+
                     </div>
                     </ul>
                 </div>

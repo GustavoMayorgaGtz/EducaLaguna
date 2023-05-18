@@ -152,7 +152,7 @@ Dr. Guillermo Adame Calderón       Secretario de Educación del Estado del esta
                                 </div>
                                 <div class="owl-carousel navigation-1" data-pagination="false" data-items="1"
                                     data-autoplay="true" data-navigation="true">
-                                   <iframe width="560" height="315" src="https://www.youtube.com/embed/QOlP-YatpVU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                                   <iframe width="235" height="155" src="https://www.youtube.com/embed/QOlP-YatpVU?autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
                                 </div>

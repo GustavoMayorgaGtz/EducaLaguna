@@ -481,7 +481,7 @@ color:#ffffff;
     padding: 0px;
     box-sizing: border-box;
     display: flex;
-	justify-content: center;
+	justify-content:space-evenly;
 	flex-direction: row;
 	flex-wrap: wrap;
 	list-style: none;
@@ -505,7 +505,7 @@ color:#ffffff;
 	
 }
 .card > a{
-	-webkit-text-fill-color: wheat;
+	-webkit-text-fill-color: white;
 	height: 100%;
 	width: 100%;
 	display: flex;
@@ -513,6 +513,7 @@ color:#ffffff;
 	align-items: center;
 	grid-row: 1;
 	grid-column: 1;
+	padding: 15px;
 }
 
 .card > .container-img >{
