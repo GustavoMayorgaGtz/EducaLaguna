@@ -27,8 +27,8 @@
     <link href="css/style.css" rel="stylesheet">
     <link href="css/responsive.css" rel="stylesheet">
     <link href="css/color.css" rel="stylesheet">
-    <link href="css/index.css" rel="stylesheet">
-    <link rel="stylesheet" href="components/navstyle.css">
+    <link href="./css/index.css" rel="stylesheet">
+    <link rel="stylesheet" href="./components/navstyle.css">
 </head>
 
 <body>
@@ -60,15 +60,11 @@
                         <div class="item active">
                             <div class="headercontainer">
                                 <div class="index-header">
+                                <h1 class="upper animation animated-item-1"> Educalaguna</h1>
+                                    Subsecretaría de Educación, región Laguna Durango
                                     <img class="index-header-img" src="rs-plugin/images/secretario.jpeg" alt=""
                                         title="">
-                                    <h1 class="upper animation animated-item-1"> Educalaguna</h1>
-                                    <p class="description  animation animated-item-2 hidden-sm hidden-xs">
-                                        Subsecretaría de Educación de la Laguna de Durango
-                                        
-                                        <br>
-                                        "Presentación del Subsecretario Dr. Ulises Adame de León"
-                                    </p>
+                                
                                 </div>
                             </div>
                         </div>
@@ -82,27 +78,29 @@
                     <div class="row">
                         <div class="col-sm-12 col-md-9">
                             <div class="row">
-                                <div  class="col-md-12" style="text-align:justify;" ><b>PLANTEAMIENTO</b> <br> Brindar a la población la oportunidad de acceso al servicio educativo, en la modalidad que requiera. Elevar la calidad de la educación, abatir el rezago educativo y ampliar la cobertura de atención. Dinamizar los procesos de planeación, organización, seguimiento y evaluación de programas, proyectos y acciones institucionales educativas. Adecuar permanentemente los planes y programas de estudio, a las características y valores culturales de las distintas etnias de la Entidad. Diversificar los modelos de enseñanza, con base en las características económicas, sociales y culturales de individuos y grupos. Potenciar en los alumnos el desarrollo de las capacidades cognitivas, habilidades y aptitudes. Impulsar la formación en valores, a efecto de preparar a los alumnos para asumir sus responsabilidades sociales y enfrentar con éxito los retos del futuro. Incorporar a la educación el uso de la tecnología y de los sistemas modernos de información. Impulsar las competencias pedagógicas del docente, para el desarrollo de procesos innovadores y creativos en el aula. Organizar y capacitar a los equipos técnico-pedagógicos, para que realicen la asesoría tutorial. Valorar la eficiencia en el desempeño profesional de los maestros. Propiciar la recuperación de la función técnico-pedagógico de directores y supervisores. Hacer eficiente la función de los consejos técnicos y academias de maestros. Reforzar la figura del docente indígena. Integrar en un solo organismo, las instancias que efectúan acciones de formación, capacitación y actualización profesional del magisterio. Promover el sentido de corresponsabilidad entre escuela-comunidad, mediante el adecuado funcionamiento de los consejos escolares, municipales y estatal de participación social. Sensibilizar a la comunidad para lograr la conservación y mejoramiento de los espacios educativos. Promover entre los padres de familia, su participación comprometida con la educación. Establecer coordinación con los diversos sectores, en beneficio de la educación.</div>
+                                <div  class="col-md-12" style="text-align:justify; font-size: medium;" ><b> Dr. Fernando Ulises Adama de León.</b> <br>
+
+<br>Bienvenidos a Educalaguna, un espacio educativo digital de la Subsecretaría de Educación, Región Laguna, en donde encontraran información relevante para fortalecer la práctica educativa de los docentes de México. 
+
+<br>
+El objetivo es fortalecer el proceso de enseñanza de los maestros y enriquecer el aprendizaje de los estudiantes, implementando los contenidos, estrategias y herramientas educativas que la página proporciona.
+
+<br>
+Educalaguna presenta el proyecto de intervención MediaDUR, un espacio destinado para la intervención en la convivencia escolar, mediante la experiencia de la lectura en un medio digital a través de hipervínculos.
+
+<br>
+Los sistemas hipermedia ofrecen un mecanismo basado en el uso de un dispositivo digital que puede simplificar el proceso de búsqueda y aumentar la relación entre la información útil encontrada y el tiempo invertido.
+
+<br>
+Estos sistemas también apoyan la creación de vistas alternativas sobre la misma base de datos de información; incluye tanto las herramientas necesarias para crear y recorrer una red de enlaces dentro de una base de datos de documentos.</div>
                             </div>
                             <hr />
-                            <div class="row">
-                                <div class="col-md-12" style="text-align:justify;"><b>DR. JOSÉ GUILLERMO ADAME CALDERÓN <br> SECRETARIO DE EDUCACIÓN</b> <br> La historia nos ha demostrado que las sociedades que invierten en educación se transforman, en el corto tiempo, en comunidades armónicas, sustentables y de crecimiento sostenido.<br>
-En este sentido, es claro, que la inversión que se requiere para un Sistema Educativo de Calidad, requiere de aspectos que van más allá de los recursos económicos.<br>
-En Durango, estamos ciertos, contamos con un magisterio enérgico, propositivo y que se adapta al cambio, según las circunstancias que se presenten. Debemos aprovechar con inteligencia, con actitud, visión y compromiso, pero sobre todo con voluntad, la capacidad intelectual, conocimientos y experiencias y con ello, construir un modelo educativo que responda con mayor claridad a las necesidades educativas que tenemos y así configurar el tejido social que estamos deseando, para una convivencia social digna de los seres humanos que somos.<br>
-Nuestra mayor riqueza está en nuestra niñez y juventud, ellos son nuestro compromiso y el motivo de nuestro trabajo diario, son el motivo que tenemos para idear y consolidar un horizonte más promisorio.<br>
-Nuestro mayor empuje está en nuestras maestras y maestros, en todos los trabajadores de la educación; con un ejército de tal magnitud podemos crear la dinámica necesaria para que todas nuestras instituciones educativas se conviertan en centros donde se adquieran conocimientos, se transformen y se conviertan en ciencia nueva que se aplica y se convierta en tecnología revolucionaria.<br>
-En los cuerpos de coordinación, jefaturas de área, supervisión de zona y de sector tenemos una fuerza de apoyo y acompañamiento que amalgama experiencia y preparación, docencia y profesionalización orientadas a la solución de retos y desafíos que se presentan en la cotidiana acción de la enseñanza y el aprendizaje. El confinamiento social nos dio clara muestra de la determinación con la que los padres de familia actúan para hacer que sus hijos se formen en los diferentes trayectos educativos y lo sigan haciendo fuera del aula.<br>
-Con la voluntad conjunta de todos estos sectores poblacionales, con la interacción de las instituciones, con el apoyo de los tres ordenes de gobierno y el valioso aporte de los diferentes sectores sociales, podemos construir un proyecto y modelo educativo que haga que Durango se sitúe dentro de los primeros cinco lugares en calidad educativa en el país.<br>
-Esa es nuestra visión y en ello centramos toda nuestra energía y la suma de todos los esfuerzos.<br>
-Por una Educación con Valor.<br>
-Dr. Guillermo Adame Calderón       Secretario de Educación del Estado del estado de Durango
-</div>
-                            </div>
+                         
                             <hr />
                             <div class="row">
                                 <b>Secretaría de Educación del Estado de Durango  </b><br>
-                                <div class="col-sm-6 col-md-6" style="text-align:justify;">Anunciamos, ante los medios de comunicación, las estrategias de prevención de adicciones, que se aplicará en las escuelas, con los docentes, estudiantes y, en el caso de Durango, con los padres de familia..</div>
-                                <div class="col-sm-6 col-md-6" style="text-align:justify;">Al sumarnos a esta campaña, nuestro estado se coloca como una entidad que se ocupa y se preocupa en temas de sensibilidad social.</div>
+                                <div class="col-sm-6 col-md-6" style="text-align:justify; font-size: medium;">Anunciamos, ante los medios de comunicación, las estrategias de prevención de adicciones, que se aplicará en las escuelas, con los docentes, estudiantes y, en el caso de Durango, con los padres de familia..</div>
+                                <div class="col-sm-6 col-md-6" style="text-align:justify; font-size: medium;">Al sumarnos a esta campaña, nuestro estado se coloca como una entidad que se ocupa y se preocupa en temas de sensibilidad social.</div>
                             </div>
                             <hr />
                         </div>
@@ -147,7 +145,7 @@ Dr. Guillermo Adame Calderón       Secretario de Educación del Estado del esta
                                 </ul> -->
                             </div>
                             <div class="widget">
-                                <div class="widget-title">
+                                <!-- <div class="widget-title">
                                     <h3 class="title">Multimedia</h3>
                                 </div>
                                 <div class="owl-carousel navigation-1" data-pagination="false" data-items="1"
@@ -156,7 +154,7 @@ Dr. Guillermo Adame Calderón       Secretario de Educación del Estado del esta
 
 
                                 </div>
-                            </div>
+                            </div> -->
                             <div class="widget">
                                 <div class="widget-title">
                                     <h3 class="title">Directorio</h3>
@@ -358,7 +356,7 @@ Dr. Guillermo Adame Calderón       Secretario de Educación del Estado del esta
                                             <!-- Name -->
                                             <strong class="text-color2">DR. FERNANDO ULISES ADAME DE LEÓN</strong>
                                             <!-- Company -->
-                                            <p>Secretaría de Educación del Estado de Durango.</p>
+                                            <p>Subsecretaría de Educación del Estado de Durango.</p>
                                         </div>
                                     </div>
                                 </div>
@@ -377,11 +375,10 @@ Dr. Guillermo Adame Calderón       Secretario de Educación del Estado del esta
                                 <div class="widget-title">
                                     <h3 class="title">Acerca de nosotros</h3>
                                 </div>
-                                <p style="text-align:justify;">Establecer criterios de actuación y atención al interior de las escuelas de  Básica, que fortalezcan los mecanismos de prevención en la generación de ambientes escolares propicios para el aprendizaje, salvaguardando la integridad física y
-                                    psicológica de la comunidad escolar, apegado a los derechos humanos.</p>
+                                <p style="text-align:justify;">Establecer criterios de actuación y atención al interior de las escuelas de  Básica, que fortalezcan los mecanismos de prevención en la generación de ambientes escolares propicios para el aprendizaje, salvaguardando la integridad física y psicológica de la comunidad escolar, apegado a los derechos humanos.</p>
                                 <p>
-                                    <strong>Office:</strong>
-                                    <br />No. 12, Ribon Building,
+                                    <strong>Email:</strong>
+                                    <br />contacto@educalaguna.gob.mx
                                     <br />Gómez Palacio, Mx.
                                 </p>
                                 <p>
@@ -427,7 +424,7 @@ Dr. Guillermo Adame Calderón       Secretario de Educación del Estado del esta
                                 </table></div>
                                 </p>
                                 <div class="social-icon gray-bg icons-circle i-3x">
-                                    <a href="https://www.facebook.com/MediaDUR/">
+                                    <a href="https://www.facebook.com/seedlag?mibextid=ZbWKwL">
                                         <i class="fa fa-facebook"></i>
                                     </a>
                                     <a href="https://twitter.com/MediaDur_@">
@@ -442,23 +439,18 @@ Dr. Guillermo Adame Calderón       Secretario de Educación del Estado del esta
                                 <nav>
                                     <ul class="footer-blog">
                                         <li>
-                                            <p>Sitio web</p>
+                                            <p>Maestros mejor preparados en el gobierno de Esteban con las Caravanas de la Nueva Escuela Mexicana</p>
                                             <a href="#"></a>
                                         </li>
                                         <li>
-                                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet repellat
-                                                officia eius quo tenetur dolor!</p>
-                                        </li>
-                                        <li>
-                                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ducimus nulla
-                                                ullam vel velit harum distinctio.</p>
+                                            <p>Revoluciona Gobierno de Esteban Villegas Villarreal la educación en Durango; niños aprenderán ahora en aulas digitales</p>
                                         </li>
                                     </ul>
                                 </nav>
                             </div>
                             <div class="col-xs-12 col-sm-6 col-md-4 widget">
                                 <div class="widget-title">
-                                    <h3 class="title">Envianos un mensaje</h3>
+                                    <h3 class="title">Envia un mensaje</h3>
                                 </div>
                                 <p class="form-message" style="display: none;"></p>
                                 <div class="contact-form">
@@ -493,8 +485,10 @@ Dr. Guillermo Adame Calderón       Secretario de Educación del Estado del esta
                     <div class="container">
                         <div class="row">
                             <br />
-                            <a href="#">Terminos y Condiciones</a> /
-                            <a href="#">Politica y Privacidad</a>
+                            <a href="https://educacion.durango.gob.mx/"><u>© 2023 <b>|</b> Secretaría de Educación del Estado de Durango <b>|</b></u></a> 
+                            <a href="https://www.lerdo.tecnm.mx/"><u>Tecnológico Nacional de México campus Lerdo<</a>
+                            <a href="/Tabs/creditos.php"><u> <b>|</b> Creditos Equipo de Trabajo</u></a>
+                           
                         </div>
                         <div class="col-xs-2  col-sm-6 col-md-6 text-right page-scroll gray-bg icons-circle i-3x">
                             <a href="#page">

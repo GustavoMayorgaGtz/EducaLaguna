@@ -119,13 +119,13 @@
             <!-- ENLACES DE INTERES -->
             <span class="interes-subtitle">Enlaces de <span class="interes-span">Interés</span></span>
             <div class="container-grid-opciones">
-                <img class="img-interes" onclick="window.location.href='https://contraloria.durango.gob.mx/'"
-                    src="../rs-plugin/images/SECOED.svg">
-                <img class="img-interes" onclick="window.location.href='https://home.inai.org.mx/'"
-                    src="../rs-plugin/images/INAI.png">
-                <img class="img-interes" onclick="window.location.href='https://www.plataformadetransparencia.org.mx/'"
+                <img class="img-interes" style="height: 120px; width: 120px;" onclick="window.location.href='https://www.facebook.com/CIIDE.DURANGO/'"
+                    src="../rs-plugin/images/CIDELOGO.png">
+                <img class="img-interes" style="height: 120px; width: 120px;" onclick="window.location.href='https://www.lerdo.tecnm.mx/'"
+                    src="../rs-plugin/images/itsllogo.png">
+                <img class="img-interes" style="height: 120px; width: 180px;" onclick="window.location.href='https://www.plataformadetransparencia.org.mx/'"
                     src="../rs-plugin/images/plataformaNacional.png">
-                <img class="img-interes" onclick="window.location.href='https://idaip.org.mx/sitio/'"
+                <img class="img-interes" style="height: 120px; width: 240px;" onclick="window.location.href='https://idaip.org.mx/sitio/'"
                     src="../rs-plugin/images/IDAIP.png">
             </div>
         </section>
@@ -145,8 +145,9 @@
                     <div class="row">
                         <!-- <div class="col-xs-10 col-sm-6 col-md-6"> &copy; 2021 <a href="http://deciide.com.mx">deciide.com.mx</a>. Apoyo educativo. -->
                         <br />
-                        <a href="#">Terminos y Condiciones</a> /
-                        <a href="#">Politica y Privacidad</a>
+                        <a href="https://educacion.durango.gob.mx/">© 2023 | Secretaría de Educación del Estado de Durango |</a> 
+                            <a href="https://www.lerdo.tecnm.mx/">Tecnológico Nacional de México campus Lerdo</a>
+                            <a href="/Tabs/creditos.php"> | Creditos Equipo de Trabajo</a>
                     </div>
                     <div class="col-xs-2  col-sm-6 col-md-6 text-right page-scroll gray-bg icons-circle i-3x">
                         <a href="#page">

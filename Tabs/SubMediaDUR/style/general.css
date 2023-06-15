@@ -50,7 +50,7 @@ body {
 .container-title>.block {
     width: 10px;
     height: 25px;
-    background-color: rgb(72, 124, 207);
+    background-color: #147921;
 }
 
 .container-title>.title {
@@ -123,7 +123,7 @@ body {
 .container-informacion>.container-option>.option {
     margin: 10px;
     overflow: hidden;
-    background-color: rgb(38, 74, 157);
+    background-color: #147921;
     color: white;
     width: 20px;
     min-width: 20px;

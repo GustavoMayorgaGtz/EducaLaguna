@@ -48,18 +48,83 @@
         $nav->setTitle('Protocolos de Actuación');
         $nav->setHaveLogout(true);
         $nav->setHaveDropdown(true);
+
         $nav->render();
         $nav->setHaveLogin(false);
         ?>
         <!-- page-section -->
         <div class="section">
-            <div class="container-information">
-            <p>Los Protocolos de Actuación <b>MediaDUR</b> surgieron como propuesta de intervención derivada de la investigación <b>Protocolos de Actuación en Materia de Convivencia en Educación Básica</b> con <b>Folio: 2020_UJV_INV_64</b>, desarrollada por el <b>Dr. Gerardo de J. Garza Rosales</b> de la <b>Unidad del CIIDE “Profr. José Santos Valdés”</b> de Lerdo, Durango. En colaboración con el Lic. Leoncio Ortiz López  Coordinador del departamento de Participación Social de la Subsecretaría se implemento MediaDUR en el sitio educalaguna.
-</p>
-<p> <b>MediaDUR</b> busca ser un concepto diferente en el proceso informativo del docente, a traves de medios digitales.</p>
-            </div>
 
-            <div class="container">
+
+            <table class="tablas">
+                <tr>
+                    <td>
+                        <div class="container-video">
+                            <iframe src="https://www.youtube.com/embed/QOlP-YatpVU?autoplay=1"
+                                title="YouTube video player" frameborder="0"
+                                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                                allowfullscreen=""></iframe>
+                        </div>
+                    </td>
+                    <td>
+                        <div class="container-information">
+                            <p>Los Protocolos de Actuación MediaDUR surgieron como propuesta de intervención derivada de
+                                la investigación Protocolos de Actuación en Materia de Convivencia en Educación Básica
+                                con Folio: 2020_UJV_INV_64, desarrollada por el Dr. Gerardo de J. Garza Rosales de la
+                                Unidad del CIIDE “Profr. José Santos Valdés” de Lerdo, Durango. En colaboración con el
+                                Lic. Leoncio Ortiz López Coordinador del departamento de Participación Social de la
+                                Subsecretaría se implementó MediaDUR en el sitio educalaguna.
+                                MediaDUR busca ser un concepto diferente en el proceso informativo del docente, a través
+                                de medios digitales.
+                            </p>
+
+                        </div>
+                    </td>
+                    <td>
+
+                    </td>
+                </tr>
+            </table>
+
+            <section class="menu-protocol">
+                <div class="card-menu-protocol option1">
+                    <div class="container-img">
+                        <img src="./resources/abuse.jpg" alt="" class="iconoption">
+                    </div>
+                    <div class="title-menu-protocol">
+                        Abuso sexual infantil
+                    </div>
+                </div>
+
+                <div class="card-menu-protocol option2">
+                    <div class="container-img">
+                        <img src="./resources/acoso.png" alt="" class="iconoption">
+                    </div>
+                    <div class="title-menu-protocol">
+                        Acoso escolar
+                    </div>
+                </div>
+
+                <div class="card-menu-protocol option3">
+                    <div class="container-img">
+                        <img src="./resources/boy.png" alt="" class="iconoption">
+                    </div>
+                    <div class="title-menu-protocol">
+                        Maltrato infantil
+                    </div>
+                </div>
+
+                <div class="card-menu-protocol option4">
+                    <div class="container-img">
+                        <img src="./resources/bag.png" alt="" class="iconoption">
+                    </div>
+                    <div class="title-menu-protocol">
+                    Mochila segura
+                    </div>
+                </div>
+
+            </section>
+            <!-- <div class="container">
                 <ul class="lista-links">
                     <li class="opcions"><a href="<?php echo $nav->host; ?>/Tabs/SubMediaDUR/M_AbSxInf.php">Abuso Sexual
                             Infantil</a></li>
@@ -70,7 +135,7 @@
                     <li class="opcions"><a href="<?php echo $nav->host; ?>/Tabs/SubMediaDUR/M_MoSe.php">Mochila
                             segura</a></li>
                 </ul>
-            </div>
+            </div> -->
         </div>
         <!--Footer -->
         <footer id="footer">
@@ -79,8 +144,10 @@
                     <div class="row">
                         <div class="col-xs-10 col-sm-6 col-md-6"> &copy; 2023. Apoyo educativo. <br />
                             <br />
-                            <a href="#">Terminos y Condiciones</a> /
-                            <a href="#">Politica y Privacidad</a>
+                            <a href="https://educacion.durango.gob.mx/">© 2023 | Secretaría de Educación del Estado de
+                                Durango |</a>
+                            <a href="https://www.lerdo.tecnm.mx/">Tecnológico Nacional de México campus Lerdo</a>
+                            <a href="/Tabs/creditos.php"> | Creditos Equipo de Trabajo</a>
                         </div>
                         <div class="col-xs-2  col-sm-6 col-md-6 text-right page-scroll gray-bg icons-circle i-3x">
                             <a href="#page">

@@ -59,7 +59,7 @@ if (!isset($_SESSION['login'])) {
         ?>
         <section class="page-section page-section-video">
             <div class="futuro-video">
-                <p><iframe width="731" height="411" src="https://www.youtube.com/embed/Tn14pS8lS6c?autoplay=1&loop=1" title="Responsabilidad de Madres y Padres Protocolos de Actuación" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; loop" allowfullscreen></iframe></p>
+                <p><iframe width="731" height="411" src="https://www.youtube.com/embed/iD-OTGLXj-8" title="Acoso Escolar indicadores Protocolos de Actuación" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
             </div>
         </section>
         <!-- <h4 style="text-align: center; font-weight: bolder">
@@ -160,8 +160,9 @@ if (!isset($_SESSION['login'])) {
                     <div class="row">
                         <div class="col-xs-10 col-sm-6 col-md-6"> &copy; 2023. Apoyo educativo. <br />
                             <br />
-                            <a href="#">Terminos y Condiciones</a> /
-                            <a href="#">Politica y Privacidad</a>
+                             <a href="https://educacion.durango.gob.mx/">© 2023 | Secretaría de Educación del Estado de Durango |</a> 
+                            <a href="https://www.lerdo.tecnm.mx/">Tecnológico Nacional de México campus Lerdo</a>
+                            <a href="/Tabs/creditos.php"> | Creditos Equipo de Trabajo</a>
                         </div>
                         <div class="col-xs-2  col-sm-6 col-md-6 text-right page-scroll gray-bg icons-circle i-3x">
                             <a href="#page">

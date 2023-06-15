@@ -125,16 +125,34 @@ a, a:hover{
 			opacity: 1;
 }
 /* Mega Menu */
-li.mega-menu{
+.mega-menu-deslizable{
+	text-align: center;
 	position: static;
+	width: 158px;
+	padding: 4px 4px;
+	height: 60px;
+	font-size: larger;
 }
-.mega-menu .dropdown-menu{
-	left: 0;
-	right: 0;
-	max-width: 100% !important;
-	min-width: 100% !important;
-	padding: 20px 20px;
-	margin-left: 0px !important;
+
+li.mega-menu{
+	text-align: center;
+	justify-content: center;
+	align-items: center;
+	position: static;
+	width: 150px;
+	padding: 7px 7px;
+	height: 60px;
+	font-size: larger;
+
+}
+.dropdown-menu{
+		left: 0;
+		right: 0;
+		max-width: 100% !important;
+		min-width: 100% !important;
+		margin-left: 0px !important;
+		position: absolute; /* Agregado */
+		top: 100%; /* Agregado */	  
 }
 /* Fix The Logo On Right */
 .navbar-brand.right-brand{

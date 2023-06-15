@@ -13,22 +13,105 @@
     box-shadow: -5px 5px 5px rgba(0, 0, 0, 0.068);
 }
 
+tr{
+    display: flex;
+    align-items: center;
+    
+}
+
+td:hover {
+    transition: all 0.2s;
+    scale: 1.25;
+    background-color: #f0f0f0;
+  }
+
+td {
+    padding: 10px;
+    border-bottom: 1px solid #ddd;
+  }
+
 .container-information{
+   text-align: center;
+   display: flex;
    margin: 0px 20px 20px 20px;
-   border: 1px solid rgb(219, 219, 219);
    padding: 15px;
    width: 70%;
-   max-width: 800px;
    min-width: 300px;
    border-radius: 8px;
    box-shadow: -5px 5px 5px rgba(0, 0, 0, 0.068);
 }
 
+
+.container-video {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200px; /* Ajusta la altura según tus necesidades */
+    width: 450px;
+    border: 1px solid rgb(219, 219, 219);
+  }
+  
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+  }
 .section{
     padding: 25px 10px;
     display: flex;
     flex-direction: column;
     align-items: center;
+}
+
+.menu-protocol
+{
+    width: 100%;
+    height: min-content;
+    display: flex;
+    justify-content: center;
+}
+
+.menu-protocol > .option1{
+    background-color: rgb(180, 182, 45);
+}
+.menu-protocol > .option2{
+    background-color: rgb(177, 41, 41);
+}
+.menu-protocol > .option3{
+    background-color: rgb(101, 179, 59);
+}
+.menu-protocol > .option4{
+    background-color: rgb(49, 100, 171);
+}
+
+.menu-protocol > .card-menu-protocol{
+    width: 200px;
+    height: 250px;
+    box-shadow: -5px 5px 5px rgba(0, 0, 0, 0.126);
+    border-radius: 10px;
+    border:1px solid rgb(160, 160, 160);
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    padding: 10px;
+    box-sizing: border-box;
+    margin: 20px;
+}
+.menu-protocol >  .card-menu-protocol > .container-img{
+    width: 90%;
+    height: auto;
+    margin: auto;
+    filter: invert(1);
+}
+.menu-protocol >  .card-menu-protocol > .title-menu-protocol{
+    font-family: 'Mukta', sans-serif; 
+    color:rgb(255, 255, 255);
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    font-weight: bold;
+    font-size: 20px;
 }
 
 @keyframes slide{
