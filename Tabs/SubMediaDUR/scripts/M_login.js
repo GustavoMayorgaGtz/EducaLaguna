@@ -43,54 +43,67 @@ const formulario = document.getElementById("formulario").addEventListener("submi
 
     //Obtener tipo de usuario 
     const userType = document.getElementById("user-type").value;
-    
+
     //obtener grado
-    var grade = document.querySelector('input[name="role"]:checked')?document.querySelector('input[name="role"]:checked').value:null;
+    var grade = document.querySelector('input[name="role"]:checked') ? document.querySelector('input[name="role"]:checked').value : null;
 
     //tipo de secundaria
-    var type = document.querySelector('input[name="type"]:checked')?document.querySelector('input[name="type"]:checked').value:null;
+    var type = document.querySelector('input[name="type"]:checked') ? document.querySelector('input[name="type"]:checked').value : null;
 
     // validando salidas
     if (userType && grade) {
         if (userType === "docente" && grade === "secundaria") {
-            if(type){
-               const data = {
-                userType,
-                grade,
-                type
-               }
+            if (type) {
+                const data = {
+                    userType,
+                    grade,
+                    type
+                }
 
-               //Peticion a php
-               fetch(url, {
-                method: 'POST',
-                headers: {
-                  'Content-Type': 'application/json'
-                },
-                body: JSON.stringify(data)
-              })
-               .catch((err) => {
-                console.log(err);
-               })
-            }else{
+                //Peticion a php
+                fetch("http://localhost:8000/Tabs/SubMediaDUR/php/login.php", {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json'
+                    },
+                    body: JSON.stringify(data)
+                })
+                .then(response => response.json())
+                .then(data => {
+                  // Manipular los datos de respuesta en formato JSON
+                  console.log(data);
+                })
+                .catch(error => {
+                  // Manejar el error
+                  console.log(error);
+                });
+            } else {
                 alert("selecciona todos los campos.");
             }
-        }else{
+        } else {
             const data = {
-             userType,
-             grade
+                userType,
+                grade
             }
 
             //Peticion a php
-            fetch(url, {
-             method: 'POST',
-             headers: {
-               'Content-Type': 'application/json'
-             },
-             body: JSON.stringify(data)
-           })
-            .catch((err) => {
-             console.log(err);
+            fetch("http://localhost:8000/Tabs/SubMediaDUR/php/login.php", {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify(data)
             })
+                .then(response => response.text())
+                .then(data => {
+                    // Manipular los datos de respuesta en formato JSON
+                    console.log(data);
+                })
+                .catch(error => {
+                    // Manejar el error
+                    console.log("error")
+                    console.log(error);
+                });
         }
     } else {
         alert("selecciona todos los campos.");
