@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Menú de Inicio de Sesión</title>
+</head>
+<link rel="stylesheet" href="./style/login.css">
+<body>
+    <div class="container-primary">
+        <nav>
+            <div class="back">
+                Pagina_Principal/Regresar
+            </div>
+        </nav>
+    
+        
+        <form action="#" method="post" class="formulario" id="formulario">
+            <h2>Menú de Inicio de Sesión</h2>
+            <label for="user-type">Selecciona tu tipo de usuario:</label>
+            <select id="user-type" name="user-type">
+                <option disabled selected>Selecciona tipo</option>
+                <option value="alumno">Alumno</option>
+                <option value="docente">Docente</option>
+                <option value="padre">Padre/Madre de familia o Tutor</option>
+            </select>
+            <br><br>
+    
+            <div id="role-selection">
+                <label>Elige tu rol:</label><br>
+                <input type="radio" id="role-preescolar" name="role" value="preescolar">
+                <label for="role-preescolar">Preescolar</label><br>
+                <input type="radio" id="role-primaria" name="role" value="primaria">
+                <label for="role-primaria">Primaria</label><br>
+                <input type="radio" id="role-secundaria" name="role" value="secundaria">
+                <label for="role-secundaria">Secundaria</label><br>
+                <input type="radio" id="role-media-superior" name="role" value="media-superior">
+                <label for="role-media-superior">Media Superior</label><br>
+                <input type="radio" id="role-superior" name="role" value="superior">
+                <label for="role-superior">Superior</label><br>
+            </div>
+    
+            <div id="type-selection">
+                <label>Tipo:</label><br>
+                <input type="radio" id="type-general" name="type" value="general">
+                <label for="type-general">General</label><br>
+                <input type="radio" id="type-tecnica" name="type" value="tecnica">
+                <label for="type-tecnica">Técnica</label><br>
+                <input type="radio" id="type-estatal" name="type" value="estatal">
+                <label for="type-estatal">Estatal</label><br>
+                <input type="radio" id="type-telesecundaria" name="type" value="telesecundaria">
+                <label for="type-telesecundaria">Telesecundaria</label><br>
+            </div>
+    
+            <input type="submit" value="Iniciar sesión" class="login">
+        </form>
+    
+    </div>
+  
+    <script src="./scripts/M_login.js"></script>
+</body>
+</html>

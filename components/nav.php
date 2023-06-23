@@ -4,7 +4,7 @@ class Nav {
     private bool $have_dropdown;
     private bool $have_login;
     private string $title;
-    public string $host = 'http://localhost:8000';
+    public string $host = 'http://localhost/DECIDE';
     public function __construct() {
         $this->have_logout = false;
         $this->have_dropdown = false;
@@ -53,11 +53,7 @@ class Nav {
                                         <ul class="nav navbar-nav">
                                             <li class="mega-menu">
                                                 <a href="<?php echo $this->host; ?>/index.php" style="font-weight: bold;">Principal</a>
-                                            </li>
-                                            <li class="mega-menu">
-                                                <a href="<?php echo $this->host; ?>/Tabs/objetivos.php">Acerca de</a>
-                                            </li>
-                                            
+                                            </li>                                            
                                             <li class="mega-menu-deslizable">
                                                 <a href="<?php echo $this->host; ?>/Tabs/SubMediaDUR/M_Principal.php">MediaDUR</a>
                                                 <?php if( $this->have_dropdown ) { ?>
@@ -94,23 +90,6 @@ class Nav {
                 <?php
                 } 
                 if( strlen($this->title) > 0 ) {
-                    if(strlen($this->title)==strlen('Protocolos De Actuación'))
-                    {
-                    ?>
-                    
-                    <div class="page-header">
-                        <div class="container">
-                            <div class="col-md-12">
-                                <h1 class="nav-title"><?php echo $this->title; ?> <img src="../../rs-plugin/images/MediaDUR.png" alt="" style="width: 200px; height:100px; " ></h1> 
-                            </div>
-                            
-                         
-                        
-                        </div>
-                    </div>
-                    <?php
-                }
-                else
                 {
                    ?>
                      <div class="page-header">

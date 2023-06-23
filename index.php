@@ -33,11 +33,12 @@
 
 <body>
     <div id="page">
-        <!-- Page Loader -->
-        <div id="pageloader">
+        <!-- Page Loader --> 
+        <div id="pageloader">     
             <div class="loader-item fa fa-spin text-color"></div>
         </div>
-        <!-- Header -->
+        
+        <!-- HEADER -->
         <?php
         require 'components/nav.php';
         $nav = new Nav();
@@ -62,9 +63,21 @@
                                 <div class="index-header">
                                 <h1 class="upper animation animated-item-1"> Educalaguna</h1>
                                     Subsecretaría de Educación, región Laguna Durango
-                                    <img class="index-header-img" src="rs-plugin/images/secretario.jpeg" alt=""
-                                        title="">
-                                
+                                    <div class="index-header-img"><video id="myVideo" class="index-header-img-vid" src="rs-plugin\images\Educalaguna.mp4" autoplay muted></video>
+                                     <img id="myImage" class="index-header-img-vid hidden" src="rs-plugin/images/secretario.jpeg" alt="" title="">
+                                    </div>
+
+                                    <script>
+        var video = document.getElementById("myVideo");
+        var image = document.getElementById("myImage");
+
+        video.addEventListener('ended', function() {
+            video.style.display = "none";  // Oculta el video
+            image.classList.remove("hidden"); // Muestra la imagen quitando la clase 'hidden'
+            image.classList.add("fade-in"); // Agrega la clase 'fade-in' para activar la animación
+        });
+    </script>
+                                    
                                 </div>
                             </div>
                         </div>
@@ -78,7 +91,7 @@
                     <div class="row">
                         <div class="col-sm-12 col-md-9">
                             <div class="row">
-                                <div  class="col-md-12" style="text-align:justify; font-size: medium;" ><b> Dr. Fernando Ulises Adama de León.</b> <br>
+                                <div  class="col-md-12" style="text-align:justify; font-size: medium;" ><b>Dr. Fernando Ulises Adame de Leon</b> <br>Presentación del Dr. Fernando Ulises Adame de León.
 
 <br>Bienvenidos a Educalaguna, un espacio educativo digital de la Subsecretaría de Educación, Región Laguna, en donde encontraran información relevante para fortalecer la práctica educativa de los docentes de México. 
 
@@ -95,14 +108,56 @@ Los sistemas hipermedia ofrecen un mecanismo basado en el uso de un dispositivo 
 Estos sistemas también apoyan la creación de vistas alternativas sobre la misma base de datos de información; incluye tanto las herramientas necesarias para crear y recorrer una red de enlaces dentro de una base de datos de documentos.</div>
                             </div>
                             <hr />
-                         
-                            <hr />
                             <div class="row">
-                                <b>Secretaría de Educación del Estado de Durango  </b><br>
-                                <div class="col-sm-6 col-md-6" style="text-align:justify; font-size: medium;">Anunciamos, ante los medios de comunicación, las estrategias de prevención de adicciones, que se aplicará en las escuelas, con los docentes, estudiantes y, en el caso de Durango, con los padres de familia..</div>
-                                <div class="col-sm-6 col-md-6" style="text-align:justify; font-size: medium;">Al sumarnos a esta campaña, nuestro estado se coloca como una entidad que se ocupa y se preocupa en temas de sensibilidad social.</div>
+                                <div class="col-md-12" style="text-align:justify; font-size: medium;"><b>DR. JOSÉ GUILLERMO ADAME CALDERÓN <br> SECRETARIO DE EDUCACIÓN</b> <br> La historia nos ha demostrado que las sociedades que invierten en educación se transforman, en el corto tiempo, en comunidades armónicas, sustentables y de crecimiento sostenido.<br>
+En este sentido, es claro, que la inversión que se requiere para un Sistema Educativo de Calidad, requiere de aspectos que van más allá de los recursos económicos.<br>
+En Durango, estamos ciertos, contamos con un magisterio enérgico, propositivo y que se adapta al cambio, según las circunstancias que se presenten. Debemos aprovechar con inteligencia, con actitud, visión y compromiso, pero sobre todo con voluntad, la capacidad intelectual, conocimientos y experiencias y con ello, construir un modelo educativo que responda con mayor claridad a las necesidades educativas que tenemos y así configurar el tejido social que estamos deseando, para una convivencia social digna de los seres humanos que somos.<br>
+Nuestra mayor riqueza está en nuestra niñez y juventud, ellos son nuestro compromiso y el motivo de nuestro trabajo diario, son el motivo que tenemos para idear y consolidar un horizonte más promisorio.<br>
+Nuestro mayor empuje está en nuestras maestras y maestros, en todos los trabajadores de la educación; con un ejército de tal magnitud podemos crear la dinámica necesaria para que todas nuestras instituciones educativas se conviertan en centros donde se adquieran conocimientos, se transformen y se conviertan en ciencia nueva que se aplica y se convierta en tecnología revolucionaria.<br>
+En los cuerpos de coordinación, jefaturas de área, supervisión de zona y de sector tenemos una fuerza de apoyo y acompañamiento que amalgama experiencia y preparación, docencia y profesionalización orientadas a la solución de retos y desafíos que se presentan en la cotidiana acción de la enseñanza y el aprendizaje. El confinamiento social nos dio clara muestra de la determinación con la que los padres de familia actúan para hacer que sus hijos se formen en los diferentes trayectos educativos y lo sigan haciendo fuera del aula.<br>
+Con la voluntad conjunta de todos estos sectores poblacionales, con la interacción de las instituciones, con el apoyo de los tres ordenes de gobierno y el valioso aporte de los diferentes sectores sociales, podemos construir un proyecto y modelo educativo que haga que Durango se sitúe dentro de los primeros cinco lugares en calidad educativa en el país.<br>
+Esa es nuestra visión y en ello centramos toda nuestra energía y la suma de todos los esfuerzos.<br>
+Por una Educación con Valor.<br>
+Dr. Guillermo Adame Calderón       Secretario de Educación del Estado del estado de Durango
+</div>
+
+                            
                             </div>
-                            <hr />
+
+
+
+
+                            <div class="row">
+                                
+                                    <div class="border-vmo">
+                                        <h4 style="color: rgb(42, 42, 46); font-weight: bold;">Mision</h4>
+                                         <div class="col-md-12" style="text-align:justify; font-size: medium;">Ofrecer una educación de calidad, integral, participativa, innovadora y promotora del aprendizaje que nos permita formar personas comprometidas con el desarrollo sostenible, capaces de elevar su nivel de vida, el desarrollo personal y la formación de capital humano, que contribuya al impulso del desarrollo económico y social del Estado.</div>
+                               
+                                    </div>
+                                
+                            </div>
+                            
+                            <div class="row">
+                                
+                                     <div class="border-vmo">
+                                         <h4 style="color: rgb(42, 42, 46); font-weight: bold;">Vision</h4>
+                                        <div class="col-md-12" style="text-align:justify; font-size: medium;">Ser un sistema educativo sólido, con una educación para todos, con sentido humano y social, que orienta su actuación bajo el impulso de la equidad, la rendición de cuentas, la transparencia y ofrece servicios educativos, administrativos con eficiencia, calidad y pertinencia..</div>
+                                
+                                    </div>
+                                
+
+                            </div>
+                            
+
+                            
+                            <div class="border-vmo">
+                            <h4 style="color: rgb(42, 42, 46); font-weight: bold;">Objetivos</h4>
+                                <div class="col-md-12" style="text-align:justify; font-size: medium;">La Secretaría de Educación, instancia rectora de la política educativa, posee una actividad funcional que considera la planeación, operación y control de actividades diversas, cuya conducción está a cargo de un equipo humano multidisciplinario, que labora en espacios físicos variados, integrando un conjunto de fuerzas en movimiento. Ha operado con elevados niveles de efectividad, para ofrecer el servicio educativo con calidez humana.</div>
+                                <div class="col-md-12" style="text-align:justify; font-size: medium;">Tiene establecidos tanto planes estratégicos como planes operativos, metas generales, visión y misión. Los proyectos estratégicos, diseñados para alcanzar los objetivos y las metas, muestran cómo se pueden aplicar en el quehacer cotidiano, están ligados a la definición de la misión de la Dependencia, el objetivo general que justifica su existencia.</div>
+                                <div class="col-md-12" style="text-align:justify; font-size: medium;">Indudablemente, las metas son elementos fundamentales en la operatividad de la Secretaría, que se perfilan a un futuro deseable, proporcionan sentido de dirección, concentran esfuerzos, guían planes y decisiones; sirven para evaluar los avances. El grado en que se alcancen las metas, depende del desempeño de los directivos, así como de la eficacia de quienes coordinan las acciones de los niveles operativos.</div>
+                            </div>
+                            
+                            
                         </div>
                         <div class="sidebar col-sm-12 col-md-3">
 
@@ -424,11 +479,11 @@ Estos sistemas también apoyan la creación de vistas alternativas sobre la mism
                                 </table></div>
                                 </p>
                                 <div class="social-icon gray-bg icons-circle i-3x">
-                                    <a href="https://www.facebook.com/seedlag?mibextid=ZbWKwL">
-                                        <i class="fa fa-facebook"></i>
+                                    <a href="https://www.facebook.com/seedlag?mibextid=ZbWKwL" target="_blank">
+                                    <img src="rs-plugin/images/facebook.png">
                                     </a>
-                                    <a href="https://twitter.com/MediaDur_@">
-                                        <i class="fa fa-twitter"></i>
+                                    <a href="https://twitter.com/MediaDur_@" target="_blank">
+                                    <img src="rs-plugin/images/twitter.png">
                                     </a>
                                 </div>
                             </div>
@@ -473,7 +528,7 @@ Estos sistemas también apoyan la creación de vistas alternativas sobre la mism
                                                 placeholder="Mensaje" rows="3"></textarea>
                                         </div>
                                         <button class="btn btn-default" type="submit">Enviar
-                                            <i class="icon-paper-plane"></i></button>
+                                        <img src="rs-plugin/images/send.png">
                                     </form>
                                 </div>
                             </div>
@@ -492,7 +547,7 @@ Estos sistemas también apoyan la creación de vistas alternativas sobre la mism
                         </div>
                         <div class="col-xs-2  col-sm-6 col-md-6 text-right page-scroll gray-bg icons-circle i-3x">
                             <a href="#page">
-                                <i class="glyphicon glyphicon-arrow-up"></i>
+                            <i class="glyphicon"><img src="rs-plugin/images/up-arrow.png" style="justify-content: flex-start;"> </i>
                             </a>
                         </div>
                     </div>

@@ -345,6 +345,19 @@ a:focus{
 .title i{
 	margin-right:7px;
 }
+
+/*----------border-------*/
+.border-vmo{
+    font-size: 16px;
+    padding: 1px 3px;
+    border-top: 2px solid rgb(57, 167, 57);
+    animation-iteration-count: 1;
+    animation: 2s slide;
+    animation-fill-mode: forwards;
+    margin: 5px;
+   
+}
+
 /* Layout */
 section,
 .footer-widget,
@@ -870,6 +883,10 @@ i.fa-1x{
 .border2-black{
 	border:2px solid #000000;
 }
+.page>.videoproparacargar{
+	height: 100%; 
+	width: 100%;
+}
 /* Page Loader */
 #pageloader {
 	background-color:#FFFFFF;
@@ -1340,6 +1357,97 @@ i.fa-1x{
     opacity: 0.4;
     width: 100%;
 }
+
+/*----------Despliego--------------------*/
+.despliego {
+	display: flex;
+	justify-content: space-around;
+	height: 300px;
+	overflow-y:auto;
+	width: 200px;
+  }
+
+  
+
+  .listainfo > li > a {
+	display: block;
+	padding: 15px 20px;
+	color: whithe;
+	text-decoration: none;
+  }
+
+  .listainfo{
+	position: absolute;
+	display: none;
+	list-style: none;
+	width: 800px;
+	height: 300%;
+	overflow-y: none;
+	justify-content: space-around;
+  }
+
+  .despliego li:hover .listainfo{
+	display: block;
+  }
+
+.tr-tablas{
+	display: flex;
+	align-items: center;
+}
+
+/* .popup-toggle {
+	display: none;
+  }
+  
+  .popup-overlay {
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	background-color: rgba(0, 0, 0, 0.5);
+	z-index: 9999;
+	cursor: pointer;
+  }
+  
+  .popup {
+	position: fixed;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	background-color: #fff;
+	padding: 20px;
+	width: 300px;
+	text-align: center;
+	z-index: 10000;
+	opacity: 0;
+	pointer-events: none;
+	transition: opacity 0.3s ease;
+  }
+  
+  .popup-toggle:checked ~ .popup-overlay {
+	display: block;
+  }
+  
+  .popup-toggle:checked ~ .popup {
+	opacity: 1;
+	pointer-events: auto;
+  }
+  
+  .popup h2 {
+	margin-top: 0;
+  }
+  
+  .popup-cerrar {
+	display: inline-block;
+	padding: 10px 20px;
+	background-color: #ddd;
+	cursor: pointer;
+	margin-top: 10px;
+  } */
+
+
+
 .image-bg .overlay {
   background: #000;
   height: 100%;

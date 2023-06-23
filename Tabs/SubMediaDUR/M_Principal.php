@@ -56,71 +56,82 @@
         <div class="section">
 
 
-            <table class="tablas">
-                <tr>
-                    <td>
-                        <div class="container-video">
-                            <iframe src="https://www.youtube.com/embed/QOlP-YatpVU?autoplay=1"
-                                title="YouTube video player" frameborder="0"
-                                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                                allowfullscreen=""></iframe>
+        <div class="grid-container">
+                        <div class=".index-header-img">
+                            <video id="myVideo" src="../../rs-plugin/images/MediaDUR.mp4" class="index-header-img-vid" autoplay muted  ></video>
+                            <img id="myImage" class="index-header-img-vid hidden" src="../../rs-plugin/images/MediaDUR.png" alt="" title="">
                         </div>
-                    </td>
-                    <td>
-                        <div class="container-information">
-                            <p>Los Protocolos de Actuación MediaDUR surgieron como propuesta de intervención derivada de
-                                la investigación Protocolos de Actuación en Materia de Convivencia en Educación Básica
-                                con Folio: 2020_UJV_INV_64, desarrollada por el Dr. Gerardo de J. Garza Rosales de la
-                                Unidad del CIIDE “Profr. José Santos Valdés” de Lerdo, Durango. En colaboración con el
-                                Lic. Leoncio Ortiz López Coordinador del departamento de Participación Social de la
-                                Subsecretaría se implementó MediaDUR en el sitio educalaguna.
-                                MediaDUR busca ser un concepto diferente en el proceso informativo del docente, a través
-                                de medios digitales.
-                            </p>
+                        <script>
+        var video = document.getElementById("myVideo");
+        var image = document.getElementById("myImage");
 
-                        </div>
-                    </td>
-                    <td>
-
-                    </td>
-                </tr>
-            </table>
+        video.addEventListener('ended', function() {
+            video.style.display = "none";  // Oculta el video
+            image.classList.remove("hidden"); // Muestra la imagen quitando la clase 'hidden'
+            image.classList.add("fade-in"); // Agrega la clase 'fade-in' para activar la animación
+        });
+    </script>
+                    <div class="container-information">
+            <a href="#" class="toggle-information">Anexos:</a>
+            <div class="information-content ">
+                <p>Los Protocolos de Actuación MediaDUR surgieron como propuesta de intervención derivada de
+                    la investigación Protocolos de Actuación en Materia de Convivencia en Educación Básica
+                    con Folio: 2020_UJV_INV_64, desarrollada por el Dr. Gerardo de J. Garza Rosales de la
+                    Unidad del CIIDE “Profr. José Santos Valdés” de Lerdo, Durango. En colaboración con el
+                    Lic. Leoncio Ortiz López Coordinador del departamento de Participación Social de la
+                    Subsecretaría se implementó MediaDUR en el sitio educalaguna.
+                    MediaDUR busca ser un concepto diferente en el proceso informativo del docente, a través
+                    de medios digitales.
+                </p>
+            </div>
+        </div>
+        <div></div>
+            </div>
 
             <section class="menu-protocol">
                 <div class="card-menu-protocol option1">
-                    <div class="container-img">
-                        <img src="./resources/abuse.jpg" alt="" class="iconoption">
-                    </div>
-                    <div class="title-menu-protocol">
+                    <a style="accionarcadena" href="<?php echo $nav->host; ?>/Tabs/SubMediaDUR/M_AbSxInf.php">
+                        <div class="container-img">
+                           <img src="./resources/abuse.jpg" alt="" class="iconoption">
+                     </div>
+                    
+                        <div class="title-menu-protocol">
                         Abuso sexual infantil
-                    </div>
+                        </div>
+                     </a>
                 </div>
 
                 <div class="card-menu-protocol option2">
+                <a href="<?php echo $nav->host; ?>/Tabs/SubMediaDUR/M_AcEs.php">
                     <div class="container-img">
                         <img src="./resources/acoso.png" alt="" class="iconoption">
                     </div>
                     <div class="title-menu-protocol">
                         Acoso escolar
                     </div>
+                    </a>
                 </div>
 
                 <div class="card-menu-protocol option3">
+                <a href="<?php echo $nav->host; ?>/Tabs/SubMediaDUR/M_MaIn.php">
                     <div class="container-img">
                         <img src="./resources/boy.png" alt="" class="iconoption">
                     </div>
                     <div class="title-menu-protocol">
                         Maltrato infantil
                     </div>
+                </a>
                 </div>
 
                 <div class="card-menu-protocol option4">
+                <a href="<?php echo $nav->host; ?>/Tabs/SubMediaDUR/M_MoSe.php">
                     <div class="container-img">
                         <img src="./resources/bag.png" alt="" class="iconoption">
                     </div>
                     <div class="title-menu-protocol">
                     Mochila segura
                     </div>
+                </a>
                 </div>
 
             </section>
@@ -151,7 +162,7 @@
                         </div>
                         <div class="col-xs-2  col-sm-6 col-md-6 text-right page-scroll gray-bg icons-circle i-3x">
                             <a href="#page">
-                                <i class="glyphicon glyphicon-arrow-up"></i>
+                                <i class="glyphicon"><img src="../../rs-plugin/images/up-arrow.png" style="justify-content: flex-start;"> </i>
                             </a>
                         </div>
                     </div>
